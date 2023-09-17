@@ -2,10 +2,11 @@ from flask import Flask, abort, request, jsonify , Response
 from tempfile import NamedTemporaryFile
 
 
-AUDIO_RECOG = True
-FACE_RECOG = True
-TRANSCRIBE = True
-EMOTION = True
+AUDIO_RECOG = False
+FACE_RECOG = False
+TRANSCRIBE = False
+EMOTION = False
+WAKE_WORD = True
 
 if EMOTION:
         
@@ -216,6 +217,26 @@ if FACE_RECOG:
     
 
         return response #jsonify({'results': image_bytes })
+if WAKE_WORD:
+    import pvporcupine
+    import os
+    
+    pico_key = os.environ["PICOVOICE_API_KEY"]
+    #porcupine = pvporcupine.create(access_key=pico_key, keyword_paths=[porc_model_path_ppn], model_path= porc_model_path_pv)
+    #porcupine = pvporcupine.create(access_key=pico_key, keyword_paths=[porc_model_path_ppn])
+    print(pico_key)
+
+if WAKE_WORD:
+    @app.route('/wake_wprd', methods=['POST'])
+    def wakeword_recog():
+        
+        data = request.files['audio']
+        for elem in data:
+            print(elem)
+        return "sent"
+    
+
+
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port = 5001)
+    app.run(host='0.0.0.0', port = 5003)
