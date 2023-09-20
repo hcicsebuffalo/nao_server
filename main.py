@@ -2,9 +2,9 @@ from flask import Flask, abort, request, jsonify , Response
 from tempfile import NamedTemporaryFile
 
 
-AUDIO_RECOG = False
+AUDIO_RECOG = True
 FACE_RECOG = False
-TRANSCRIBE = False
+TRANSCRIBE = True
 EMOTION = False
 WAKE_WORD = True
 
@@ -60,7 +60,7 @@ if AUDIO_RECOG:
         if os.path.isfile(sample_audio_path):
             cal_audio_embedding = inference(sample_audio_path)
             cal_audio_embedding = cal_audio_embedding.reshape(1,512)
-            stored_Audio_embeddings[person_folder] = cal_audio_embedding
+            stored_Audio_embeddings[person_folder.lower()] = cal_audio_embedding
 
 if FACE_RECOG:
     
@@ -117,8 +117,8 @@ if TRANSCRIBE:
         return jsonify({'results': results})
 
 if AUDIO_RECOG:
-    @app.route('/audio_recog', methods=['POST'])
-    def audio_recog():
+    @app.route('/audio_identify', methods=['POST'])
+    def audio_identify():
         if not request.files:
             abort(400)
         results = []
@@ -140,7 +140,25 @@ if AUDIO_RECOG:
             print(out)
             results.append( [out] ) 
         return jsonify(out)
+    
+    @app.route('/audio_recog', methods=['POST'])
+    def audio_recog():
+        user = str( request.form.get('user', 'None'))
+        print(user)
+        handle =  request.files['audio']
+        temp = NamedTemporaryFile()
+        handle.save(temp)
+        
+        # results = []
 
+        curr_embedding = inference(temp.name)
+        curr_embedding = curr_embedding.reshape(1,512)
+
+        distance = cdist(stored_Audio_embeddings[user.lower()], curr_embedding, metric="cosine")
+        out = {"Sim": float(distance) }
+        # results.append( [out] ) 
+
+        return jsonify(out)
 
 def give_emotion(face, img):
     (x1,y1) = int(face['bbox'][0]), int(face['bbox'][1])
@@ -220,23 +238,43 @@ if FACE_RECOG:
 if WAKE_WORD:
     import pvporcupine
     import os
-    
+    import json
+    porc_model_path_ppn = "models/hello-kai_en_linux_v2_2_0.ppn"
     pico_key = os.environ["PICOVOICE_API_KEY"]
-    #porcupine = pvporcupine.create(access_key=pico_key, keyword_paths=[porc_model_path_ppn], model_path= porc_model_path_pv)
-    #porcupine = pvporcupine.create(access_key=pico_key, keyword_paths=[porc_model_path_ppn])
-    print(pico_key)
+    porcupine = pvporcupine.create(access_key=pico_key, keyword_paths=[porc_model_path_ppn])
+    
 
 if WAKE_WORD:
-    @app.route('/wake_wprd', methods=['POST'])
+    @app.route('/wake_word', methods=['POST'])
     def wakeword_recog():
-        
-        data = request.files['audio']
-        for elem in data:
-            print(elem)
-        return "sent"
+        int_list = json.loads(request.files['audio'].read().decode('utf-8'))
+        keyword_index = porcupine.process(int_list)
+        return jsonify(keyword_index)
     
 
+
+@app.route('/complete', methods=['POST'])
+def complete():
+    user = str( request.form.get('user', 'None'))
+    handle =  request.files['audio']
+    temp = NamedTemporaryFile()
+    handle.save(temp)
+    
+    # audio authentication
+    curr_embedding = inference(temp.name)
+    curr_embedding = curr_embedding.reshape(1,512)
+
+    distance = cdist(stored_Audio_embeddings[user.lower()], curr_embedding, metric="cosine")
+    
+    if distance > 0.7:
+        out = {"Auth": False , "Sim": float(distance), "Map" : None, "Request" : None, "Response": None }
+        return jsonify(out)
+    
+    result = whispher_model.transcribe(temp.name)
+    out = {"Auth": True , "Sim": float(distance), "Map" : None, "Request" : result['text'] , "Response": None }
+    
+    return jsonify(out)
 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port = 5003)
+    app.run(host='0.0.0.0', port = 5006)
