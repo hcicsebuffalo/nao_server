@@ -1,0 +1,671 @@
+School of Engineering and Applied Sciences
+UB HomeMapsUB Directory
+Department of Computer Science
+and Engineering
+Give to CSE Apply Now Contact Us
+About Us
+Undergraduate
+Graduate
+Research
+People
+News & Events
+Alumni
+SEARCH
+INFO FOR
+Department of Computer Science and Engineering Research Technical Reports
+Research
+Research Areas
+Research Centers, Institutes, Labs and Groups
+Research Highlights
+Research Policies
+Research Tools
+Technical Reports
+Related Links
+UB Research and Economic Development
+SEAS Research & Faculty
+Technical Reports
+Departmental technical reports may include faculty research work, doctoral dissertations, master's theses, and other student research recommended by faculty for publication.
+Technical Report Editor
+Table: CSE Technical Reports
+2023-06
+Kumar, Utkarsh. ACCELERATING BETWEENNESS CENTRALITY ON GPU (REVISED), August 25, 2023. Updated Subsequently
+2023-05
+Kumar, Utkarsh. ACCELERATING BETWEENNESS CENTRALITY ON GPU, August 21, 2023.
+2023-04
+Bagchi, Sougato. Image Enhancement for Unconstrained Environments, August 10, 2023.
+2023-03
+Chetnani, Yash Prakash. Evaluating the impact of model size on Toxicity and Stereotyping in Generative LLM, August 9, 2023.
+2023-02
+Kumar, Abhishek; Doermann, David. Forensic Methods To Detect Manipulated News Media, August 8, 2023. Modified Version
+2023-01
+Kumar, Abhishek; Doermann, David. Forensic Methods To Detect Manipulated Media, August 8, 2023.
+2021-01
+Balakrishnan, Darshana; Nuessle, Carl; Kennedy, Oliver; Ziarek, Lukasz. TreeToaster: Towards an IVM-Optimized Compiler, March 30, 2021.
+2020-01
+Choorakuzil, M; Czerniejewski, A; Jevitha, KP; Swaminathan, J; Ziarek, L; Jayaraman, B. Runtime Model Extraction of a Java-based UAV Controller, August 1, 2020.
+2019-01
+Langberg, Michael ; Li, Shi ; Mani Jayaraman, Sai Vikneshwar ; Rudra, Atri . Topology Dependent Bounds For FAQs, March 21, 2019.
+2018-03
+Balakrishnan, Darshana; Ziarek, Lukasz; Kennedy, Oliver. Just-In-Time "Index Compilation", November 13, 2018.
+2018-02
+Charapko, A; Ailijiang, A; Demirbas, M. FleetDB: Follow-the-workload Data Migration for Globe-Spanning Databases, October 25, 2018.
+2018-01
+Golshanara, Ladan. Temporal Data Exchange and Repair, August 22, 2018.
+2017-03
+Ailijiang, A. ; Charapko, A.; Demirbas, M.; Kosar, T.. WPaxos: Ruling the Archipelago with Fast Consensus, December 24, 2017.
+2017-02
+Demirbas, M.; Charapko, A.; Ailijiang, A.. Does The Cloud Need Stabilizing?, August 19, 2017.
+2017-01
+Ailijiang, A.; Charapko, A.; Demirbas, M.; Kosar, T.. Multileader WAN Paxos: Ruling the Archipelago with Fast Consensus, March 4, 2017.
+2016-08
+Charapko, A.; Ailijiang, A.; Demirbas, M.; Kulkarni, S.. Retrospective Lightweight Distributed Snapshots Using Loosely Synchronized Clocks, December 25, 2016.
+2016-07
+Çeker, Hayreddin; Upadhyaya, Shambhu. User Authentication with Keystroke Dynamics in Long-Text Data, November 25, 2016.
+2016-06
+Çeker, Hayreddin; Upadhyaya, Shambhu. Adaptive Techniques for Intra-User Variability in Keystroke Dynamics, November 25, 2016.
+2016-05
+Ailijiang, A. ; Charapko, A.; Demirbas, M.; Turkkan, B.; Kosar, T.. WanKeeper: Efficient Coordination at WAN scale, October 17, 2016.
+2016-04
+Gu, Albert ; Puttagunta, Rohan ; Re, Christopher ; Rudra, Atri . Recurrence Width for Structured Dense Matrix Vector Multiplication, October 13, 2016.
+2016-03
+Meneghetti, Niccolo. Exploiting Qualitative User Feedback in Deterministic and Probabilistic Databases, August 18, 2016.
+2016-02
+Ailijiang, A; Charapko, A; Demirbas, M. Consensus in the Cloud: Paxos Systems Demystified, March 24, 2016.
+2016-01
+Fan, Jingyuan; Guan, Chaowen; Ren, Kui; Qiao, Chunming; Cui, Yong. SPABox: Safeguarding Privacy and against Attacks at a MiddleBox, January 29, 2016.
+2015-04
+Jingyuan Fan; Chaowen Guan; Yangming Zhao; Chunming Qiao. Availability-aware Mapping of Service Function Chains, December 18, 2015.
+2015-03
+Kul, Gokhan; Upadhyaya, Shambhu. Creating a Preliminary Cyber Ontology for Insider Threats in the Financial Sector, July 29, 2015.
+2015-02
+�eker, H; Upadhyaya, S. Enhanced Recognition of Keystroke Dynamics using Gaussian Mixture Models, June 4, 2015.
+2015-01
+Gao,X; Ye,Z; Zhong,W; Qiao,C; Cao,X; Zhao,H; Yu,H; Anand,V. Virtual Network Mapping for Multicast Traffic over Elastic Optical Networks , May 22, 2015.
+2014-07
+Anand, Varun ; Dantu, Karthik; Ko, Steve Y. ; Koutsonikolas, Dimitrios . Multi-Interface Connectivity On Modern Mobile Devices, May 22, 2014.
+2014-06
+Tasci, Serafettin; Demirbas, Murat. Panopticon: An Omniscient Lock Broker for Efficient Distributed Transactions in the Datacenter, May 7, 2014.
+2014-05
+Tasci, Serafettin; Demirbas, Murat. Panopticon}: An Omniscient Lock Broker for Efficient Distributed Transactions in the Datacenter, May 7, 2014.
+2014-04
+Kulkarni, Sandeep ; Demirbas, Murat ; Madeppa, Deepak ; Avva, Bharadwaj ; Leone, Marcelo . Logical Physical Clocks and Consistent Snapshots in Globally Distributed Databases, May 7, 2014.
+2014-03
+Morse, Matthew ; Hartloff, Jesse ; Effland, Thomas ; Schuler, Jim ; Cordaro, Jennifer ; Tulyakov, Sergey ; Rudra, Atri ; Govindaraju, Venu. Secure Fingerprint Matching With Generic Local Structures, April 1, 2014.
+2014-02
+Das, Pradipto; Srihari, Rohini K.; Corso, Jason J.. NATURAL LANGUAGE SUMMARIZATION OF TEXT AND VIDEOS USING TOPIC MODELS, March 26, 2014.
+2014-01
+Yang, Zhi; Chandola, Varun. Non-parametric Depth Estimation for Images from a Single Reference Depth, February 28, 2014.
+2013-04
+Manuel, D.; Nanjundaswamy, V.; Rosenberg, B.; Shen, F.; Ko, S.; Ziarek, L.. Flow Permissions for Android, August 29, 2013.
+2013-03
+Kennedy, Oliver A; Ziarek, Lukasz. BarQL: Collaborating Through Change, August 20, 2013.
+2013-01
+Duan, Qi; Virendra, Mohit; Upadhyaya, Shambhu; Sanzgiri, Ameya. Minimum Cost Blocking Problem in Multi-path Wireless Routing Protocols, February 12, 2013.
+2012-05
+Hartlo ff, Jesse ; Bileschi, Maxwell ; Tulyakov, Sergey ; Dobler, Jimmy ; Rudra, Atri ; Govindaraju, Venu . Security analysis for fingerprint fuzzy vaults, December 21, 2012.
+2012-04
+Demirbas, M; Yilmaz, Y. S.; Bulut, M. F.. Eywa: Crowdsourced and cloudsourced omniscience, December 18, 2012.
+2012-02
+Qiao, Chunming; Gao, Xiujiao; Zhao, Yangming; Wang, Sheng; Xu, Shizhong; Wang, Xiong. Load Balance vs Energy Efficiency in Traffic Engineering: A Game Theoretical Perspective, July 27, 2012.
+2012-01
+Demirbas, M.; Tasci, S.; Kulkarni, S.. Maestro: A cloud computing framework with automated locking}, April 20, 2012.
+2011-06
+Homer, Steven; Selman, Alan L.. Turing and the Development of Computational Complexity, September 8, 2011.
+2011-05
+Chen, Tingting; Wu, Fan; Zhong, Sheng. On Designing Protocols for Non-cooperative Multi-Radio Channel Assignment in Multiple Collision Doma, August 13, 2011.
+2011-04
+Chen, Tingting; Zhong, Sheng. On Designing Truthful Spectrum Auctions for Variable Bandwidths, July 28, 2011.
+2011-03
+Hao, Zhuo; Zhong, Sheng; Li, Li; Yao, Haifan; Yu, Nenghai. Towards Wireless Security without Computational Assumptions, April 28, 2011.
+2011-02
+Chen, Tingting; Zhong, Sheng. Privacy-Preserving Models for Comparing Survival Curves Using the Logrank Test, April 19, 2011.
+2011-01
+Chen, Tingting; Zhong, Sheng. On Fairness of Incentive-Compatible Multi-Radio Channel Assignment in Multiple Collision Domains, February 6, 2011. Modified Version
+2010-13
+Lessa, Demian; Czyz, Jeffrey K.; Jayaraman, Bharat. JIVE: A Pedagogic Tool for Visualizing the Execution of Java Programs, December 7, 2010.
+2010-12
+Chen, Tingting ; Zhu, Liehuang; Wu, Fan; Zhong, Sheng. Stimulating Cooperation in Vehicular Ad Hoc Networks: A Coalitional Game Theoretic Approach, November 12, 2010.
+2010-11
+Hao, Zhuo; Zhong, Sheng; Yu, Nenghai. A Privacy-Preserving Remote Data Integrity Checking Protocol with Data Dynamics and Public Verifiabi, October 5, 2010.
+2010-10
+Lessa, Demian; Jayaraman, Bharat; Czyz, Jeffrey. Query-based Debugging and Scalable Visualizations, September 3, 2010.
+2010-09
+Lessa, Demian; Jayaraman, Bharat. Temporal Model for Debugging and Visualizations, September 3, 2010.
+2010-08
+Chen, Tingting; Zhong, Sheng. On Designing Truthful and Optimal Spectrum Assignment Mechanisms for Dynamic Spectrum Access, July 29, 2010.
+2010-07
+Demirbas, Murat; Tasci, Serafettin; Gunes, Hanifi. A Singlehop Collaborative Feedback Primitive: Threshold Queries in Wireless Sensor Networks, July 23, 2010. Updated Subsequently
+2010-06
+Hao, Zhuo; Zhong, Sheng; Li, Li Erran. An Oblivious Transfer Protocol Based on an Unauthenticated Wireless Channel, July 17, 2010. Modified Version
+2010-05
+Hao, Zhuo; Zhong, Sheng; Li, Li Erran. An Oblivious Transfer Protocol Based on an Unauthenticated Wireless Channel, July 5, 2010.
+2010-04
+Zhang, Xi. Probabilities and Sets in Preference Querying (Ph.D. Dissertation), June 5, 2010.
+2010-03
+Akcora, CG; Demirbas, Murat. Twitter: Roots, Influence, Applications, June 2, 2010.
+2010-02
+Chen, Tingting; Zhong, Sheng. On Fairness of Incentive-Compatible Multi-Radio Channel Assignment in Multiple Collision Domains, May 27, 2010.
+2010-01
+Lou, Hongbin; Zhang, Hongke ; Qiao, Chunming . How Fast do Identifier-to-locator Mappings Change?, March 17, 2010.
+2009-08
+Soysal, Onur; Ayyorgun, Sami; Demirbas, Murat. PowerNap for Longevity in Wireless Sensor Networks, October 28, 2009.
+2009-07
+Mindolin, Denis. Preference Construction for Database Querying (Ph.D. dissertation), August 4, 2009.
+2009-06
+Soysal, Onur; Demirbas, Murat. Data Spider: A Resilient Mobile Basestation Protocol for Efficient Data Collection in Wireless Sensor Networks, July 31, 2009. Modified Version
+2009-05
+Soysal, Onur; Demirbas, Murat. Transactional Concurrency Control for Multihop Wireless Sensor Networks, July 31, 2009.
+2009-04
+Chen, Tingting; Zhong, Sheng. INPAC: An Enforceable Incentive Scheme for Wireless Networks using Network Coding, July 31, 2009.
+2009-03
+Bayir, Murat Ali; Demirbas, Murat. On The Fly Learning of Mobility Profiles for Intelligent Routing in Pocket Switched Networks, July 21, 2009.
+2009-02
+Mathew, Sunu; Petropoulos, Michalis; Ngo, Hung; Upadhyaya, Shambhu. A Data-Centric Approach to Insider Attack Detection in Database Systems, June 23, 2009.
+2009-01
+Ha, Duc T.; Yan, Guanhua; Eidenbenz, Stephan; Ngo, Hung Quang. On the Effectiveness of Structural Detection and Defense Against P2P-based Botnets, February 4, 2009.
+2008-18
+Zhang, Xi; Chomicki, Jan. Semantics and Evaluation of Top-k Queries in Probabilistic Databases, November 13, 2008.
+2008-17
+Bayir, Murat Ali; Demirbas, Murat; Eagle, Nathan. Mobility Profiler: A Framework for Discovering Mobile User Profiles, September 22, 2008.
+2008-16
+Girgis, Hani Z.; Corso, Jason. STP: The Sample-Train-Predict Algorithm and Its Application to Protein Structure Meta-Selection, September 16, 2008.
+2008-15
+Staworko, Slawomir; Chomicki, Jan. Consistent Query Answers in the Presence of Universal Constraints, September 9, 2008.
+2008-14
+Demirbas, Murat; Rudra, Carole; Rudra, Atri; Bayir, Murat Ali. iMAP: Indirect Measurement of Air Pollution with Cellphones , September 2, 2008.
+2008-13
+Lu, Xuming; Demirbas, Murat. Writing on Water, A lightweight Soft-State Tracking Framework for Dense Mobile Ad Hoc Networks, July 18, 2008.
+2008-12
+Menon, Vivek; Jayaraman, Bharat; Govindaraju, Venu. INTEGRATING RECOGNITION AND REASONING IN SMART ENVIRONMENTS, July 3, 2008.
+2008-11
+Darole, Rohan; Walters, John Paul; Chaudhary, Vipin. Improving MPI-HMMER's Scalability with Parallel I/O. IPDPS 2009 Walters DC09., May 29, 2008.
+2008-10
+Balu, Vidyananth; Walters, John Paul; Kompalli, Suryaprakash; Chaudhary, Vipin. Evaluating the use of GPUs in liver image segmentation and HMMR database searches. IPDPS 2009 WaltersBKC09., May 29, 2008.
+2008-09
+Nwogu, Ifeoma; Corso, Jason; Bittner, Thomas. The Design of an Ontology-Enhanced Anatomy Labeler, May 27, 2008.
+2008-08
+Jadliwala, Murtuza; Duan, Qi; Upadhyaya, Shambhu; Xu, Jinhui. On the Hardness of Eliminating Cheating Behavior in Time Synchronization Protocols for Sensor Networks, April 23, 2008.
+2008-05
+Mindolin, Denis; Chomicki, Jan. Minimal Contraction of Preference Relations, February 28, 2008.
+2008-04
+Yoon, Seokhoon; Qiao, Chunming. Cooperative Search and Survey using Autonomous Underwater Vehicles (AUVs), February 27, 2008.
+2008-03
+Staworko, Slawomir. Declarative Inconsistency Handling in Relational and Semi-Structured Databases, February 25, 2008.
+2008-01
+Menon, Vivek; Jayaraman, Bharat; Govindaraju, Venu. Biometrics-Driven Smart Environments: Abstract Framework and Evaluation, January 7, 2008.
+2007-13
+Zhang, Xi; Chomicki, Jan. On the Semantics and Evaluation of Top-k Queries in Probabilistic Databases, December 18, 2007.
+2007-12
+Yoon, Seokhoon; Soysal, Onur; Demirbas, Murat; Qiao, Chunming. Coordinated Locomotion of Mobile Sensor Networks, December 13, 2007.
+2007-11
+Krauthgamer, Robert; Mehta, Aranyak; Raman, Vijayshankar; Rudra, Atri. Greedy List Intersection, December 11, 2007.
+2007-10
+Bhabrawala, T. S; Krovi, V.; Mendel, F.; Govindaraju, Venu. Shape Recovery Using Extended Superquadrics, October 22, 2007.
+2007-09
+Liu, Xin; Qiao, Chunming; Wang, Ting; Hu, Weisheng; Guo, Wei; Wu, Min-You. Task Scheduling and Lightpath Establishment in Optical Grids, September 11, 2007.
+2007-08
+Zhong, Sheng; Jadliwala, Murtuza; Upadhyaya, Shambhu; Qiao, Chunming. LOCOMO: Distance-based Localization against Malicious Beacon Nodes, July 2, 2007.
+2007-07
+Virendra, Mohit; Krishnamurthy, Arunn; Narayanan, Krishnan; Upadhyaya, Shambhu; Kwiat, Kevin. Environment-Aware Trusted Data Delivery in Multipath Wireless Protocols, May 17, 2007.
+2007-06
+Decker, Adrienne. How Students Measure Up: An Assessment Instrument For Introductory Computer Science, May 3, 2007.
+2007-05
+Ha, Duc T.; Ngo, Hung Quang. On the Trade-Off Between The Expected Number Of Infected Nodes and Expected Propagation Time of Malcodes, April 12, 2007.
+2007-01
+Walters, John Paul; Chaudhary, Vipin. A Comprehensive User-level Checkpointing Strategy for MPI Applications, February 13, 2007. Superceded by John Paul Walters, Vipin Chaudhary: Replication-Based Fault Tolerance for MPI Applications. IEEE Trans. Parallel Distrib. Syst. 20(7): 997-1010 (2009).
+2006-34
+Wu, Fan; Zhong, Sheng; Liu, Jiqiang. Cost-effective Trac Assignment for Multipath Routing in Selsh Networks, November 22, 2006.
+2006-33
+Duan, Qi; Virendra, Mohit; Upadhyaya, Shambhu. On the Hardness of Minimum Cost Blocking Attacks on Multi-path Wireless Routing Protocols, October 9, 2006.
+2006-31
+Demirbas, Murat; Lu, Xuming. Distributed Quad-Tree for Spatial Querying in Wireless Sensor Networks, November 3, 2006.
+2006-30
+Elakkumanan, Praveen. Overcoming the Circuit Design Challenges In Nanoscale SRAMs, September 1, 2006.
+2006-29
+Balachandran, Srivats. Robcast: A Reliable MAC Layer Protocol for Broadcast in Wireless Sensor Networks, August 28, 2006.
+2006-28
+Cho, Moonjung. Novel Techniques for Data Warehousing and Online Analytical Processing in Emerging Applications, August 25, 2006.
+2006-27
+Bhole, Chetan. Object Recognition Using Shape and Behavioral Features, August 23, 2006.
+2006-26
+Hu, Xian. Integrated Feature Subset Selection/Extraction With Applications in Bioinformatics, August 22, 2006.
+2006-25
+Sridharan, Karthik. Semantic Face Retrieval, August 22, 2006.
+2006-24
+Krishnamurthy, Praveen. Approaches to clustering gene expression time course data, August 17, 2006.
+2006-23
+Pushpendran, Manu. A Constrained Object Approach To Systems Biology, August 23, 2006.
+2006-22
+Milewski, Robert Jay. Automatic Recognition Of Handwritten Medcal For Search Engines, August 12, 2006.
+2006-21
+Ghosh, Joy; Ngo, Hung Quang; Yoon, Seokhoon; Qiao, Chunming. On a Routing Problem within Probabilistic Graphs., August 4, 2006.
+2006-20
+Zhong, Sheng. On Distributed k-Anonymization., July 27, 2006.
+2006-19
+Zhong, Sheng; Shah, Divyesh. Benchmarking Security Computations on Wireless Devices., July 27, 2006.
+2006-18 Ghosh, Joy. Sociological Orbit Based Mobility Profiling and Routing for Wireless Networks., July 17, 2006.
+2006-16
+Chomicki, Jan. Database Querying under Changing Preferences., July 13, 2006.
+2006-15
+Yoon, Seokhoon; Qiao, Chunming. Efficient Search Algorithms using Autonomous Mobile Sensor Nodes., August 4, 2006.
+2006-14
+Glasser, Christian; Selman, Alan L.; Travers, Stephen; Wagner, Klaus. The Complexity of Unions of Disjoint Sets., June 26, 2006.
+2006-13
+Glasser, Christian; Selman, Alan L.; Travers, Stephen; Zhang, Liyu. Non-Mitotic Sets., June 22, 2006.
+2006-12
+Virendra, Mohit; Duan, Qi; Upadhyaya, Shambhu. Report Dropping and Tampering Detection in Sensor Networks: Enhancing Data Reliability., May 19, 2006.
+2006-11
+Virendra, Mohit; Duan, Qi; Upadhyaya, Shambhu; Anand, Vishal. A New paradigm for Load Balancing in Wireless Mesh Networks., May 19, 2006.
+2006-10
+Ruby, Catherine. Three Data Grid Initiatives for the Advanced Computational Data Center., May 11, 2006.
+2006-09
+Shi, Yong. Dynamic Data Mining on Multi-Dimensional Data., April 25, 2006.
+2006-08
+Xu, Guang. Approximation Algorithms for Clustering and Related Problems., April 11, 2006.
+2006-07
+Girgis, Hani Z.; Jayaraman, Bharat. JavaDD: a Declarative Debugger for Java., March 20, 2006.
+2006-06
+Khan, Asheq; Qiao, Chunming; Sharma, Prachee; Tripathi, Satish K.. Bounding the Energy Consumption of Mobile Sensor Nodes for Triangulation-based Coverage., March 20, 2006.
+2006-05
+Hwang, Woochang; Cho, Young-rae; Zhang, Aidong; Ramanathan, Murali. Bridging Centrality: Identifying Bridging Nodes in Scale-free Networks, March 15, 2006.
+2006-04
+Demirbas, Murat. A Transactional Framework for Programming Wireless Sensor/Actor Networks, March 8, 2006.
+2006-03
+Johnson, Frances L.. Dependency-Directed Reconsideration: An Anytime Algorithm for Hindsight Knowledge-Base Optimization, January 16, 2006.
+2006-02
+Demirbas, Murat; Chow, Ken Yian; Wan, Chieh Shyan. INSIGHT: Internet-Sensor Intgration for Habitat Monitoring, January 25, 2006.
+2006-01
+Demirbas, Murat; Song, Youngwhan. An RSSI-based Scheme for Sybil Attack Detection in Wireless Sensor Networks, January 25, 2006.
+2005-27
+Ghosh, Joy; Beal, Matthew J.; Ngo, Hung Quang; Qiao, Chunming. On Profiling Mobility and Predicting Locations of Campus-Wide Wireless Network Users, December 12, 2005.
+2005-26
+Demirbas, Murat. Wireless Sensor Networks for Monitoring of Large Public Buildings, December 8, 2005.
+2005-25
+Demirbas, Murat; Hussain, Muzammil. A MAC Layer Protocol fro priority-based Reliable Broadcast in Wireless Ad Hoc Networks, November 28, 2005.
+2005-24
+Demirbas, Murat; Arora, Anish; Kulathumani, Vinod. A Lightweight Querying Service for Wireless Sensor Networks., November 22, 2005.
+2005-23 Hansheng, Lei. Sequential Pattern Classification Without Explicit Feature Extraction, November 22, 2005.
+2005-22
+Chomicki, Jan. Semantic Optimization Techniques fro Preference Queries, October 19, 2005.
+2005-21
+Philip, Sumesh J.. Scalable Location Management for Geographic Routing in Mobile Ad hoc Networks, July 22, 2005.
+2005-19
+Glasser, Christian; Selman, Alan L.; Zhang, Liyu. Survey of Disjoint NP-Pairs and Relations to Propositional Proof Systems, July 7, 2005.
+2005-18
+Glasser, Christian; Pavan, A.; Selman, Alan L.; Zhang, Liyu. Redundancy in Complete Sets, July 7, 2005.
+2005-17
+Ghosh, Joy; Yoon, Seokhoon; Ngo, Hung Quang; Qiao, Chunming. Sociological Orbits for Efficient Routing in Intermittently Connected Mobile Ad Hoc Networks, July 6, 2005.
+2005-16
+Rapaport, William J.. Philosophy of Computer Science: An Introductory Course, June 21, 2005.
+2005-15 Gestwicki, Paul V.. Interactive Visualization of Object-Oriented Languages, June 15, 2005.
+2005-14
+Huaming Zhang; Xin He. An Application of Well-Orderly Trees in Graph Drawing, May 30, 2005.
+2005-13 Santore, John F.. Identifying Perceptually Indistinguishable Objects, January 24, 2005.
+2005-12
+Ghosh, Joy; Qiao, Chunming; Philip, Sumesh J.; Ngo, Hung Quang; Yoon, Seokhoon. Sociological Orbit aware Location Approximation and Routing (SOLAR) in dtN, April 6, 2005.
+2005-11
+Staworko, Slawomir; Chomicki, Jan. Priority-Based Conflict Resolution in Inconsistent Relational Databases, June 15, 2005.
+2005-09
+Ghosh, Joy; Philip, Sumesh J.; Qiao, Chunming. Sociological Orbit Aware Routing in MANET, March 25, 2005.
+2005-08
+Shapiro, Stuart C.; Anstey, Josephine; Pape, David E.; Devdas Nayak, Trupti; Kandefer, Michael; Telh. MGLAIR Agents in a Virtual Reality Drama, March 30, 2005.
+2005-07 Khan, Asheq; Philip, Sumesh J.; Qiao, Chunming; Tripathi, Satish K.. A Framework for Mobile Assisted Localization in Wireless Sensor Networks, March 25, 2005.
+2005-06
+Attias, H. T.; Beal, Matthew J.. Tree of Latent Mixtures for Bayesian Modelling and Classification of High Dimensional Data, January 1, 2005.
+2005-05
+Chinchani, Ramkumar; Ha, Duc T.; Iyer, Anusha; Ngo, Hung Quang; Upadhyaya, Shambhu. On The Hardness of Approximating the Min-Hack Problem, March 2, 2005.
+2005-04 Tang, C.; Ramanathan, Murali; Jiang, D.; Zhang, Aidong. A Semi-Supervised Learning Method for Coherent Pattern Detection from Gene-Sample-Time Series Datasets, March 9, 2005.
+2005-01 Santore, John F.. Complete Coded Protocols from PIO Experiment, January 5, 2005.
+2004-22 Glasser, Christian; Ogihara, Mitsunori; Pavan, A.; Selman, Alan L.; Zhang, Liyu. Autoreducibility, Mitoticity, and Immunity, December 21, 2004.
+2004-21 Gestwicki, Paul V.; Jayaraman, Bharat; Garg, Ashim. From Class Diagrams to Object Diagrams: An Automated Approach, December 13, 2004.
+2004-20 Gestwicki, Paul V.; Jayaraman, Bharat. Methodology and Architecture of JIVE, December 13, 2004.
+2004-19 Girgis, Hani Z.; Hegde, Akshay V.; Pushpendran, Manu; Gestwicki, Paul V.; Jayaraman, Bharat. Visual Queries for Interactive Execution of Java Programs, December 13, 2004.
+2004-18 Mathew, Sunu; Shah, Chintan; Upadhyaya, Shambhu. An Alert Fusion Framework for Situation Awareness of Coordinated Multistage Attacks, November 29, 2004.
+2004-17 Glasser, Christian; Selman, Alan L.; Zhang, Liyu. Canonical Disjoint NP-Pairs of Propositional Proof Systems, November 19, 2004.
+2004-16
+Chinchani, Ramkumar; Iyer, Anusha; Ngo, Hung Quang; Upadhyaya, Shambhu. A Target-Centric Formal Model For Insider Threat And More, October 12, 2004.
+2004-15
+Yu, Xiang; Thng, Ian; Jiang, Yuming; Qiao, Chunming. Queuing Processes in GPS and PGPS with LRD Traffic Inputs (Extended Version), September 29, 2004.
+2004-14
+Ghosh, Joy; Philip, Sumesh J.; Qiao, Chunming. Performance Analysis of Mobility Based Routing Protocols in MANET, September 16, 2004.
+2004-13
+Liu, Jiangjiang. INFORMATION PATTERN AWARE DESIGN STRATEGIES FOR NANOMETER-SCALE ADDRESS BUSES, August 31, 2004.
+2004-12 Srikanth, Munirathnam. EXPLOITING QUERY FEATURES IN LANGUAGE MODELING APPROACH\\FOR INFORMATION RETRIEVAL, August 26, 2004.
+2004-09
+Aruna Balasubramanian; Sumita Mishra; Sridhar, Ramalingam. A Hybrid Approach to Key Management for Enhanced Security in Ad Hoc Networks, July 30, 2004.
+2004-08
+Ghosh, Joy; Philip, Sumesh J.; Qiao, Chunming. ORBIT Mobility Framework and Orbit Based Routing (OBR) Protocol for MANET, July 12, 2004.
+2004-07 Karthik Sundararaman. Design For Manufacturability - Fault Model Extensions for RF Circuits with, May 18, 2004.
+2004-06
+Ghosh, Joy; Kumar, Vivek; Wang, Xin; Qiao, Chunming. BTSpin - Single Phase Distributed Bluetooth Scatternet Formation, December 13, 2003.
+2004-05 Raux R.J.; Jayaraman, Bharat. Modeling Dynamic Systems with Constrained Objects, February 29, 2004.
+2004-04 Tambay, Pallavi Y.; Jayaraman, Bharat. Implementation Techniques for Constrained Objects, February 29, 2004.
+2004-03 Glasser, Christian; Pavan, A.; Selman, Alan L.; Sengupta, Samik. Properties of NP-Complete Sets, January 15, 2004.
+2004-02
+Zhao, Dan. An Integrated Framework for Concurrent Test and Wireless Control in Complex SoCs, December 30, 2003.
+2004-01 Selman, Alan L.; Sengupta, S.. Polylogarithmic-round Interactive Proofs for coNP, September 2, 2003.
+2003-13
+Yu, Xiang; Qiao, Chunming; Liu, Yong; Towsley, Don. Performance Evaluation of TCP Implementations in OBS Networks, July 1, 2003.
+2003-12
+Garg, Ashim; Rusu, Adrian. A More Practical Algorithm for Drawing Binary Trees in Linear Area with ArbitraryAspect Ratio, September 19, 2003.
+2003-11
+Garg, Ashim; Rusu, Adrian. Area-Efficient Drawings of Outerplanar Graphs, September 18, 2003.
+2003-10
+Zhang, Huaming; He, Xin. Improved Visibility Representation of Plane Graphs, August 27, 2003.
+2003-09
+Chinchani, Ramkumar; Pramanik, Suranjan; Garg, Ashish. Handling Failures and DOS Attacks Using Network Device Groups, July 15, 2003.
+2003-08
+Rusu, Adrian. Area-Efficient Grid Drawings of Graphs, August 16, 2003.
+2003-07
+Aygun, Ramazan Savas. Spatio-Temporal Browsing of Multimedia Presentations, May 8, 2003.
+2003-06 Zhang, Huaming; He, Xin. Canonical Ordering Tree and Its Applications in Graph Drawing, May 30, 2003.
+2003-05
+Garg, Ashim; Rusu, Adrian. Area-Efficient Order-Preserving Planar Straight-line Drawings of Ordered Trees, May 16, 2003.
+2003-04 Glasser, Christian; Selman, Alan L.; Sengupta, S.. Reductions between Disjoint NP-Pairs, April 21, 2003.
+2003-03
+Wu, Yimin; Zhang, Aidong. Adaptively Discovering Meaningful Patterns in High-Dimensional Nearest Neighbor Search, April 8, 2003.
+2003-02 Glasser, Christian; Selman, Alan L.; Sengupta, Samik; Zhang, Liyu. Disjoint NP-Pairs, February 17, 2003.
+2003-01
+Tambay, Pallavi Y.; Jayaraman, Bharat. The Cob Programmer's Manual, February 5, 2003.
+2002-17 Boxer, Laurence. Expected Optimal Selection on the PRAM, December 3, 2002.
+2002-16
+Aygun, Ramazan Savas; Yazici, Adnan. Modeling and Management of Fuzzy Information in Multimedia Database Applications, December 5, 2002.
+2002-15
+Aygun, Ramazan Savas; Zhang, Aidong. Rule-based Flexible Synchronization Modeling with Model Checking, December 5, 2002.
+2002-14
+Garg, Ashim; Rusu, Adrian. Straight-line Drawings of General Trees with Linear Area and Arbitrary Aspect, May 16, 2003.
+2002-13 Zhang, Huaming; He, Xin. On Even Triangulations of 2-Connected Embedded Graphs, July 6, 2002.
+2002-12 Song, Yuqing. MONOTONIC TREE AND ITS APPLICATION TO MULTIMEDIA INFORMATION RETRIEVAL, August 16, 2002.
+2002-11
+Anand, Vishal; Qiao, Chunming. Effect of Wavelength Conversion in Survivable Wavelength Routed Optical WDM Networks with Alternate Routing, June 6, 2002.
+2002-10 Ngo, Hung Quang. WDM Split Cross-connects and $3$-stage Clos Networks, July 9, 2002.
+2002-09 Ngo, Hung Quang. A New Routing Algorithm for Multirate Rearrangeable Clos Networks, May 22, 2002.
+2002-08
+Wu, Hongyi. iCAR : an Integrated Cellular and Ad hoc Relaying System, May 16, 2002.
+2002-07 Ngo, Hung Quang; Vu, Van H.. On Multi-rate Rearrangeable Clos Networks and a Generalized Edge Coloring Problem on Bipartite Graphs, May 10, 2002.
+2002-05 Garg, Ashim; Chanda, Amrita. Compact Encodings of Planar Orthogonal Drawings, April 24, 2002.
+2002-04 Garg, Ashim; Rusu, Adrian. Straight-line Drawings of Binary Trees with Linear Area and Good Aspect Ratio, April 24, 2002.
+2002-03 Burhans, Debra T.. A Question Answering Interpretation of Resolution Refutation, January 31, 2002.
+2002-02 Ngo, Hung Quang. P-Species and the q-Mehler Formula, January 24, 2002.
+2002-01 Anand, Vishal; Chauhan, Sunit; Qiao, Chunming. Sub-path Protection: A New Framework for Optical Layer Survivability and its Quantitative Evaluation, January 2, 2002.
+2001-16 Mahapatra, Nihar R.; Dutt, Shantanu. An Efficient Delay-Optimal Distributed Termination Detection Algorithm, November 27, 2001.
+2001-15 Jayaraman, Bharat; Tambay, Pallavi Y.. Semantics and Applications of Constrained Objects, October 12, 2001.
+2001-14
+Xu, Dahai; Qiao, Chunming. Distributed Partial Information Management (DPIM) Schemes for Survivable Networks - Part II, July 10, 2001.
+2001-13
+Qiao, Chunming; Xu, Dahai. Distributed Partial Information Management (DPIM) Schemes for Survivable Networks - Part I, July 10, 2001.
+2001-12
+Song, Yuqing; Zhang, Aidong. Monotonic Tree of Images and Its Application in Image Processing, August 29, 2001.
+2001-11 Ismail, Haythem O.. Reasoning and Acting in Time, August 24, 2001.
+2001-10 Pavan, A.. Average-case complexity theory and polynomial-time reductions, August 26, 2001.
+2001-09
+Rapaport, William J.. Holism, Conceptual-Role Semantics, and Syntactic Semantics, August 17, 2001.
+2001-08 Ismail, Haythem O.; Shapiro, Stuart C.. The Cognitive Clock: A Formal Investigation of the Epistemology of Time, August 14, 2001.
+2001-07 Luo, Hui. KNOWLEDGE-BASED IMAGE UNDERSTANDING AND CLASSIFICATION SYSTEM FOR MEDICAL IMAGE DATABASES, July 30, 2001.
+2001-06 Chun-Hsi Huang. Communication-Efficient Bulk Synchronous Parallel Algorithms, July 30, 2001.
+2001-05 Cha, Sung-Hyuk. Use of Distance Measures in Handwriting Analysis, March 28, 2001.
+2001-04 Charles, Denis X.. A Note on the Subgroup Membership Problem for PSL(2,p), March 27, 2001.
+2001-03 Bhadra, Debangshu; Garg, Ashim. An Interactive Visual Framework for Detecting Clusters of a Multidimensional Dataset, March 27, 2001.
+2001-02 Pavan, A.; Selman, Alan L.. Separation of NP-completeness Notions, January 16, 2001.
+2001-01 Boxer, Laurence; Haralick, Robert. Even faster point set pattern matching in 3-d, January 9, 2001.
+2000-11 Charles, Denis X.; Pavan, A.; Sengupta, S.. On higher Arthur-Merlin classes, December 12, 2000.
+2000-10 Charles, Denis X.. Sieve Methods, July 18, 2000.
+2000-09 Petr Slavik; Govindaraju, Venu. An Overview of Run-length Encoding of Handwritten Word Images, August 25, 2000.
+2000-08 Xin He. A Simple Linear Time Algorithm for Proper Box Rectangular Drawing of Plane Graphs, August 10, 2000.
+2000-07 Denis, Charles; Regan, Kenneth W.. On Arithmetical Formulas Whose Jacobians are Groebner Bases, July 13, 2000.
+2000-06 McKernan, Timothy; Jayaraman, Bharat. CobWeb: Constrained XML for the Web, May 19, 2000.
+2000-05 Jayaraman, Bharat; Tambay, Pallavi Y.. Constrained Objects for Modeling Complex Systems, April 1, 2000.
+2000-04 Slavik, Petr. Slice Distance, April 8, 2000.
+2000-03 Johnson, Frances L.; Shapiro, Stuart C.. Implementing Integrity Constraints in an Existing Belief Revision System, March 8, 2000.
+2000-02 Johnson, Frances L.; Shapiro, Stuart C.. Formalizing a Deductively Open Belief Space, January 24, 2000.
+2000-01 Shapiro, Stuart C.; Johnson, Frances L.. Automatic Belief Revision in SNePS, March 3, 2000.
+95-49B Rapaport, William J.; Shapiro, Stuart C.; Wiebe, Janyce M.. Quasi-Indexicals and Knowledge Reports, October 26, 1995.
+95-49A Wu, Min-You. On Parallelization of Static Scheduling Algorithms, October 31, 1995.
+99-10 Ismail, Haythem O.; Shapiro, Stuart C.. Cascaded Acts: Conscious Sequential Acting for Embodied Agents, November 1, 1999.
+99-09 Johnson, Frances L.; Shapiro, Stuart C.. Finding and Resolving Contradictions in a Battle Scenario, September 9, 1999.
+99-08 Johnson, Frances L.; Shapiro, Stuart C.. Says Who? -- Incorporating Source Credibility Issues into Belief Revision, July 31, 1999.
+99-07 Burhans, Debra T.; Shapiro, Stuart C.. Expanding the Notion of Answer in Rule-Based Systems, November 8, 1999.
+99-06 Rapaport, William J.. How to Pass a Turing Test: Syntax Suffices for Understanding Natural Language, June 8, 1999.
+99-05 Qiao, Chunming; Jeong, M.; Guha, A.; Zhang, Xi; Wei, J.. WDM Multicasting in IP over WDM Networks, May 1, 1999.
+99-04 Yu, Dantong; Zhang, Aidong. ACQ: An Automatic Clustering and Querying Approach for Large Image Databases, May 5, 1999.
+99-03 Yu, Dantong; Sheikholeslami S.; Zhang, Aidong. FindOut: Finding Outliers in Very Large Datasets, May 5, 1999.
+99-02 Fortnow, L.; Pavan, A.; Selman, Alan L.. Distributionally-Hard Languages, April 26, 1999.
+99-01 Lee, Chain-Wu. TERRESA: A Task-Based Message-Driven Parallel Semantic Network System, January 30, 1999.
+98-10 Shapiro, Stuart C.. Belief Revision and Truth Maintenance Systems: An Overview and a Proposal, December 31, 1998.
+98-09 Ogihara, Mitusnori; Regan, Kenneth W.; Toda, Seinosuke. Graded Self-Reducibility, December 30, 1998.
+98-08 Yu, Dantong; Chatterjee, Surojit; Sheikholeslami, Gholamhosein; Zhang, Aidong. Efficiently Detecting Arbitrary Shaped Clusters in Very Large Datasets with High Dimensions, November 1, 1998.
+98-07 Sheikholeslami, Gholamhosein; Wang, Wenjie; Zhang, Aidong. A Model of Image Representation and Indexing in Image Database Systems, July 20, 1998.
+98-06 Slavik, Petr. Approximation Algorithms for Set Cover and Related Problems, April 30, 1998.
+98-05 Rapaport, William J.; Ehrlich, Karen. A Computational Theory of Vocabulary Acquisition, April 14, 1998.
+98-04 Hexmoor, Henry H.. Representing and Learning Routine Activities, December 1, 1995.
+98-03 Soh, Jung. A Theory of Document Object Locator Combination, March 25, 1998.
+98-02 Campbell, Alistair E.; Shapiro, Stuart C.. Algorithms for Ontological Mediation, January 23, 1998.
+98-01 Shapiro, Stuart C.. A Procedural Solution to the Unexpected Hanging and Sorites Paradoxes, January 5, 1998.
+97-16 Liao, Min-Hung. Chinese to English Machine Translation Using SNePS as an Interlingua, December 1, 1997.
+97-15 Rapaport, William J.. Implementation Is Semantic Interpretation, November 21, 1997.
+97-14 Hexmoor, Henry H.; Lopez, F.. Toward Object Selection with a Pointer, October 30, 1997.
+97-13 Naik, Ashish V.; Rogers, John, D.; Royer, James S.; Selman, Alan L.. A Hierarchy Based on Output Multiplicity, August 5, 1997.
+97-12 Hexmoor, Henry H.; Cuddihy, Elisabeth. Performance of a simple cooperative individual situation assessment (CISA) with respect to information sharing strategy metrics, July 23, 1997.
+97-11 Fang, Chi. Deciphering Algorithms for Degraded Document Recognition, July 17, 1997.
+97-10 Cai, Jin-Yi; Nerurkar, Ajay; Wu, Min-You. The Design of Uncheatable Benchmarks Using Complexity Theory, July 18, 1997.
+97-09 Rajiv Chopra. An Architecture for Exploiting Qualitative Scene-specific Context in High-Level Computer Vision, June 1, 1997.
+97-08 Ehrlich, Karen; Rapaport, William J.. A Computational Theory of Vocabulary Expansion, May 5, 1997.
+97-04 Sheikholeslami, Gholamhosein; Zhang, Aidong. A Clustering Approach for Large Visual Databases, February 21, 1997.
+97-02 Slavik, Petr. The Errand Scheduling Problem, March 14, 1997.
+97-01 Pavan, A.; Selman, Alan L.. Complete Distributional Problems, Hard Languages, and Resource-Bounded Measure, February 6, 1997.
+96-26 Rapaport, William J.. Understanding Understanding: Semantics, Computation, and Cognition, July 17, 1996.
+96-25 Johnson, T.; Zhang, Aidong. A Framework for Supporting Quality-Based Presentation of Continuous Multimedia Streams, December 16, 1996.
+96-24 Chang, W.; Murthy, D.; Mei, Y.; Zhang, Aidong. Metadatabase and Search Agent for Multimedia Database Access over Internet, December 16, 1996.
+96-23 Wu, Min-You. Scheduling for Interactive Operations in Parallel Video Servers, December 12, 1996.
+96-22 Cai, Jin-Yi; Samuthiram, Karthikeyan. A note on the Pumping Lemma for regular languages, December 4, 1996.
+96-21 Belanger, Jay; Pavan, A.; Wang, Jie. Reductions Do Not Preserve Fast Convergence Rates in Average Time, November 7, 1996.
+96-20 Chakravarty, Sreejit. Defect Detection Capability of Delay Tests for Path Delay Faults, November 7, 1996.
+96-19 Rapaport, William J.. Cognitive Science, October 29, 1996.
+96-18 Chalupsky, Hans. SIMBA: Belief Ascription by Way of Simulative Reasoning, January 31, 1996.
+96-14 Wu, Min-You; Shu, Wei. DDE: A Modified Dimension Exchange Method for Load Balancing in k-ary n-cubes, March 25, 1996.
+96-13 Gollapudi, Sreenivas. A Multithreaded Client-Server Architecture for Distributed Multimedia Systems, July 19, 1996.
+96-12 Boxer, Laurence; Miller, Russ; Rau-Chaplin, Andrew. Some Scalable Parallel Algorithms for Geometric Problems, June 14, 1996.
+96-10 Rapaport, William J.. How Minds Can Be Computational Systems, May 31, 1996.
+96-09 Min-You Wu. Scheduling for Large-Scale Parallel Video Servers, May 17, 1996.
+96-08 Dabholkar, Vinay P.; Chakravarty, Sreejit. Dynamic Stress Tests for ``Narrow Metal Imperfections'' in Full Scan Circuits, April 3, 1996.
+96-06 Gollapudi, Sreenivas; Zhang, Aidong. NetMedia: A Client-Server Distributed Multimedia Database Environment, April 4, 1996.
+96-05 Hong, Tao. Degraded Text Recognition using Visual and Linguistic Context, March 27, 1996.
+96-03 Chakravarty, Sreejit; Thadikaran, Paul J.. Which Set of Bridging Faults Should Test Compilers Target?, February 28, 1996.
+96-02 Kumar, Ravi S.; Sivakumar, D.. Efficient Self-Testing of Linear Recurrences, January 29, 1996.
+96-01 Ivanyos, G�bor. Testing membership in unitriangular matrix groups. Preliminary draft, January 2, 1996.
+95-55 Gollapudi, Sreenivas; Zhang, Aidong. Buffer Management in Multimedia Database Systems, November 28, 1995.
+95-54 Slavik, Petr. A Tight Analysis of the Greedy Algorithm for Set Cover, November 19, 1995.
+95-52 Dabholkar, Vinay P.; Chakravarty, Sreejit. Stress Tests for Dynamic Burn-in of Full Scan Circuits, November 9, 1995.
+95-51 Fenner, Stephen; Green, Frederic; Homer, Stephen; Selman, Alan L.; Thierauf, Thomas; Vollmer, Heribe. Complements of Multivalued Functions, November 6, 1995.
+95-50 Govindarajan, Kannan; Jayaraman, Bharat; Mantha, Surya. Preference Datalog, November 1, 1995.
+95-48 Chakravarty, Sreejit. A Sampling Technique for Diagnostic Fault Simulation, October 26, 1995.
+95-47 Wu, Min-You. Symmetrical Hopping: a Scalable Scheduling Algorithm for Irregular Problems, October 25, 1995.
+95-46 Wu, Min-You. Parallel Incremental Scheduling, October 24, 1995.
+95-45 Slavik, Petr. Improved Performance of the Greedy Algorithm for the Minimum Set Cover and Minimum Partial Cover Problems, October 15, 1995.
+95-44 Zhang, Aidong; Gollapudi, Sreenivas. Multimedia Transaction Management in Database Systems, October 30, 1995.
+95-43 Ravikumar, S.; Sivakumar, D.. On Self-Testing without the Generator Bottleneck, September 20, 1995.
+95-42 Cai, Jin-Yi; Naik, Ashish V.; Sivakumar, D.. Bounded Truth Table Reductions of P, September 21, 1994.
+95-41 Cai, Jin-Yi; Ogihara, Mitsunori. Sparse Sets versus Complexity Classes, September 18, 1995.
+95-40 Cai, Jin-Yi; Sivakumar, D.. Resolution of Hartmanis' Conjecture for NL-hard sparse sets, September 18, 1995.
+95-39 Regan, Kenneth W.; Vollmer, Heribe. Gap Languages and Log-Time Complexity Classes, September 12, 1995.
+95-38 Seni, Giovanni. Large Vocabulary Recognition of On-line Handwritten Cursive Words, August 1, 1995.
+95-37 Govindarajan, Kannan; Jayaraman, Bharat; Mantha, Surya. Optimization and Relaxation in Constraint Logic Languages, October 21, 1995.
+95-36 Cai, Jin-Yi. Frobenius's degree formula and Toda's polynomials, August 10, 1995.
+95-35 Cai, Jin-Yi. A simple improvement of a theorem of Polya, August 10, 1995.
+95-34 Wu, Min-You. On Runtime Parallel Scheduling, August 10, 1995.
+95-33 Zhang, Aidong. On Synchronized Presentation Management in Multimedia Database Systems, August 16, 1995.
+95-31 Cai, Jin-Yi; Naik, Ashish V.; Sivakumar, D.. On the Existence of Hard Sparse Sets under Weak Reductions, July 13, 1995.
+95-30 Cai, Jin-Yi; Sivakumar, D.. The Resolution of a Hartmanis Conjecture, July 13, 1995.
+95-29 Babai, L.; Beals, R.; Cai, Jin-Yi; Ivanyos, G.; Luks, E.. Multiplicative equations over commutative matrices, July 13, 1995.
+95-27 Cai, Jin-Yi; Liu,icheng. The bounded membership problem of the monoid SL_2(N), June 15, 1995.
+95-25 Koepsell, David R.; Rapaport, William J.. The Ontology of Cyberspace: Questions and Comments, April 22, 1995.
+95-24 Zaionc, Marek. Lambda definability is decidable for second order types and for regular third order types, May 8, 1995.
+95-23 Milun, Davin. Generating Markov Random Field Image Analysis Systems from Examples, May 1, 1995.
+95-22 Govindarajan, Kannan; Jayaraman, Bharat; Mantha, Surya. Relaxation in Constraint Logic Languages, April 25, 1995.
+95-21 Chopra, Rajiv; Srihari, Rohini; Ralston, Anthony. HyperArc Consistency and Expensive Constraints, May 5, 1995.
+95-20 Zaionc, Marek. Fixpoint Technique for Counting Terms in Typed Lambda Calculus, April 14, 1995.
+95-19 Zhang, Aidong; Cheng, Biao; Acharya, Raj. Texture-Based Image Retrieval Using Fractal Codes, August 16, 1995.
+95-18 Gong, Yiming; Chakravarty, Sreejit. A Dynamic Diagnostic Test Generation System for IDDQ Measurement Based Diagnosis of Bridging Faults, April 10, 1995.
+95-17 Cai, Pu; Cai, Jin-Yi; Naik, Ashish V.. Efficient algorithms for a scheduling problem and its applications to illicit drug market crackdowns, April 3, 1995.
+95-16 Cai, Jin-Yi; Selman, Alan L.. Average Time Complexity Classes, March 31, 1995.
+95-15 Ehrlich, Karen; Rapaport, William J.. A Computational Theory of Vocabulary Expansion: Project Proposal, March 21, 1995.
+95-14 Jayaraman, Bharat; Moon, Kyonghee. Implementation of Subset Logic Programs, March 24, 1995.
+95-12 Zhang, Aidong; Cheng, Biao; Acharya, Raj. Texture-Based Image Retrival Using Fractals, July 21, 1995.
+95-11 Chakravarty, Sreejit; Fuchs, Kent; Patel, Janak. Evaluation and Generation of IDDQ Diagnostic Tests for Bridging Faults in Combinational Circuits, February 27, 1995.
+95-10 Zaionc, Marek. Lambda Representation of Operations Between Different Term Algebras, February 28, 1995.
+95-08 Regan, Kenneth W.; Sivakumar, D.. Improved Resource-Bounded Borel-Cantelli and Stochasticity Theorems, February 16, 1995.
+95-07 Dabholkar, Vinay P.; Chakravarty, Sreejit; Najm, Farid; Patel, Janak. Cyclic Stress Tests for Full Scan Circuits, February 24, 1995.
+95-06 He, Xin. Grid Embedding of Internally Triangulated Plane Graphs without Non-empty Triangles, February 2, 1995.
+95-05 Zhang, Aidong; Cheng, Biao; Acharya, Raj. Using Fractal Coding to Index Image Content for a Digital Library, August 16, 1995.
+95-03 Jagota, Arun K.; Narasimhan, Giri; Regan, Kenneth W.. Information Capacity of Binary Weights Associative Memories, January 24, 1995.
+95-02 Regan, Kenneth W.; Sivakumar, D.; Cai, Jin-Yi. Pseudorandom Generators, Measure Theory, and Natural Proofs, January 25, 1995.
+95-01 Zhang, Aidong; Nodine, Marian; Bhargava, Bharat. Ensuring Semi-Atomicity in Heterogeneous Distributed Database Systems, February 4, 1995.
+94-43 Zhang, Aidong; Nodine, Marian; Bhargava, Bharat. Ensuring Semi-Atomicity in Heterogeneous Distributed Database Systems, August 16, 1995.
+94-39 Curtis, Ronald Sanger. Data Structure Complexity Metrics, November 11, 1994.
+94-38 Cai, Jin-Yi; Cai, Pu; u, Yixin. A fully polynomial time approximation scheme in scheduling deteriorating jobs, October 2, 1994.
+94-37 Jana, Devashis. Semantics of Subset-Logic Languages, November 11, 1994.
+94-35 Niyogi, Debashish. A Knowledge-Based Approach to Deriving Logical Structure from Document Images, August 1, 1994.
+94-34 Gong, Yiming; Chakravarty, Sreejit. A Diagnosis Algorithm for Bridging Faults in Combinational Circuits, September 13, 1994.
+94-33 Sivalingam, Krishna Moorty. High-Speed Communication Protocols for All-Optical Wavelength Division Multiplexed Computer Networks, October 20, 1994.
+94-32 Kumar, Amruth N.. Component Ontological Representation of Function For Candidate Discrimination in Model Based Diagnosis, November 11, 1994.
+94-31 Zhang, Aidong. Impact of Multimedia Data on Workflow, August 16, 1995.
+94-30 Jana, Devashis; Jayaraman, Bharat. Set Constructors, Finite Sets, and Logical Semantics, August 8, 1994.
+94-29 Regan, Kenneth W.. Index Sets and Presentations of Complexity Classes (revised version), July 29, 1994.
+94-28 Rapaport, William J.. Understanding Understanding: Syntactic Semantics and Computational Cognition, October 20, 1994.
+94-27 Govindarajan, Kannan; Jayaraman, Bharat; Mantha, Surya. Preference Logic Grammars, June 24, 1994.
+94-26 Lammens, Johan M.. A Computational Model of Color Perception and Color Naming, June 24, 1994.
+94-25 Shu, Wei. Runtime Incremental Parallel Scheduling (RIPS) on Distributed Memory Computers, November 11, 1994.
+94-24 Regan, Kenneth W.. Linear Speed-Up, Information Vicinity, and Finite-State Machines, May 20, 1994.
+94-23 Regan, Kenneth W.. Linear-Time Algorithms in Memory Hierarchies, May 20, 1994.
+94-22 Cai, Jin-Yi; Lipton, Richard J.; Longpre, Luc; Ogihara, Mitsunori; Regan, Kenneth W.; Sivakumar, D.. Communication Complexity of Key Agreement on Limited Ranges, May 20, 1994.
+94-21 Naik, Ashish V.; Regan, Kenneth W.; Sivakumar, D.. Quasilinear Time Complexity Theory, May 20, 1994.
+94-20 Li, Lide; Ogihara, Mitsunori; Regan, Kenneth W.. On Information From #P Functions, May 20, 1994.
+94-19 Green, Frederic; Koebler, Johannes; Regan, Kenneth W.; Schwentick, Thomas; Toran, Jacobo. The Power of the Middle Bit of a #P Function, May 20, 1994.
+94-18 Regan, Kenneth W.. Linear Time and Memory-Efficient Computation, May 20, 1994.
+94-17 Cai, Jin-Yi; Lipton, Richard J.; lcstein, Yechezkel. The complexity of the A B C problem resolved, May 12, 1994.
+94-16 Cai, Jin-Yi. Computing Jordan Normal Forms exactly for commuting matrices in polynomial time, May 11, 1994.
+94-15 Cai, Jin-Yi; Chari, Suresh. On the Impossibility of Amplifying the Independence of Random Variables, May 4, 1994.
+94-14 Cai, Jin-Yi; Hirsch, Michael D.. Rotation Distance, Triangulations of Planar Surfaces and Hyperbolic Geometry, May 4, 1994.
+94-13 Govindarajan, Kannan; Jayaraman, Bharat. Intensional AlgorithmicDebugging, May 20, 1994.
+94-12 Govindarajan, Kannan; Jayaraman, Bharat; Mantha, Surya. Preference Logic Programming: Optimization as Inference, April 15, 1994.
+94-11 Hill, Robin K.. Issues of Semantics in a Semantic-Network representation of Belief, April 3, 1995.
+94-10 Dabholkar, Vinay P.; Chakravarty, Sreejit. Minimizing Power Dissipation in Combinational Circuits During Test Application, April 15, 1994.
+94-09 Hexmoor, Henry H.. A Methodology for Developing Competent Agents Without Sensor and Actuator Profusion, April 15, 1994.
+94-08 Ahmad, Ishfaq; Wu, Min-You; Yang, Jaehyung; Ghafoor, Arif. A Performance Assessment of Express on the iPSC/2 and iPSC/860 Hypercube Computers, April 15, 1994.
+94-07 Hexmoor, Henry H.. What are routines good for?, April 15, 1994.
+94-06 Chakravarty, Sreejit; Dabholkar, Vinay P.. Minimizing Power Dissipation in Scan Circuits During Test Application, April 15, 1994.
+94-04 Kumar, Deepak. From Beliefs and Goals to Intentions and Actions: An Amalgamated Model of Inference and Acting, March 11, 1994.
+94-03 Chakravarty, Sreejit; Gong, Yiming. Voting Model Based Diagnosis of Bridging Faults in Combinational Circuits, February 15, 1994.
+94-02 Cai, Jin-Yi; Naik, Ashish V.; Selman, Alan L.. On P-selective sets and Adaptive versus Nonadaptive Queries to NP, February 2, 1994.
+94-01 Ali, Syed S.. A "Natural Logic" for Natural Language Processing and Knowledge Representation, February 9, 1994.
+93-43 Revankar, Shriram. Supervised Image Segmentation, May 1, 1993.
+93-42 Chakravarty, Sreejit; Thadikaran, Paul J.. On Iddq Measurement Based Analysis of Bridging Faults in CMOS Circuits, November 1, 1993.
+93-41 Cai, Jin-Yi; Fuchs, W.H.J.; Kozen, Dexter; Liu,icheng. Efficient Average-Case Algorithms for the Modular Group, June 15, 1995. (modified version)
+93-40 Jayaraman, Bharat; Osorio, Mauricio; Moon, Kyonghee. Partial Order Logic Programming, November 30, 1993.
+93-39 Sher, David B.; Wafford, Charlotte E.; Milun, Davin. Relating Gibbs distributions to empirically derived marginal distributions for image analysis, November 23, 1993.
+93-38 Chakravarty, Sreejit. A Study of Theoretical Issues in the Synthesis of Delay Fault Testable Circuits, October 26, 1993.
+93-37 Hexmoor, Henry H.; Lammens, Johan M.; Shapiro, Stuart C.. An Autonomous Agent Architecture for Integrating "Unconscious" and "Conscious", Reasoned Behaviors, August 24, 1993.
+93-36 Naik, Ashish V.; Baveja, Alok; Batta, Rajan; Caulkins, Jonathan P.. Scheduling Crackdowns on Illicit Drug Markets, August 30, 1993.
+93-35 Regan, Kenneth W.. A New Parallel Vector Model, With Exact Characterizations of NC^k, August 17, 1993.
+93-34 Naik, Ashish V.; Regan, Kenneth W.; Sivakumar, D.. Quasilinear Time Complexity Theory, August 20, 1993.
+93-33 Regan, Kenneth W.. Machine Models and Linear Time Complexity, August 16, 1993.
+93-31 Lammens, Johan M.; Shapiro, Stuart C.. Learning Symbolic Names for Perceived Colors, August 16, 1993.
+93-30 Bar-Yehuda, R.; Dabholkar, Vinay P.; Govindarajan, Kannan; Sivakumar, D.. Randomized Local Approximations with Applications to the MAX-CLIQUE Problem, August 17, 1993.
+93-29 Hemaspaandra, Lane A.; Hoene, Albrecht; Naik, Ashish V.; Ogiwara, Mitsunori; Selman, Alan L.; Thiera. Selectivity: Reductions, Nondeterminism, and Function Classes, August 18, 1993.
+93-28 Hemaspaandra, Lane A.; Naik, Ashish V.; Ogiwara, Mitsunori; Selman, Alan L.. Computing Solutions Uniquely Collapses the Polynomial Hierarchy, August 17, 1993.
+93-27 Miller, Russ. The Status of Parallel Processing Education, July 1, 1993. (updated subsequently)
+93-26 Osorio, Mauricio; Jayaraman, Bharat. Subset Assertions and Negation-As Failure, July 27, 1993.
+93-25 Regan, Kenneth W.. On the Difference Between Turing Machine Time Random-Access Machine Time, July 12, 1993.
+93-24 Regan, Kenneth W.. Efficient Reductions from NP to Parity Using Error-Correcting Codes (preliminary version), June 12, 1993.
+93-23 Mackey, Niloufer. Hamilton and Jacobi Meet Again: Quaternions and the Eigenvalue Problem, May 15, 1993.
+93-22 Sarnath, R.. A Randomized Parallel Algorithm for dfa-minimization, August 3, 1993.
+93-21 Hemaspaandra, Edith; Naik, Ashish V.; Ogiwara, Mitsunori; Selman, Alan L.. P-Selective Sets, and Reducing Search to Decision vs. Self-Reducibility, July 30, 1993.
+93-20 Choi, Joongmin. Experience-Based Learning In Deductive Reasoning Systems, May 1, 1993.
+93-18 Sivaprakasam, S.. Performance Enhancements in SunOS NFS, May 1, 1993.
+93-16 Ali, Syed S.; Shapiro, Stuart C.. Natural Language Processing Using a Propositional Semantic Network with Structured Variables, May 7, 1993.
+93-15 Hexmoor, Henry H.; Lammens, Johan M.; Caicedo, G.; Shapiro, Stuart C.. Behavior Based AI, Cognitive Processes, and Emergent Behaviors in Autonomous Agents, April 1, 1993.
+93-13 Lammens, Johan M.; Hexmoor, Henry H.; Shapiro, Stuart C.. Of Elephants and Men, April 1, 1993.
+93-10 Hexmoor, Henry H.; Lammens, Johan M.; Shapiro, Stuart C.. Embodiment in GLAIR: A Grounded Layered Architecture with Integrated Reasoning for Autonomous Agents, February 1, 1993.
+93-09 Chakravarty, Sreejit; Gong, Yiming. A Diagnostic Simulation Algorithm for Stuck-at Faults in Combinational Circuits, March 1, 1993.
+93-07 Shu, Wei; Wu, Min-You. Sparse Implementation of Revised Simplex Algorithms on Parallel Computers, July 1, 1993.
+93-05 Fenner, Stephen; Homer, Stephen; Ogiwara, Mitsunori; Selman, Alan L.. On Using Oracles That Compute Values, February 17, 1993.
+93-04 Chakravarty, Sreejit; Sivaprakasm, Suresh. I_DDQ Measurement Based Diagnosis of Bridging Faults in Full, February 1, 1993.
+93-02 Sarnath, R.. Lower bounds for padded sorting and approximate counting, January 1, 1993.
+93-01 Sarnath, R.. Doubly logarithmic time parallel sorting , January 1, 1993.
+92-33 Jagota, A.. Approximating Maximum Clique with a Hopfield Network, December 1, 1992.
+92-32 Chakravarty, Sreejit; Theophilopoulos, G.. Computing Robust Test for Stuck-open Faults from Stuck-at Test Sets, December 1, 1992.
+92-30 Sher, David B.; Cheung, Chris Y.. Constructing Noise-Reducing Operators from Training Images, November 1, 1992.
+92-27 Green, Frederic; Kobler, J.; Regan, Kenneth W.; Schwentick, Thomas; Toran, Jacobo. The Power of the middle Bit of Number-P Function, October 1, 1992.
+92-26 Chakravarty, Sreejit; Gong, Yiming. An Algorithm for Diagnosing Two-Line Bridging Faults in Combinational Circuits, October 1, 1992.
+92-25 Revankar, Shriram; Sher, David B.. Constrained Contouring in the Polar Coordinates, October 1, 1992.
+92-24 Jagota, A.; Regan, Kenneth W.. Performance, October 1, 1992.
+92-23 Hexmoor, Henry H.; Nute, Donald. Methods for deciding what to do next and learning, September 1, 1992.
+92-22 Milun, Davin; Sher, David B.. Improving Edge Detectors on Compressed Images-A Trainable Markov Random Field Approach, September 1, 1992.
+92-21 Hexmoor, Henry H.; Lammens, Johan M.; Shapiro, Stuart C.. An Autonomous Agent Architecture for Integrating Perception and Acting with Grounded Embodied Symbolic Reasoning, August 1, 1992.
+92-18 Sunder, S.; He, Xin. An NC Algorithm , July 1, 1992.
+92-16 Chakravarty, Sreejit; Thadikaran, Paul J.. Generation and Simulation of IDDQ Tests for Bridging and Leakage Faults in Combinational Circuits, June 1, 1992.
+92-14 Khoubyari, S.. The Application of Word Image Matching in Text Recogntion, June 1, 1992.
+92-13 Revankar, Shriram; Sher, David B.. Pattern Extraction by Adaptive Propagation of a Regional Threshold, June 1, 1992.
+92-12 Ho, Tin Kam. A Theory of Multiple Classifier Systems and Its Application to Visual Word Recognition, May 1, 1992.
+92-10 Chuang, E.; Sher, David B.. Evidence Representation & Combination in Low-level Vision, May 1, 1992.
+92-09 Chuang, E.; Sher, David B.. Chi-square Tests for Feature Detection, May 1, 1992.
+92-03 Revankar, Shriram; Sher, David B.. Supervised Image Segmentation, January 1, 1992.
+91-18 Regan, Kenneth W.; Schwentick, Thomas. On the Power of One Bit of a Number-P Function, June 5, 1992.
+91-16 He, Xin. Parallel Algorithm for Cograph Recognition with Applications (Revised), June 1, 1991.
+91-14 Shende, A.. Digital Analog Simulation of Uniform Motion in Representations of Physcial N-Space by Lattice-work MIMD Computer Architectures, April 1, 1991.
+91-13 Shapiro, Stuart C.; Chalupsky, Hans; Chou, H.. Connecting ARC/INFO and SNACTor Project Report, June 1, 1992.
+91-12 Selman, Alan L.. A Taxonomy of Complexity Class of Functions, June 1, 1992.
+91-11 Jayaraman, Bharat. The SuRE Programming Framework, August 1, 1991.
+91-09 Haas, J.; Jayaraman, Bharat. Automatic Synthesis of Semantics for Context-free Grammars, July 1, 1991.
+91-05 He, Xin. Efficient Parallel Algorithms for Two Graph Layout Problems, June 1, 1991.
+91-04 Homer, Stephen; Selman, Alan L.. Complexity Theory, June 8, 1992.
+90-26 Sanath, R.; He, Xin. Efficient Parallel Algorithms for Selection and Searching on Sorted Matrices, February 1, 1990.
+90-24 He, Xin. On Finding the Rectangular Duals of Planar Triangulated Graphs, September 1, 1990.
+90-23 He, Xin. An Improved Algorithm for the Planar 3-Cut Problem, February 1, 1990.
+90-21 Shapiro, Stuart C.; Rapaport, William J.. The SNePS Family, September 1, 1990.
+90-13 Rapaport, William J.. Computer Processes and Virtual Persons: Comments on Cole's "Artificial Intelligence and Personal Identity", May 1, 1990.
+90-12 Rapaport, William J.. Cognitive Science (Superseded by TR 96-19), May 1, 1990.
+RESEARCH RANKING
+Excelsior!
+UB's institutional reputation in the field of computer science has improved dramatically over the last decade.  By the most valid measure, our national ranking has risen from 50th to 29th.
+RESEARCH HIGHLIGHTS
+The End of Sneakernet?
+An article on PhysOrg reports UB has received a $584,469 grant from the National Science Foundation to create a tool designed to work with the existing computing infrastructure to boost data transfer speeds by more than 10 times, and quotes Tevfik Kosar, associate professor of computer science.
+
+
+
+
+
+MORE RESEARCH HIGHLIGHTS
+Connect With Us
+Computer Science and Engineering
+338 Davis Hall
+Buffalo, New York 14260-2500
+(716) 645-3180
+Quick Links
+Why Choose CSE?
+News & Events
+Employment Opportunities
+Give to CSE
+Contact Us
+Admissions
+Undergraduate Admissions
+Graduate Admissions
+Explore Further
+Get Involved
+Engineering and Applied Sciences Alumni Association
+Support SEAS
+Collaborate with UB
+On This Website
+About Us
+Undergraduate Programs
+Graduate Programs
+Research
+People
+News & Events
+Full Site Map
+Information For
+Students
+Faculty and Staff
+Alumni
+© 2023 University at Buffalo. All rights reserved.  |  Privacy  |  Accessibility

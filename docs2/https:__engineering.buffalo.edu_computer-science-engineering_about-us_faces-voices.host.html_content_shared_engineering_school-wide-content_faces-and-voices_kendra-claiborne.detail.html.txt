@@ -1,0 +1,85 @@
+School of Engineering and Applied Sciences
+UB HomeMapsUB Directory
+Department of Computer Science
+and Engineering
+Give to CSE Apply Now Contact Us
+About Us
+Undergraduate
+Graduate
+Research
+People
+News & Events
+Alumni
+SEARCH
+INFO FOR
+Department of Computer Science and Engineering About Us Faces & Voices Kendra Claiborne
+About Us
+Chair's Welcome
+Our Mission
+Our Values
+Why Choose CSE?
+Faces & Voices
+A History of our Department
+Contact Us
+Support CSE
+Related Links
+About the School of Engineering and Applied Sciences
+About the University
+About Buffalo-Niagara
+ALUMNI PROFILE
+Kendra Claiborne
+Engineer, YouTube
+Kendra Claiborne, BS '15, Computer Science
+Believing in yourself: Kendra Claiborne’s journey through tech
+"To the aspiring Black engineers, there is more than enough space in the industry for your knowledge and creativity and your input is needed, wanted and valued."
+Kendra Claiborne, Computer science alumna and engineer
+YouTube
+Since graduating with a BS  in computer science in 2015, Kendra Claiborne has brought her expertise to Huron Consulting Group, Deloitte Digital, Box and most recently, YouTube. Her experience at UB was essential for preparing her for life after college and setting her up for success. 
+“The knowledge that I gained from core computer science classes such as Data Structures and Algorithms provided me with the foundation for problem-solving in software development that I still draw from every day when designing and implementing technical solutions,” Claiborne says.
+But the road has not always been easy. “I recently achieved a career goal of working at my dream company with an amazing team. I’m getting to do work that is fulfilling and impactful,” she says. “I set a goal of working at Google during my undergrad and did not know when or if it would even happen. It took me three tries over the span of four years to achieve it but diligence and continuous learning were the two main ingredients.”
+Kendra has recently persevered through a new challenge: beginning a new job mid-pandemic. “Since I started at YouTube in November of 2020, during what many of my peers and I term the ‘Work from Home’ period, I have not had the opportunity to go into the office or meet my team in-person as of yet,” says Claiborne. “Despite these circumstances, I've really enjoyed working on a platform that I'm an avid user of –and delivering technical solutions that directly impact internal business operation users’ ability to efficiently perform their roles.”
+We asked Kendra to reflect on her time in and out of the classroom at the University at Buffalo and share what she’s learned with aspiring engineers and computer scientists.
+What’s a current project at YouTube that you’re working on that you’re excited about?
+I'm currently working on a project where we're implementing a notification delivery platform for internal business users in our partner management application. The notification feature will help business users to receive alerts and make actionable, timely, and intelligent decisions about their partners where historically they were unaware, delayed, or reactive when it came to events and trends that impacted their partner's ability to succeed on YouTube.
+This project involves UI/UX and backend services, so I get to do both frontend and backend development. Given the amount of user stories associated with the project, the module is incrementally implemented which means that we release something new every two weeks, receive feedback from users and push out new and/or enhanced functionality on a bi-weekly basis.
+What’s most exciting is that this is my first real project since joining the team and I’m getting the opportunity to work on this project from the ground up which allows me to have design and technical input from the beginning.
+What were some formative experiences for you during your time at UB?
+Outside of the classroom, UB offered many opportunities to build soft skills by way of networking events, interacting with recruiters and software developers from top tech companies at career fairs and company campus visits, participating in STEM research through programs like the Louis Stokes Minority Alliance for Minority Participation (LSAMP). 
+The School of Engineering and Applied Sciences and student body clubs helped build my technical and non-technical skills and exposed me to communities and "rooms" that I normally would have been too shy to enter. One of my most memorable experiences at UB that cultivated an important purpose of mine was during my junior year when four other engineering students and I founded the student club UB Scientista, now known as UB DivTech. The organization's core goals were to create more awareness around the representation of women in engineering, particularly computer science, and increase this representation through community and networking events. Being a part of this group planted the seed that has since grown into a passion of improving the representation of underrepresented groups in the tech industry.
+What advice do you have for UB students who have recently graduated and will soon embark on their careers?
+To the rising and recent graduates, you made it to the starting line! I'm sure the warm-up was challenging, but it was necessary to give you the fortitude to take on your journey. There will be many paths that you can embark on throughout your journey and you may even get tripped up or take a less ideal path. Remember, mistakes are unavoidable and part of the journey, so prepare to make a ton of mistakes! When you make a mistake, how you react and your resiliency is what your peers will remember you by. Throughout my career, I've made mistakes that made me feel incompetent and doubt if I belonged. I learned that my peers did not define me and my abilities based on the mistakes I made but that how I addressed the issue is what left a lasting impression.
+Lastly, stepping out into the world, you may feel that people expect you to know everything, but that is not the case. You are an ever-evolving being and you'll gain so many lessons, experience and skills over your lifetime. Be vocal in what you do know and speak up when you need time to research the unknown. You can always say "let me get back to you on that." Be confident in what you do know and willing to learn.
+Do you have any advice specifically for aspiring Black engineers?
+To the aspiring Black engineers, there is more than enough space in the industry for your knowledge and creativity and your input is needed, wanted and valued. I urge you to not let self-doubt or the demographic make-up of an environment dictate whether you belong or what you can accomplish. Given the current circumstances of Covid and with racial justice efforts being at the forefront of many companies' diversity, equity and inclusion initiatives, it can feel suffocating. Take moments, as often as you need, to breathe and give yourself grace.
+Connect With Us
+Computer Science and Engineering
+338 Davis Hall
+Buffalo, New York 14260-2500
+(716) 645-3180
+Quick Links
+Why Choose CSE?
+News & Events
+Employment Opportunities
+Give to CSE
+Contact Us
+Admissions
+Undergraduate Admissions
+Graduate Admissions
+Explore Further
+Get Involved
+Engineering and Applied Sciences Alumni Association
+Support SEAS
+Collaborate with UB
+On This Website
+About Us
+Undergraduate Programs
+Graduate Programs
+Research
+People
+News & Events
+Full Site Map
+Information For
+Students
+Faculty and Staff
+Alumni
+© 2023 University at Buffalo. All rights reserved.  |  Privacy  |  Accessibility
