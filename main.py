@@ -1,11 +1,12 @@
 from flask import Flask, abort, request, jsonify , Response
 from tempfile import NamedTemporaryFile
-
+from helper_chatgpt import gptResponse
+import time
 
 AUDIO_RECOG = True
-FACE_RECOG = False
+FACE_RECOG = True
 TRANSCRIBE = True
-EMOTION = False
+EMOTION = True
 WAKE_WORD = True
 
 if EMOTION:
@@ -159,6 +160,28 @@ if AUDIO_RECOG:
         # results.append( [out] ) 
 
         return jsonify(out)
+    
+    @app.route('/give_embd', methods=['POST'])
+    def give_embd():
+        
+        handle =  request.files['audio1']
+        temp = NamedTemporaryFile()
+        handle.save(temp)
+        embedding1 = inference(temp.name)
+        embedding1 = embedding1.reshape(1,512)
+        
+        handle =  request.files['audio2']
+        temp = NamedTemporaryFile()
+        handle.save(temp)
+        embedding2 = inference(temp.name)
+        embedding2 = embedding2.reshape(1,512)
+        
+        distance = 1 - cdist(embedding1, embedding2, metric="cosine")
+        out = {"Sim": float(distance) }
+        
+        return jsonify(out)
+    
+    
 
 def give_emotion(face, img):
     (x1,y1) = int(face['bbox'][0]), int(face['bbox'][1])
@@ -232,9 +255,39 @@ if FACE_RECOG:
         #     print(faces)
 
         response = Response(image_encoded.tobytes(), content_type='image/jpeg')
-    
+        return response
+        
+        
+    @app.route('/face_sim', methods=['POST'])
+    def face_sim():
+        if not request.files:
+            abort(400)
 
-        return response #jsonify({'results': image_bytes })
+        # Handle the image data
+        image_file = request.files['image1']
+        image = cv2.imdecode(np.frombuffer(image_file.read(), np.uint8), cv2.IMREAD_UNCHANGED)
+        
+        faces = face_recog_app.get(image)
+        if len(faces) != 0:
+            for i in range(len(faces)):
+                det_embd1 = handler.get(image, faces[i])
+
+        # Handle the image data
+        image_file = request.files['image2']
+        image = cv2.imdecode(np.frombuffer(image_file.read(), np.uint8), cv2.IMREAD_UNCHANGED)
+        
+        faces = face_recog_app.get(image)
+        if len(faces) != 0:
+            for i in range(len(faces)):
+                det_embd2 = handler.get(image, faces[i])
+                
+        recog = handler.compute_sim(det_embd1, det_embd2 )
+        
+        out = {"Sim": float(recog) }
+        
+        return jsonify(out)
+
+
 if WAKE_WORD:
     import pvporcupine
     import os
@@ -256,25 +309,64 @@ if WAKE_WORD:
 @app.route('/complete', methods=['POST'])
 def complete():
     user = str( request.form.get('user', 'None'))
+    audio_auth = str(request.form.get('audio_auth', False))
+    
     handle =  request.files['audio']
     temp = NamedTemporaryFile()
     handle.save(temp)
     
-    # audio authentication
-    curr_embedding = inference(temp.name)
-    curr_embedding = curr_embedding.reshape(1,512)
+    distance = 0.0
+    time_ar = None
 
-    distance = cdist(stored_Audio_embeddings[user.lower()], curr_embedding, metric="cosine")
-    
-    if distance > 0.7:
-        out = {"Auth": False , "Sim": float(distance), "Map" : None, "Request" : None, "Response": None }
-        return jsonify(out)
-    
+    if audio_auth == "True":
+        print("audio auth")
+        start_time = time.time()
+        curr_embedding = inference(temp.name)
+        curr_embedding = curr_embedding.reshape(1,512)
+        distance = cdist(stored_Audio_embeddings[user.lower()], curr_embedding, metric="cosine")
+        time_ar = round(time.time() - start_time ,3)
+        if distance > 0.85:
+            out = {"Auth": False , "Sim": float(distance), "Request" : None, "func": None, "arg" : None, "time ar" :time_ar,  "time trans" : None , "time_gpt" : None }
+            return jsonify(out)
+
+    # -----------------
+
+    start_time = time.time()
     result = whispher_model.transcribe(temp.name)
-    out = {"Auth": True , "Sim": float(distance), "Map" : None, "Request" : result['text'] , "Response": None }
+    time_trans = round(time.time() - start_time , 3)
+
+    out = {
+        "Auth": audio_auth,
+        "Sim": float(distance),
+        "Request": result['text'],
+        "func": None,
+        "arg": None,
+        "time ar": time_ar,
+        "time trans": time_trans,
+        "time_gpt": None,
+    }
+
+    if "dance" in result["text"].lower():
+        out = {
+            "Auth": True,
+            "Sim": float(distance),
+            "Request": result['text'],
+            "func": "Dance",
+            "arg": None,
+            "time ar": time_ar,
+            "time trans": time_trans,
+            "time_gpt": None,
+            }
+        return out
+
+    # -----------------
+    start_time = time.time()
+    out['func'], out['arg'] = gptResponse(str("Please Provide answer in two or three sentences ") + result['text'])
+    time_gpt = round(time.time() - start_time , 3)
+    out['time_gpt'] =  time_gpt
     
     return jsonify(out)
 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port = 5006)
+    app.run(host='0.0.0.0', port = 5001)
