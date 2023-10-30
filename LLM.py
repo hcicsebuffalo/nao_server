@@ -25,11 +25,11 @@ import qrcode
 from pdf2image import convert_from_bytes
 images1 = convert_from_bytes(open(
     '/home/csgrad/sunilruf/nlp_cse/LLM_bot/data/grad-handbook-2023.pdf', 'rb').read())
-os.environ["OPENAI_API_KEY"] = "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"
+
 documents = []
-for file in os.listdir("docs2"):
+for file in os.listdir("docs3"):
     if file.endswith('.txt'):
-        text_path = "./docs2/" + file
+        text_path = "./docs3/" + file
         loader = TextLoader(text_path)
         documents.extend(loader.load())
 for file in os.listdir("data"):
@@ -42,8 +42,8 @@ documents = text_splitter.split_documents(documents)
 embeddings = HuggingFaceEmbeddings(model_name="hkunlp/instructor-base")
 vectordb = FAISS.from_documents(documents, embeddings)
 pdf_qa = ConversationalRetrievalChain.from_llm(
-    ChatOpenAI(temperature=0.1, model_name="gpt-3.5-turbo-16k"),
-    vectordb.as_retriever(search_type = "similarity_score_threshold", search_kwargs={'score_threshold': 0.5, 'k': 10}),
+    ChatOpenAI(max_tokens=150,temperature=0.1, model_name="gpt-3.5-turbo-16k"),
+    vectordb.as_retriever(search_type = "similarity_score_threshold", search_kwargs={'score_threshold': 0.5, 'k': 4}),
     return_source_documents=True,
     verbose=False
 )
@@ -77,9 +77,9 @@ def LLMResponse(query):
         except:
             pass
         try:
-            if '.html' in (result['source_documents'][0].metadata)['source']:
+            if 'http' in (result['source_documents'][0].metadata)['source']:
                 website_url = (result['source_documents'][0].metadata)['source'].split('/')[2][:-4]
-                website_url = website_url.replace("_","/")
+                website_url = website_url.replace("[","/")
                 qr = qrcode.QRCode(
                 version=1,  # QR code version (adjust as needed)
                 error_correction=qrcode.constants.ERROR_CORRECT_L,  # Error correction level

@@ -1,0 +1,251 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Undergraduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Archived Catalogs
+General Catalog Information
+Majors and Combined Degrees
+Minors, Certificates and Micro-Credentials
+Departments & Programs
+Courses
+UB Curriculum (General Education)
+Academic Policies and Procedures
+Academic Calendar
+Campus Facilities and Instructional Spaces
+Financial and Scholarship Information
+Admissions
+Student Records and Registration
+Academic Advising
+Learning Outside the Classroom
+Study Abroad
+myUB
+HUB Academic Advisement Report
+Accreditations
+a
+Cognitive Science BA
+Return to: Majors and Combined Degrees
+“Cognitive science called to me because it took every academic interest and showed me a real-life application,” said one UB student. “It’s a means of not just studying people, but making a difference in those people’s lives.”
+Think about how you understand the words you’re reading right now. Consider what makes you smart, what makes you creative, or how we decide what “intelligence” means in people and machines. 
+If you want to explore these types of questions-and use the answers to make the world a better place-then cognitive science might be right for you.
+Visit the Cognitive Science academic program page for more information about the academic experience, who you will learn from, opportunities outside of class and what you can do with this degree.
+Visit the Social Sciences Interdisciplinary department page for contact information, a brief overview of the department and the curricular options.
+Course Requirements
+Cognitive Science Core (6 credits)
+PSY 342LEC - Introduction to Cognitive Science: Concepts of the Mind Credits: 3 *
+SSC 391LEC - Cognitive Science Colloquium Credits: 1 (taken three times for a total of 3 credits)
+Five Core Courses (15-20 credits)
+Select courses from at least three different departments.
+APY 106LEC - Introduction to Cultural Anthropology Credits: 3
+APY 107LEC - Introduction to Biological Anthropology Credits: 3
+CDS 286LEC - Phonetics Credits: 3
+CSE 115LLR - Introduction to Computer Science I Credits: 4
+CSE 116LLB - Introduction to Computer Science II Credits: 4
+CSE 191LR - Introduction to Discrete Structures Credits: 4
+CSE 220LLB - Systems Programming Credits: 4
+CSE 250LR - Data Structures Credits: 4
+GEO 120LEC - Maps: Earth From Above Credits: 3
+GEO 281LEC - Web-Based Geographic Information Systems Credits: 3
+LIN 104LEC - Writing Systems Credits: 3
+LIN 205LEC - Introduction to Linguistic Analysis Credits: 3
+LIN 207LEC - Language, Society, and the Individual Credits: 3
+MTH 121LR - Survey of Calculus and Its Applications I Credits: 4
+MTH 122LR - Survey of Calculus and Its Applications II Credits: 4
+MTH 141LR - College Calculus I Credits: 4
+MTH 142LR - College Calculus 2 Credits: 4
+MTH 241LR - College Calculus 3 Credits: 4
+PHI 115LEC - Critical Thinking Credits: 3
+PHI 185LEC - Model-Based Reasoning Credits: 3
+PHI 215LEC - Symbolic Logic Credits: 4
+PSY 101LEC - Introductory Psychology Credits: 3
+PSY 207LLB - Psychological Statistics Credits: 4
+Seven Advanced Courses (21-28 credits)
+No more than four courses may come from a single department. No more than two courses may be used to fulfill requirements for another major or degree.  Many advanced courses have prerequisites, therefore students are advised to confirm eligibility. One course may be replaced with a 3-credit research activity (498) or independent study (499) administered by one of the participating departments below and approved by the Social Sciences Interdisciplinary Program.
+Anthropology
+APY 311LEC - Psychological Anthropology Credits: 3
+APY 347LEC - Understanding Human Variation Credits: 3
+Communicative Disorders and Sciences
+CDS 301LEC - Language Development in Children Credits: 3
+CDS 387LEC - Psychoacoustic Science Credits: 3
+CDS 388LEC - Anatomy and Physiology of the Speech Mechanism Credits: 3
+CDS 389LEC - General and Speech Acoustics Credits: 3
+CDS 402LEC - Language Disorders in Children Credits: 3
+CDS 428LEC - Neural Basis of Communication Credits: 3
+Computer Science and Engineering
+CSE 305LR - Introduction to Programming Languages Credits: 4
+CSE 368LR - Introduction to Artificial Intelligence Credits: 4
+CSE 370LR - Applied Human Computer Interaction and Interface Design Credits: 4
+CSE 396LR - Introduction to the Theory of Computation Credits: 4
+CSE 430LEC - Topics in Theoretical Computer Science Credits: 3
+CSE 455LEC - Introduction to Pattern Recognition Credits: 3
+CSE 463LEC - Knowledge Representation Credits: 3
+CSE 468LEC - Robotics Algorithms Credits: 3
+CSE 469LEC - Introduction to Data Mining Credits: 3
+CSE 470LEC - Introduction to Parallel and Distributed Processing Credits: 3
+CSE 473LEC - Introduction to Computer Vision and Image Processing Credits: 3
+CSE 474LEC - Introduction to Machine Learning Credits: 3
+Geography
+GEO 381LLB - Cartography Credits: 4
+GEO 481LLB - Geographic Information Systems Credits: 4
+GEO 482LEC - Locational Analysis Credits: 3
+GEO 483LLB - Remote Sensing Credits: 4
+GEO 485LEC - Cartography and Geographic Visualization Credits: 3
+GEO 493LEC - Dynamic Modeling of Human and Environmental Systems Credits: 3
+Industrial Engineering
+IE 323LLB - Human Factors in System Design Credits: 4
+IE 435LEC - Human Centered Design for Interactive Systems Credits: 3
+Linguistics
+LIN 301LEC - Structure of English: The Sound System Credits: 3
+LIN 302LEC - Structure of English: Grammar and Lexicon Credits: 3
+LIN 333LEC - Introduction to Linguistic Meaning Credits: 3
+LIN 345LEC - Natural Language and the Computer Credits: 3
+LIN 356LEC - An Introduction to Contemporary Theories of Metaphor Credits: 3
+LIN 404LEC - Discourse-Pragmatics Credits: 3
+LIN 405LEC - Bilingualism and Language Contact Credits: 3
+LIN 410LEC - Morphology Credits: 3
+LIN 415LEC - Syntax I Credits: 3
+LIN 417LEC - Psycholinguistics Credits: 3
+LIN 421LEC - Linguistic Anthropology Credits: 3
+LIN 425LEC - Typology and Universals Credits: 3
+LIN 431LEC - Phonetics Credits: 3
+LIN 432LEC - Phonology I Credits: 3
+LIN 438LEC - Semantics Credits: 3
+LIN 439LEC - Historical Linguistics Credits: 3
+LIN 443LEC - Semantics II Credits: 3
+LIN 455LEC - Language Acquisition Credits: 3
+LIN 467LEC - Computational Linguistics Credits: 3
+Mathematics
+MTH 306LR - Introduction to Differential Equations Credits: 4
+MTH 309LR - Introductory Linear Algebra Credits: 4
+MTH 443LEC - Fundamentals of Applied Mathematics I Credits: 3
+MTH 460LR - Theory of Games Credits: 4
+Neuroscience
+NRS 301LEC - The Brain Credits: 3
+Philosophy
+PHI 320LEC - Philosophy of Mind Credits: 3
+PHI 321LEC - Philosophy of Science Credits: 3
+PHI 322LEC - Philosophy of Social Sciences Credits: 3
+PHI 328LEC - Philosophy of Language Credits: 3
+PHI 329LEC - Metaphysics Credits: 3
+PHI 333LEC - Epistemology Credits: 3
+PHI 417LEC - Modal Logic Credits: 3
+Psychology
+PSY 336LEC - Developmental Psychology Credits: 3
+PSY 341LEC - Cognitive Psychology Credits: 3
+PSY 343LEC - Sensory Processes and Perception Credits: 3
+PSY 347LEC - Psychology of Learning Credits: 3
+PSY 350LEC - Scientific Inquiry in Psychology Credits: 3
+PSY 351LEC - Biopsychology Credits: 3
+PSY 416LEC - Reasoning and Problem Solving Credits: 3
+PSY 419LEC - Biological Bases of Memory Credits: 3
+PSY 426LEC - Experimental Models of Psychological Disorders Credits: 3
+PSY 427LEC - Adult Development and Aging Credits: 3
+PSY 428LEC - Language Development Credits: 3
+PSY 429LEC - Psychophysiology Credits: 3
+PSY 436LEC - Neuropsychology Credits: 3
+PSY 445LEC - Memory Credits: 3
+PSY 446LEC - Animal Cognition Credits: 3
+PSY 447LEC - Psychology of Music Credits: 3
+PSY 448LEC - Psycholinguistics Credits: 3
+PSY 451LEC - Drug Addiction Credits: 3
+PSY 457LEC - Cognitive Development Credits: 3
+Notes
+*Continuation in the major will be contingent on completing PSY 342 with a minimum grade of B-
+Total Credits Required for Major: 42-54
+Additional Degree Requirements Include:
+Additional coursework to fulfill UB Curriculum requirements
+Elective courses as needed to complete the 120 credit hour total
+Total Credits Required for Graduation: 120
+Total Credit Hours Required represents the minimum credits needed to complete this program, and may vary based on a number of circumstances. This chart should not be used for financial aid purposes.
+Academic Requirements
+Students must maintain a minimum GPA of 2.000 in the major. All courses taken by a student that are included in the Cognitive Science curriculum will be used in calculation of the major GPA. For example, if a curriculum requires a student to select two courses from a particular section and the student completes three courses from that section, all three courses would be used to calculate a student’s major GPA.  
+Each course taken may be counted only once and applied toward only one requirement (e.g., PHI 320 may be taken as a core courses or applied to the advanced course section, but not both). Many courses in the advanced course section have prerequisite requirements. For more information students should check individual course descriptions in the undergraduate catalog and/or speak with the Cognitive Science advisor. The Cognitive Science major may not be combined with any other major to form a joint major. Students pursuing a double major may use a maximum of two advanced (300- or 400-level) courses toward both majors. For example, a student completing a double major between Cognitive Science and Psychology may apply only two advanced level psychology courses toward completion of the Cognitive Science major.
+Transfer Credit Policy
+For students not continuously registered at UB or who are newly admitted transfer students, courses taken more than 10 years prior to the date of admission or readmission to the University may constitute no more than 20% of the coursework applied to the Cognitive Science major. Students who have more than 20% of course work over 10 years old will be required to complete additional courses in the major. At least 50 percent of coursework toward the major must be completed at UB.
+Program Distinction
+A student in this major is eligible for Program Distinction upon degree conferral if the criteria are met. Criteria are found under Academic Honors in the Policy and Procedure section of this Catalog. Program Distinction is noted on the official transcript.
+Curricular Plan
+A Curricular Plan provides a roadmap for completing this academic program and the UB Curriculum on time. Your actual plan may vary depending on point of entry to the university, course placement and/or waivers based on standardized test scores, earned alternative credit and/or college transfer credit.
+First Year Fall
+Pathway Credits: 3
+Core Course Credits: 3
+Pathway Credits: 3
+ENG 105LEC - Writing and Rhetoric Credits: 4  OR  Pathway Credits: 3
+UB Seminar Credits: 3
+Total Credits: 15 or 16
+First Year Spring
+Pathway Credits: 3
+Elective Credits: 3
+Core Course Credits: 3
+Math and Quantitative Reasoning Credits: 3
+ENG 105LEC - Writing and Rhetoric Credits: 4  OR  Pathway Credits: 3
+Total Credits: 16 or 17
+Second Year Fall
+Core Course Credits: 3
+Core Course Credits: 3
+Pathway Credits: 3
+Pathway Credits: 3
+Scientific Literacy 1 Credits: 3
+Total Credits: 15
+Second Year Spring
+PSY 342LEC - Introduction to Cognitive Science: Concepts of the Mind Credits: 3
+Core Course Credits: 3
+Communication Literacy 2 Credits: 3
+UBC 399MNT - UB Curriculum Capstone Credits: 1
+Scientific Literacy 2 Credits: 3
+Scientific Literacy Lab Credits: 1
+Total Credits: 14
+Third Year Fall
+Elective Credits: 3
+Elective Credits: 3
+Elective Credits: 3
+SSC 391LEC - Cognitive Science Colloquium Credits: 1
+Advanced Course Credits: 3
+Advanced Course Credits: 3
+Total Credits: 16
+Third Year Spring
+SSC 391LEC - Cognitive Science Colloquium Credits: 1
+Elective Credits: 3
+Advanced Course Credits: 3
+Advanced Course Credits: 3
+Advanced Course Credits: 3
+Advanced Course Credits: 3
+Total Credits: 16
+Fourth Year Fall
+Elective Credits: 3
+Elective Credits: 3
+Elective Credits: 3
+SSC 391LEC - Cognitive Science Colloquium Credits: 1
+Advanced Course Credits: 3
+Total Credits: 13
+Fourth Year Spring
+Elective Credits: 3
+Elective Credits: 3
+Elective Credits: 3
+Elective Credits: 3
+Elective Credits: 2
+Total Credits: 14
+Total Credits Required: 120
+Note: Some classes may count toward both a major and UB Curriculum requirement.
+Learning Outcomes
+Upon completion of this concentration students will be able to:
+Understand several social scientific approaches to cognitive science.
+Identify how cognition changes through the life cycle.
+Identify and use computational models of human cognition and perception processes.
+Apply symbolic and connectionist methods and the theory of computation.
+Understand cognition apart from physiological implementation. 
+Identify and use abstract principles of thought.
+Identify language phenomena at the elementary physiological level through its abstract characterization.
+Understand how the brain implements thought, sensation, perception and consciousness .
+Identify symbolic information systems across disciplines and manipulate traditional information processing approaches.
+Admission Criteria
+Current UB students seeking admission to the Cognitive Science BA will be added to the major upon request by completing the College of Arts and Sciences Request to Change a Major - Form.
+Return to: Majors and Combined Degrees
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2023 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

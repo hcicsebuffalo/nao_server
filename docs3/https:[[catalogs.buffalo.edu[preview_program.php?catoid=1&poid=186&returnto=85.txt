@@ -1,0 +1,237 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Undergraduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Archived Catalogs
+General Catalog Information
+Majors and Combined Degrees
+Minors, Certificates and Micro-Credentials
+Departments & Programs
+Courses
+UB Curriculum (General Education)
+Academic Policies and Procedures
+Academic Calendar
+Campus Facilities and Instructional Spaces
+Financial and Scholarship Information
+Admissions
+Student Records and Registration
+Academic Advising
+Learning Outside the Classroom
+Study Abroad
+myUB
+HUB Academic Advisement Report
+Accreditations
+a
+Engineering Science BS
+Return to: Majors and Combined Degrees
+Engineering science gives you a chance to get a little bit of everything. It’s a flexible and multi-departmental degree that lets you see what you like-and get more of what you love. This program is ideal for people who want to learn how to be well-rounded problem-solvers, using experience from all different disciplines to make an impact on the environment, healthcare or nearly any field. If you’re having a hard time deciding which engineering major to choose, then pick engineering science-and do it all.
+Visit the Engineering Science academic program page for more information about the academic experience, who you will learn from, opportunities outside of class and what you can do with this degree.
+Visit the Engineering Education department page for contact information, a brief overview of the department and the curricular options.
+Admission Criteria
+Current or transfer students wishing to pursue this major must meet School of Engineering and Applied Sciences Admission Criteria.
+Course Requirements
+Engineering Science Core (57-58 credits)
+CHE 107LR - General Chemistry for Engineers I Credits: 3.5 AND
+CHE 127LAB - General Chemistry for Engineers Laboratory 1 Credits: 0.5 OR
+CHE 101LR - General Chemistry Credits: 4 AND
+CHE 113LAB - General Chemistry Credits: 1 OR
+CHE 105LLR - Chemistry: Principles and Applications Credits: 5
+ EAS 199SL - UB Seminar Credits: 3
+ EAS 200LR - Electrical Engineering Concepts for Non-Majors Credits: 3 OR
+EE 202LR - Circuit Analysis Credits: 3
+ EAS 202SEM - Engineering Impact On Society Credits: 1
+EAS 207LR - Statics Credits: 3
+EAS 360LEC - STEM Communications Credits: 3
+ENS 321LLB - ENS Laboratory 1 Credits: 3
+ENS 322LLB - ENS Laboratory 2 Credits: 3
+ENS 493SEM - Capstone Design 1 Credits: 3
+ENS 494SEM - Capstone Design 2 Credits: 3
+IE 320LEC - Engineering Economy Credits: 3
+MTH 141LR - College Calculus I Credits: 4
+MTH 142LR - College Calculus 2 Credits: 4
+MTH 241LR - College Calculus 3 Credits: 4
+MTH 306LR - Introduction to Differential Equations Credits: 4
+PHY 107LR - General Physics I Credits: 4
+ PHY 108LR - General Physics II Credits: 4 AND
+PHY 158LAB - General Physics II Lab Credits: 1 **
+Advanced Math/Data Science Elective: (3 or 4 credits)
+MTH 309LR - Introductory Linear Algebra Credits: 4 OR
+CE 341LEC - Applied Mathematics for Chemical Engineers Credits: 3 OR
+MAE 376LLB - Applied Mathematics for MAE Credits: 3 OR
+EAS 345LEC - Introduction to Data Science Credits: 3
+Applied Probability/Statistics Elective: (3 or 4 credits)*
+EAS 305LR - Applied Probability and Statistics Credits: 4 OR
+CE 305LEC - Probability, Statistics, and Data Analysis Credits: 3 OR
+CIE 308LR - Engineering Probability and Statistics Credits: 3 OR
+EE 305LEC - Applied Probability Credits: 4 OR
+MTH 411LR - Probability Theory Credits: 4 OR
+STA 301LEC - Intro to Probability Credits: 3
+STA 301REC - Intro to Probability Credits: 1
+Computer Programming Elective: (3 or 4 credits)
+EAS 230LLB - Engineering Computations Credits: 3 OR
+EAS 240LEC - Introduction to Programming for Engineers Credits: 3 OR
+CSE 115LLR - Introduction to Computer Science I Credits: 4
+Ethics Elective: (3 credits)
+EAS 330LEC - Ethics in Engineering and Computing Credits: 3 OR
+MGS 439LEC - Cybersecurity, Privacy & Ethics Credits: 3
+Material Science Elective: (3 or 4 credits)*
+BE 305LR - Biomaterials and Mechanics Credits: 3 OR
+CE 433LEC - Materials Science and Engineering Credits: 3 OR
+CIE 327LLB - Civil Engineering Materials Credits: 4 OR
+MAE 381LEC - Engineering Materials Credits: 3
+Fluid Mechanics Elective: (3 or 4 credits)*
+BE 308LR - Biofluid Mechanics Credits: 3 OR
+CE 317LR - Transport Processes I Credits: 4 OR
+CIE 354LR - Fluid Mechanics Credits: 3 OR
+MAE 335LR - Fluid Mechanics Credits: 3
+Breadth Requirement (12 credits)
+Students must complete at least 12 credits within a minimum of four topical areas of study connected to engineering and the applied sciences.
+Biology
+BIO 200LLB - Evolutionary Biology Credits: 5
+BIO 201LEC - Cell Biology Credits: 3
+BIO 305LEC - Fundamentals of Biological Chemistry Credits: 3
+ BIO 309LEC - Ecology Credits: 3 OR
+EVS 309LEC - Ecology Credits: 3
+ BE 202LR - Applied Medical and Engineering Biology Credits: 3
+CE 220LEC - Biotechnology Principles for Chemical Engineers Credits: 3
+Chemistry
+CHE 102LR - General Chemistry Credits: 4 OR
+CHE 106LLR - Chemistry: Principles and Applications Credits: 5 OR
+CHE 108LR - General Chemistry for Engineers II Credits: 3.5
+Advanced Chemistry
+CHE 203LEC - Organic Chemistry Credits: 3
+CHE 204LEC - Organic Chemistry Credits: 3
+BE 310LR - Biomedical Chemical Principles 2 Credits: 3
+Geology
+GLY 103LEC - Geology for Engineers Credits: 3
+Advanced Physics
+PHY 207LR - General Physics III Credits: 4
+PHY 208LEC - General Physics IV Credits: 3
+Graphics
+CIE 177LLB - Introduction to Civil Engineering CAD Credits: 2
+MAE 177LLB - Introduction to CAD Credits: 1
+Dynamics
+EAS 208LR - Dynamics Credits: 3
+Mechanics of Solids
+EAS 209LR - Mechanics of Solids Credits: 3
+Advanced Programming
+CSE 116LLB - Introduction to Computer Science II Credits: 4
+Discrete Structures
+CSE 191LR - Introduction to Discrete Structures Credits: 4
+Systems Programming and Data Structures
+CSE 220LLB - Systems Programming Credits: 4
+CSE 250LR - Data Structures Credits: 4
+Thermodynamics
+CE 304LR - Chemical Engineering Thermodynamics Credits: 4
+MAE 204LR - Thermodynamics I Credits: 3
+Digital Logic
+EE 178LLB - Digital Principles Credits: 4
+CSE 241LLB - Digital Systems Credits: 4
+Exploration
+BE 201LR - Principles of Biomedical Engineering Credits: 3
+CE 212LR - Fundamental Principles of Chemical Engineering Credits: 4
+CIE 340LR - Environmental Engineering Credits: 3
+MAE 277LEC - Introduction to Mechanical and Aerospace Engineering Practice Credits: 3
+MAE 278LEC - Introduction to Aerospace Engineering Practice Credits: 3
+Signals
+BE 307LR - Biomedical Circuits and Signals Credits: 3
+EE 205LR - Signals and Systems Credits: 4
+Depth Requirement (12 credits)
+Complete four 300/400 level courses within either:
+A specific engineering discipline (course prefix of BE, CE, CIE, CSE, EAS, EE, IE, MAE, or MDI), or
+An established interdisciplinary theme area (e.g. clean energy, data science, nanotechnology). Theme areas are associated with a collection of related courses within a given area of study. Tutorial courses (e.g. 495, 496, 497, 498 and 499) are not permitted.
+Technical Electives (6 credits)
+Two Technical Electives (minimum 6 credits) completed at the 300 or 400-level within Engineering and Applied Sciences from the following prefixes: BE, CE, CIE, CSE, EAS, EE, IE, MAE or MDI). These technical elective requirements may be satisfied via tutorial courses (e.g., 495, 496, 497, 498, and 499).
+Total Credits Required for Major: 105-107
+Additional Degree Requirements Include:
+Additional coursework to fulfill UB Curriculum requirements
+Elective courses as needed to complete the 124 credit hour total
+Total Credits Required for Graduation: 122
+Total Credit Hours Required represents the minimum credits needed to complete this program, and may vary based on a number of circumstances. This should not be used for financial aid purposes.
+Notes
+*Only one course from each elective list can be used to satisfy a degree requirement.
+**Students are permitted to use PHY 151 and PHY 152 in lieu of PHY 158, however PHY 158 is preferred for engineering majors.
+Academic Requirements
+Students in the School of Engineering and Applied Sciences must have a minimum GPA of 2.000 in technical classes (engineering, math, and science classes) to be in good standing and graduate with an undergraduate degree.  To maintain academic standards and determine eligibility for continued enrollment, the School of Engineering and Applied Sciences reviews the academic records of all students in an approved undergraduate SEAS major. This academic review is conducted at the end of each fall and spring semester. View the School of Engineering and Applied Sciences Academic Review Policy
+Transfer Credit Policy
+Students seeking an undergraduate engineering degree from the School of Engineering and Applied Sciences must complete 30 undergraduate credit hours of junior/senior level courses required in their major at the University at Buffalo.
+Curricular Plan
+A Curricular Plan provides a roadmap for completing this academic program and the UB Curriculum on time. Your actual plan may vary depending on point of entry to the university, course placement and/or waivers based on standardized test scores, earned alternative credit and/or college transfer credit.
+First Year Fall
+CHE 107LR - General Chemistry for Engineers I Credits: 3.5
+CHE 127LAB - General Chemistry for Engineers Laboratory 1 Credits: 0.5
+MTH 141LR - College Calculus I Credits: 4
+ENG 105LEC - Writing and Rhetoric Credits: 4  OR Pathway Credits: 3
+UB Seminar Credits: 3
+Total Credits: 14 or 15
+First Year Spring
+MTH 142LR - College Calculus 2 Credits: 4
+PHY 107LR - General Physics I Credits: 4
+EAS 202SEM - Engineering Impact On Society Credits: 1
+ENG 105LEC - Writing and Rhetoric Credits: 4  OR Pathway Credits: 3
+Breadth Area 1 Credits: 3
+Total Credits: 15 or 16
+Second Year Fall
+MTH 241LR - College Calculus 3 Credits: 4
+EAS 207LR - Statics Credits: 3
+PHY 108LR - General Physics II Credits: 4
+PHY 158LAB - General Physics II Lab Credits: 1
+Pathway Credits: 3
+Total Credits: 15
+Second Year Spring
+EAS 360LEC - STEM Communications Credits: 3
+MTH 306LR - Introduction to Differential Equations Credits: 4
+Circuits Elective Credits: 3
+Computer Programming Elective Credits: 3
+Pathway Credits: 3
+Pathway Credits: 3
+Total Credits: 19
+Third Year Fall
+ENS 321LLB - ENS Laboratory 1 Credits: 3
+Fluid Mechanics Elective Credits: 3
+Applied Probability/Statistics Elective Credits: 4
+Breadth Area 2 Credits: 3
+Breadth Area 3 Credits: 3
+Total Credits: 16
+Third Year Spring
+ENS 322LLB - ENS Laboratory 2 Credits: 3
+IE 320LEC - Engineering Economy Credits: 3
+Advanced Mathematics/Data Science Elective Credits: 4
+Breadth Area 4 Credits: 3
+Depth Area 1 Credits: 3
+Total Credits: 16
+Fourth Year Fall
+ENS 493SEM - Capstone Design 1 Credits: 3
+Materials Science Elective Credits: 3
+Depth Area 2 Credits: 3
+Technical Elective Credits: 3
+Ethics Elective Credits: 3
+Total Credits: 15
+Fourth Year Spring
+UBC 399MNT - UB Curriculum Capstone Credits: 1
+ENS 494SEM - Capstone Design 2 Credits: 3
+Technical Elective 2 Credits: 3
+Depth Area 3 Credits: 3
+Depth Area 4 Credits: 3
+Total Credits: 13
+Total Credits Required: 124
+Note: Some classes may count toward both a major and UB Curriculum requirement.
+Learning Outcomes
+The curriculum provides opportunities for students to develop the following knowledge, skills, and behaviors by the time of graduation:
+an ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.
+an ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.
+an ability to communicate effectively with a range of audiences.
+an ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.
+an ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.
+an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.
+an ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
+Return to: Majors and Combined Degrees
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2023 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

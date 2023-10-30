@@ -1,0 +1,132 @@
+School of Engineering and Applied Sciences
+UB HomeMapsUB Directory
+Department of Computer Science
+and Engineering
+Give to CSE Apply Now Contact Us
+About Us
+Undergraduate
+Graduate
+Research
+People
+News & Events
+Alumni
+SEARCH
+INFO FOR
+Department of Computer Science and Engineering News & Events News UB, other colleges team with Mozilla to push ethics into computing curricula
+News & Events
+News
+In the Media
+Recognitions
+Newsletters
+Events
+CSE Departmental Anniversaries
+CSE Commencements
+CSE Demo Days
+CSE Distinguished Speaker Series
+CSE Industrial Career Days
+CSE Symposia
+CSE Transitions
+CSExplore
+Russell L. Agrusa CSE Student Innovation Competition
+UB Hacking
+Employment Opportunities
+Related Links
+UB News
+UB Events
+SEAS News
+UB teams with Mozilla to further integrate ethics into computing curricula
+By Cory Nealon
+Release Date: July 14, 2021
+Share This
+Print
+“I realized we had a section for each of those topics. Until then, I’d been immersed in the logistical weeds of the Playbook. But that moment made me realize that we have created something that could potentially be great. ”
+Atri Rudra, professor of computer science and engineering
+University at Buffalo
+BUFFALO, N.Y. — The University at Buffalo is among 22 colleges and universities to create a guide on how schools can update curricula to place more emphasis on ethics when designing technology products.
+The Teaching Responsible Computing Playbook collected contributions from more than 30 authors from a range of institutions — liberal arts, private and public, community college, Ivy League, Jesuit, Quaker and more.
+Each institution created undergraduate computing curricula that address the social impact of computing. Ultimately, the goal is to assist higher education institutions integrate responsibility and ethics into their computing curricula and drive a cultural shift in the tech industry to help build a healthier internet.
+“My main feeling about the Playbook is a sense of wonder about what we as a group were able to achieve,” said Playbook co-editor Atri Rudra, PhD, a professor in the Department of Computer Science and Engineering (CSE) at UB.
+He added: “Earlier this year I was talking with a new colleague who is interested in responsible computing in education, and they listed five or six things that they thought were important to consider. I realized we had a section for each of those topics. Until then, I’d been immersed in the logistical weeds of the Playbook. But that moment made me realize that we have created something that could potentially be great.”
+Computer scientist Kathy Pham, a Mozilla Fellow and co-editor of the Playbook, said the Playbook has tremendous potential to reach computer science and engineering students.
+“The code they write may be used by billions of people, influencing everything from which news stories we read, to what kind of personal data companies collect, to who qualifies for parole, insurance, or housing loans — and who does not,” said Pham. “In other words, these students have the power to shape society. When that power isn’t coupled with responsibility, the results can have unintended consequences, negatively impacting users’ autonomy, privacy, security, or wellbeing, as well as causing harm to society as a whole.” 
+Each section contains an overview; key questions for educators to ask themselves; step-by-step checklists; case studies of how participating institutions have integrated those checklists into their programs; and links to additional resources.
+Matthew Hertz, PhD, associate professor of teaching in CSE, co-authored the section “Accreditation and Ethics” (along with Rudra). Kenneth Joseph, PhD, assistant professor, and Jennifer Winikus, PhD, assistant professor of teaching, both in CSE, also contributed as this list of authors and contributors shows. Rudra also wrote two other sections on “Choosing Computing Courses” and “Access to Technology.”
+Mozilla and the schools are encouraging faculty from additional institutions, especially those outside the United States, to add to the work though the Playbook submission form.
+The Playbook is a collection of learnings and best practices gleaned from the first two years of a three-year Responsible Computer Science Challenge initiative led by the Mozilla Foundation, Omidyar Network, Schmidt Futures, and Craig Newmark Philanthropies. The initiative provided $3.5 million in grants to 19 colleges and universities to conceptualize, develop, and pilot curricula that integrate ethics with undergraduate computer science training. 
+Media Contact Information
+Cory Nealon
+Director of News Content
+Engineering, Computer Science
+Tel: 716-645-4614
+cmnealon@buffalo.edu
+UB is actively monitoring developments related to COVID-19. Please check with event organizers for the most up-to-date information about scheduled events. 
+UPCOMING SEAS EVENTS
+Oct
+20
+ISE Seminar — Understanding Structural Damage from Wildfires in Wildland-Urban Interface Communities
+11:00 AM - 12:00 PM
+Davis Hall - Agrusa Aud, Room 101
+Oct
+20
+CBE Graduate Student Research Symposium
+1:00 PM - 4:00 PM
+Center for the Arts
+Oct
+20
+EE Seminar — Polarimetric Aerosol and Cloud Remote Sensing – Radiative Transfer and Inversion Model Development
+2:00 PM - 3:00 PM
+Davis Hall - Room 230A
+Oct
+24
+WiSE and Shine Breakfast Meetup with Alumni: Overcoming Perfectionism
+9:00 AM - 10:00 AM
+Davis Hall – Salvador Lounge (2nd Floor)
+Oct
+24
+Government Gigs Snack n Chat
+4:00 PM - 5:00 PM
+Capen Hall - Career Svcs (Rm 259)
+MORE UPCOMING SEAS EVENTS
+LATEST NEWS
+10/18/23 UB takes AI chat series to Grand Island Central School District
+10/13/23 Agrusa makes historic $40 million gift to SEAS, largest in school history
+9/25/23 Nine SEAS students named 2023-24 WNY Prosperity Fellows
+9/8/23 SUNY chancellor touts UB as national leader in AI
+9/7/23 Two NSF grants totaling $1 million fund research to make machine learning smarter
+MORE NEWS
+
+SHARE THE NEWS
+Have some news or an event to share with us? Please send it to cse-dept@buffalo.edu.
+CONNECT WITH US
+Connect With Us
+Computer Science and Engineering
+338 Davis Hall
+Buffalo, New York 14260-2500
+(716) 645-3180
+Quick Links
+Why Choose CSE?
+News & Events
+Employment Opportunities
+Give to CSE
+Contact Us
+Admissions
+Undergraduate Admissions
+Graduate Admissions
+Explore Further
+Get Involved
+Engineering and Applied Sciences Alumni Association
+Support SEAS
+Collaborate with UB
+On This Website
+About Us
+Undergraduate Programs
+Graduate Programs
+Research
+People
+News & Events
+Full Site Map
+Information For
+Students
+Faculty and Staff
+Alumni
+© 2023 University at Buffalo. All rights reserved.  |  Privacy  |  Accessibility

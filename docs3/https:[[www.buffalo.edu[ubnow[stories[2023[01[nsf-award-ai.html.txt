@@ -1,0 +1,54 @@
+UBNow
+News and views for the UB community
+October 20, 2023
+CAMPUS NEWS
+RESEARCH NEWS
+YOUR COLLEAGUES
+WORKING AT UB
+UB SEEN
+DRIVEN TO DISCOVER PODCAST
+UBNow Stories UB awarded $20 million grant to establish national institute to create AI technologies to help children with speech, language disorders
+RESEARCH NEWS
+UB awarded $20 million to establish institute to create AI technologies to help children with speech, language disorders
+Members of the AI Institute for Exceptional Education team. From left: Ranga Setlur, Jinjun Xiong, Venu Govindaraju and Letitia Thomas. Photo: Douglas Levere
+By CORY NEALON
+Published January 9, 2023
+Share This
+Print
+“Being chosen by the National Science Foundation to lead this impactful initiative underscores the pivotal role our world-class researchers play in addressing society’s most pressing challenges, including cultivating just and inclusive environ-ments that enable young learners to flourish. ”
+President Satish K. Tripathi
+UB has been awarded a highly competitive grant by the National Science Foundation to establish a national institute to develop artificial intelligence systems that identify and assist young children with speech and/or language processing challenges.
+The five-year, $20 million effort will address the nationwide shortage of speech-language pathologists and provide services to children ages 3 to 10 who are at increased risk of falling behind in their academic and socioemotional development — issues exacerbated by the COVID-19 pandemic.
+The award, which UB will use to create the AI Institute for Exceptional Education, also will advance foundational AI technologies, human-centered AI design, and learning science that improve educational outcomes for young children. It is one of the largest federal research grants received by UB, New York’s flagship university.
+“The University at Buffalo is deeply committed to harnessing our research and educational excellence for the greater good, and our faculty have long been pioneers in the development of cutting-edge artificial intelligence systems,” said President Satish K. Tripathi. “Being chosen by the National Science Foundation to lead this impactful initiative underscores the pivotal role our world-class researchers play in addressing society’s most pressing challenges, including cultivating just and inclusive environments that enable young learners to flourish.”
+Venu Govindaraju, vice president for research and economic development, is the grant’s principal investigator.
+“There simply aren’t enough speech-language pathologists in the United States and, as a result, children are not receiving life-changing interventions soon enough,” said Govindaraju, SUNY Distinguished Professor in the Department of Computer Science and Engineering, School of Engineering and Applied Sciences. “Our multidisciplinary team will create advanced artificial intelligence systems that address this critical problem, allowing for earlier diagnoses and tailored interventions that close educational gaps and create more inclusive learning environments where children thrive both academically and socially.”
+The AI Screener will collect samples of children’s speech, facial expressions, gestures and other data, creating weekly summaries of these interactions. These summaries will help teachers monitor their students’ speech and language processing abilities and, if needed, suggest a formal evaluation with a speech-language pathologist.
+Institute will help underserved students
+The AI Institute for Exceptional Education will focus on serving the millions of children nationwide who, under the Individuals with Disabilities Education Act, require speech and language services.
+Specially, it will develop two advanced AI solutions: the AI Screener for early identification of potential speech and/or language impairments and disorders, and the AI Orchestrator, which will act as a virtual teaching assistant by providing students with ability-based interventions.
+The AI Screener will listen to and observe children in the classroom, collecting samples of children’s speech, facial expressions, gestures and other data. It will create weekly summaries of these interactions that catalogue each child’s vocabulary, pronunciation, video snippets and more. These summaries will help teachers monitor their students’ speech and language processing abilities and, if needed, suggest a formal evaluation with a speech-language pathologist.
+This is critical because, typically, the earlier speech and language concerns are addressed, the greater the likelihood children will excel academically and socioemotionally.
+The AI Orchestrator is an app that will help speech-language pathologists, most of whom have average caseloads so large that they are forced to provide group-based interventions for children instead of individualized care. The app addresses this by recommending personalized content tailored to students’ needs. It continues to monitor students’ progress and adjusts lesson plans to ensure that the interventions are working.
+The research team will ensure that data collected by the AI Screener and the AI Orchestrator adheres to ethics and privacy guidelines. Information about these plans will be shared with participants. Initially, the team intends to deploy prototypes of each system to roughly 80 classrooms, reaching 480 kindergartners. 
+Institute comprised of top research universities
+The institute will consist of more than 30 researchers from nine universities including UB; the University of Illinois Urbana-Champaign; Stanford University; the University of Washington; Cornell University; the University of Nevada, Reno; the University of Texas at El Paso; Penn State University; and the University of Oregon.
+These scholars specialize in artificial intelligence, natural language processing, social robotics, communicative disorders, diversity and inclusivity, learning science, communication and other fields.
+Govindaraju and UB researchers Jinjun Xiong and Srirangaraj Setlur will coordinate the team’s work.
+Xiong, an Empire Innovation Professor in the Department of Computer Science and Engineering, is a co-principal investigator, and will serve as the institute’s scientific director and co-director. Setlur, a principal research scientist in the Department of Computer Science and Engineering, will serve as the institute’s managing director.
+Additional co-principal investigators include David Feil-Seifer, associate professor in the Department of Computer Science & Engineering at University of Nevada, Reno; Pamela Hadley, professor and department head of the Department of Speech and Hearing Science at the University of Illinois Urbana-Champaign; and Julie Kientz, professor and chair of the Department of Human Centered Design & Engineering at the University of Washington.
+In addition to Govindaraju, Xiong and Setlur, the institute will include 13 UB researchers representing the School of Engineering and Applied Sciences, the College of Arts and Sciences, and the Graduate School of Education.
+Letitia Thomas, assistant dean for diversity in the School of Engineering and Applied Sciences, will lead the broadening participation and diversity, equity and inclusion sections of the grant.
+X. Christine Wang, associate dean for research at the Graduate School of Education and director of the Fisher-Price Endowed Early Childhood Research Center at UB, will lead the education and workforce development section of the research and assist the field testing. 
+“The educational tools that this interdisciplinary team of researchers will create has the potential to have a profound impact in the classroom, both for educators and students,” said Wang, professor of early education and learning sciences in the Graduate School of Education.
+Building upon UB’s rich history of AI research
+The award builds upon a rich history of AI research at UB that dates back decades to when computer scientists, including Govindaraju, developed a handwriting-recognition system that has saved the U.S. Postal Service hundreds of millions of dollars by automating the sorting of mail.
+More recently, UB has made strategic investments in both people and programs to enhance the university’s national leadership in AI, including forming the Institute for Artificial Intelligence and Data Science and the Center for Information Integrity.
+“The institute will launch new, innovative courses at the intersection of AI and education to help prepare the next generation of undergraduate and graduate students to excel at multidisciplinary research that can have broad societal impact,” said Provost A. Scott Weber. “The institute’s pathbreaking research will raise UB’s profile as an AI powerhouse and attract the best students from around the world and help the university elevate its ranking.”
+Tripathi praised congressional leaders for their continued support of UB, whose mission is to bring the benefits of its research and scholarship to local and global communities in ways that impact and positively change the world.
+“We want to thank U.S. Senate Majority Leader Charles Schumer, Sen. Kirsten Gillibrand and Congressman Brian Higgins for their longstanding support of federally funded university research. Time and again they have demonstrated how deeply they value the ability of academic research to solve real-world problems, and their commitment is creating opportunities for people across our state and nation to thrive,” he said.
+Additional partners include the Buffalo Public Schools; Amherst Central School District, Amherst, New York; Sweet Home Central School District, Amherst, New York; Washoe County School District, Reno, Nevada; The Summit Center, Amherst, New York; Buffalo-area Engineering for Minorities; Nevada Robotics, Desert Research Institute; Gigi’s Playhouse, Buffalo, New York; Western New York STEM Hub; and UB Early Childhood Research Center.
+UBNow
+Contact Us
+About UBNow
+© 2023 University at Buffalo. All rights reserved.  |  Privacy  |  Accessibility

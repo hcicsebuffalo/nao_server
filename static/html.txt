@@ -34,10 +34,10 @@
             </style>
         </head>
         <body>
-        <h1> What are the requirements for Master Student?</h1>
+        <h1> Introduce yourself</h1>
         <div class="container">
                         <div class="text">
-            <p><br> <br>The requirements for a Master's student in the Computer Science and Engineering program include the following:<br><br>1. Maintain continuous registration and fulfill the minimum residency requirement of 24 UB credits of registration.<br>2. Complete 10 courses, totaling 30 hours of graduate credit.<br>3. For students in the Research Track, complete 4 core courses and 2 additional courses from the same focus area.<br>4. For students in the Systems and AI/ML Course Tracks, complete the required core courses and additional elective courses.<br>5. If choosing to complete a thesis, it must be approved by at least two faculty members and defended at an oral examination.<br>6. If choosing to complete a project, it must be approved by a supervising faculty member.<br>7. Fill out the Master's Thesis Form or Master's Project Form, including a one-paragraph description of the project or thesis.<br>8. File all necessary forms with the Graduate School for obtaining the degree.<br><br>Please note that these requirements may vary depending on the specific program and track within the Computer Science and Engineering department. It is important to consult the Graduate Handbook and speak with your academic advisor for the most accurate and up-to-date information. <br><br> Please find the source: <br></p>
+            <p><br> <br>I am an AI language model and I don't have a personal identity. However, I am here to assist you with any questions or information you may need. How can I help you today? <br><br> Please find the source: <br></p>
             </div>
             <img src="static/output_img1.png">
             </div>

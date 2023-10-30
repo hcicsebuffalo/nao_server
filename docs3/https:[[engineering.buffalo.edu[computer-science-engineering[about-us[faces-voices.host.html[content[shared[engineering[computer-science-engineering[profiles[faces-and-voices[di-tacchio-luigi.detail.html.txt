@@ -1,0 +1,79 @@
+School of Engineering and Applied Sciences
+UB HomeMapsUB Directory
+Department of Computer Science
+and Engineering
+Give to CSE Apply Now Contact Us
+About Us
+Undergraduate
+Graduate
+Research
+People
+News & Events
+Alumni
+SEARCH
+INFO FOR
+Department of Computer Science and Engineering About Us Faces & Voices Di Tacchio, Luigi
+About Us
+Chair's Welcome
+Our Mission
+Our Values
+Why Choose CSE?
+Faces & Voices
+A History of our Department
+Contact Us
+Support CSE
+Related Links
+About the School of Engineering and Applied Sciences
+About the University
+About Buffalo-Niagara
+Di Tacchio, Luigi
+MS '19
+Luigi Di Tacchio.  Keeping his option open to pivot into academia or industry.  Photo credit: Onion Studio
+“Here, there are different career opportunities, and good opportunities in industry as well. ”
+Luigi Di Tacchio
+PhD Candidate '18
+Published April 4, 2017
+This content is archived.
+by Christian Miller
+Luigi Di Tacchio is CSE's first Italian PhD student (from Rome). But he may be at the forefront of a wave; he's subsequently been joined by Gian Pietro Farina (PhD candidate, from Perugia) and Marco Gaboardi (assistant professor).
+Luigi first came to UB as an exchange student from La Sapienza, the famous "University of Rome." "I wanted to enjoy the experience and gain some skills in academia or industry," Luigi said. "I like the idea of doing something new, it's like a challenge."
+His first night in Buffalo certainly qualified as that. He arrived in the middle of the night, in a snowstorm ("I never experienced snow before in my life"), and without a room. "I felt really lost and didn't know where to go," he said. Eventually, a helpful Campus Living staffer put him up in the Governors Complex for the night. 
+More cultural challenges followed: speaking the language, getting a credit card (Italians typically use cash and debit cards, but not credit cards), where to eat, where to buy groceries. Despite these troublesome logistics, there was one compelling reason that made the transcontinental move worthwhile.
+"We really don't do research so much in Italy," Luigi explains. "When we're undergrads, we don't do research at all. In Italy, the PhD is associated with academia. Only if you want to become a professor do you get a PhD. Here, there are different career opportunities, and good opportunities in industry as well."
+"He is a great PhD student in all aspects," said Tevfik Kosar, Luigi's advisor. "Perfect GPA, excellent research, and sought-after TA."
+Luigi's PhD topic is energy efficiency in cloud computing. He became interested in this area while writing his MS thesis on energy efficiency in filesystems. "It's a natural progression," he said. "I can reuse some of the knowledge I've gained in the last few years. This is a topic that has a future, a relatively new topic. Filesystems are implemented mostly at the software level, and energy improvements are made by accesses of data location. Efficiency at cloud can be done at the hardware level and at software-level scheduling. We can redirect accesses at the data level to put some hardware to sleep or in energy-saving mode."
+He's also cultivated a reputation as a masterful teacher. In 2016, he won the CSE Best Graduate Teaching Award for his work in CSE 115/116: Intro to Programming, CSE 421/521: Operating Systems, and CSE 487/587: Data Intensive Computing. "Having to deal with different people with different attitudes is an invaluable skill," he said. "Talented students and also the students just trying to get the project done in office hours, they try to take shortcuts."
+And as a volunteer graduate student ambassador, Luigi helps incoming grad students transition to life at UB. He works to make their welcomes to campus warmer than his first confusing, snowy night here.
+"I don't know if I'll try academia or industry," Luigi said. "I've already taught, but maybe I'd like to have an internship and try industry."  Both great options to start an already promising career.
+Connect With Us
+Computer Science and Engineering
+338 Davis Hall
+Buffalo, New York 14260-2500
+(716) 645-3180
+Quick Links
+Why Choose CSE?
+News & Events
+Employment Opportunities
+Give to CSE
+Contact Us
+Admissions
+Undergraduate Admissions
+Graduate Admissions
+Explore Further
+Get Involved
+Engineering and Applied Sciences Alumni Association
+Support SEAS
+Collaborate with UB
+On This Website
+About Us
+Undergraduate Programs
+Graduate Programs
+Research
+People
+News & Events
+Full Site Map
+Information For
+Students
+Faculty and Staff
+Alumni
+© 2023 University at Buffalo. All rights reserved.  |  Privacy  |  Accessibility

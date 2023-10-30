@@ -1,0 +1,134 @@
+School of Engineering and Applied Sciences
+UB HomeMapsUB Directory
+Department of Computer Science
+and Engineering
+Give to CSE Apply Now Contact Us
+About Us
+Undergraduate
+Graduate
+Research
+People
+News & Events
+Alumni
+SEARCH
+INFO FOR
+Department of Computer Science and Engineering News & Events News UB team earns spot in Alexa Prize Socialbot Grand Challenge finals
+News & Events
+News
+In the Media
+Recognitions
+Newsletters
+Events
+CSE Departmental Anniversaries
+CSE Commencements
+CSE Demo Days
+CSE Distinguished Speaker Series
+CSE Industrial Career Days
+CSE Symposia
+CSE Transitions
+CSExplore
+Russell L. Agrusa CSE Student Innovation Competition
+UB Hacking
+Employment Opportunities
+Related Links
+UB News
+UB Events
+SEAS News
+UB team earns spot in Alexa Prize Socialbot Grand Challenge finals
+Rohini Srihari shares where the team is now, and where they hope their work will lead them
+UB's Team Proto is one of five teams to make it to the finals in the Alexa Prize Socialbot Grand Challenge. From left are students Erin Pacquetet, Elizabeth Soper, Souvik Das and Sougata Saha, and faculty adviser Rohini Srihari. Photo Illustration: Douglas Levere
+By Nicole Capozziello
+Published July 12, 2021
+Last November, a team from the University at Buffalo entered the highly competitive Alexa Prize Socialbot Grand Challenge.  
+Share This
+Print
+“Regardless of the final outcome, it has been a valuable experience, allowing us to learn about user behavior during conversations, as well as what it takes to effectively leverage neural text generators. I’m also grateful to have had a multidisciplinary team consisting of computer scientists and linguists and the complementary expertise they bring. This is a strength, and has compensated for us having a relatively small team compared to our competitors.”
+Rohini Srihari, professor and associate chair
+Department of Computer Science and Engineering
+While the multimillion-dollar competition is in its fourth year, this was the first time UB had participated in the challenge of creating a socialbot “that can converse coherently and engagingly for 20 minutes with humans on a range of current events and popular topics such as entertainment, sports, politics, technology and fashion.”
+The members of Team Proto, Sougata Saha and Souvik Das, PhD students in the Department of Computer Science and Engineering, and Elizabeth Soper and Erin Pacquetet, PhD students in the Department of Linguistics, were happy to have the opportunity, not knowing how far they would go in a pool with other esteemed colleagues from around the globe.
+Since then, the team, under the direction of Rohini Srihari, professor and associate chair of the Department of Computer Science and Engineering, has drawn on their complementary skills and knowledge throughout the progressive months and levels of the competition. Thus far, the team’s socialbot has been judged by people everywhere, including over 55,000 users during the semifinal phase alone.
+Now, nearly a year after their original application was accepted, the team has become one of only five to advance to the finals stage of the competition. They are competing against the University of California Santa Cruz, Czech Technical University (Prague), Stanford University and Emory University. Stanford and Emory are both previous winners of the competition.
+The finals will be conducted over a three-day period later this month. During this time, the socialbots will be evaluated by a panel of experts. While this phase does not specifically stipulate any additional features, the team has been hard at work on some overall enhancements that they think will be help distinguish their socialbot from the others. These include innovations regarding their socialbot’s ability to converse on any topic, the “naturalness” of conversation and reacting to various user behaviors that they have observed throughout testing.
+The winning team, which will receive a prize of $500,000, will be announced by the end of July.
+“Regardless of the final outcome, it has been a valuable experience, allowing us to learn about user behavior during conversations, as well as what it takes to effectively leverage neural text generators,” says Srihari. “I’m also grateful to have had a multidisciplinary team consisting of computer scientists and linguists and the complementary expertise they bring. This is a strength, and has compensated for us having a relatively small team compared to our competitors.”
+We caught up with Srihari to hear all about where the team is now – and where they hope their work will lead them.
+What has the team learned as this competition has gone on?
+Our learning has been in two areas. First, we have learned a lot about how users react to conversational AI systems: what gets them excited and wanting to continue a conversation, what they find less interesting, and what spooks them out. Second, on the technology side, we have learned a lot about effectively leveraging the latest deep learning technology, in particular, neural text generation. We have also learned about the ebb and flow of a conversation and how to algorithmically control this, for example, when to let the user steer the conversation. When we first started, most of our socialbot utterances were generated through knowledge engineering approaches, based on deep domain knowledge of how people converse about topics such as movies or games. Only a small fraction of the Proto utterances were generated through the neural text generation models. Now the situation has flipped, with most of the utterances being generated through neural models. This allows us to converse on a far wider range of topics.
+What impact do you hope that your work in this field will have?
+Conversational AI systems are in a nascent stage. Currently we are focused on just the ability to conduct human-like conversations. However, these socialbots have tremendous potential for societal impact. We are particularly interested in conducting purposeful conversations, for example, encouraging people to pursue health-related goals, and of course, in helping to combat disinformation.
+Is there anything people misunderstand about AI that you would like them to know?
+Perhaps the fear that AI systems can think and learn completely on their own and thus become harmful to individuals and society. AI systems perform based on (i) the models that scientists design to implement the solutions, and perhaps even more important, (ii) the data that the systems are trained on. Currently, socialbots are limited in their abilities due to the lack of representative training data sets. It’s hard for socialbots to narrate anecdotes about personal experiences, or express emotions. We have a long way to go.
+Is there anything the UB community can do to support the team at this phase of the competition?
+Ideally, we would have liked the UB community to help us test out the socialbot. However, due to the logistics involved, this is difficult since it involves physical proximity to a device used by our team members. Still, all the encouragement from our colleagues and the UB community at large have generated a lot of positive energy for our team!
+UB is actively monitoring developments related to COVID-19. Please check with event organizers for the most up-to-date information about scheduled events. 
+UPCOMING SEAS EVENTS
+Oct
+20
+ISE Seminar — Understanding Structural Damage from Wildfires in Wildland-Urban Interface Communities
+11:00 AM - 12:00 PM
+Davis Hall - Agrusa Aud, Room 101
+Oct
+20
+CBE Graduate Student Research Symposium
+1:00 PM - 4:00 PM
+Center for the Arts
+Oct
+20
+EE Seminar — Polarimetric Aerosol and Cloud Remote Sensing – Radiative Transfer and Inversion Model Development
+2:00 PM - 3:00 PM
+Davis Hall - Room 230A
+Oct
+24
+WiSE and Shine Breakfast Meetup with Alumni: Overcoming Perfectionism
+9:00 AM - 10:00 AM
+Davis Hall – Salvador Lounge (2nd Floor)
+Oct
+24
+Government Gigs Snack n Chat
+4:00 PM - 5:00 PM
+Capen Hall - Career Svcs (Rm 259)
+MORE UPCOMING SEAS EVENTS
+LATEST NEWS
+10/18/23 UB takes AI chat series to Grand Island Central School District
+10/13/23 Agrusa makes historic $40 million gift to SEAS, largest in school history
+9/25/23 Nine SEAS students named 2023-24 WNY Prosperity Fellows
+9/8/23 SUNY chancellor touts UB as national leader in AI
+9/7/23 Two NSF grants totaling $1 million fund research to make machine learning smarter
+MORE NEWS
+
+SHARE THE NEWS
+Have some news or an event to share with us? Please send it to cse-dept@buffalo.edu.
+CONNECT WITH US
+Connect With Us
+Computer Science and Engineering
+338 Davis Hall
+Buffalo, New York 14260-2500
+(716) 645-3180
+Quick Links
+Why Choose CSE?
+News & Events
+Employment Opportunities
+Give to CSE
+Contact Us
+Admissions
+Undergraduate Admissions
+Graduate Admissions
+Explore Further
+Get Involved
+Engineering and Applied Sciences Alumni Association
+Support SEAS
+Collaborate with UB
+On This Website
+About Us
+Undergraduate Programs
+Graduate Programs
+Research
+People
+News & Events
+Full Site Map
+Information For
+Students
+Faculty and Staff
+Alumni
+© 2023 University at Buffalo. All rights reserved.  |  Privacy  |  Accessibility

@@ -1,0 +1,173 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Undergraduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Archived Catalogs
+General Catalog Information
+Majors and Combined Degrees
+Minors, Certificates and Micro-Credentials
+Departments & Programs
+Courses
+UB Curriculum (General Education)
+Academic Policies and Procedures
+Academic Calendar
+Campus Facilities and Instructional Spaces
+Financial and Scholarship Information
+Admissions
+Student Records and Registration
+Academic Advising
+Learning Outside the Classroom
+Study Abroad
+myUB
+HUB Academic Advisement Report
+Accreditations
+a
+Engineering Physics BS
+Return to: Majors and Combined Degrees
+Many of the complex problems you’ll find throughout the world need interdisciplinary solutions, which is why many students choose a major that combines multiple fields. That’s exactly what you’ll find with engineering physics, which is designed for students who want an in-depth understanding of fundamental physics-plus the problem-solving skills of an engineer. As an added bonus, engineering physics lets you keep your options open between physical sciences and engineering, whether you’re going to grad school or straight into your career.
+Visit the Engineering Physics academic program page for more information about the academic experience, who you will learn from, opportunities outside of class and what you can do with this degree.
+Visit the Electrical Engineering department page for contact information, a brief overview of the department and the curricular options.
+Admission Criteria
+Current or transfer students wishing to pursue this major must meet School of Engineering and Applied Sciences Admission Criteria.
+Course Requirements
+Engineering Physics Core (105 credits)
+CHE 107LR - General Chemistry for Engineers I Credits: 3.5 AND
+CHE 127LAB - General Chemistry for Engineers Laboratory 1 Credits: 0.5 OR
+CHE 101LR - General Chemistry Credits: 4 AND
+CHE 113LAB - General Chemistry Credits: 1 OR
+CHE 105LLR - Chemistry: Principles and Applications Credits: 5
+ EAS 199SL - UB Seminar Credits: 3
+EAS 202SEM - Engineering Impact On Society Credits: 1
+EAS 230LLB - Engineering Computations Credits: 3
+EAS 240LEC - Introduction to Programming for Engineers Credits: 3
+EAS 360LEC - STEM Communications Credits: 3
+EE 178LLB - Digital Principles Credits: 4 **
+EE 202LR - Circuit Analysis Credits: 3
+EE 310LR - Electronic Devices and Circuits I Credits: 3
+EE 311LLB - Electronic Devices and Circuits II Credits: 3
+EE 336LEC - Fundamentals of Energy Systems Credits: 3
+EE 352LLB - Introduction to Electronics Lab Credits: 3
+EE 353LLB - Electronic Circuits Lab Credits: 3
+ EE 494SEM - Senior Capstone Design Project Credits: 3 OR
+EAS 494SEM - Interdisciplinary Capstone Senior Design Credits: 3
+ MAE 335LR - Fluid Mechanics Credits: 3
+MTH 141LR - College Calculus I Credits: 4
+MTH 142LR - College Calculus 2 Credits: 4
+MTH 241LR - College Calculus 3 Credits: 4
+MTH 306LR - Introduction to Differential Equations Credits: 4
+MTH 418LR - Survey of Partial Differential Equations Credits: 4
+ PHY 107LR - General Physics I Credits: 4 OR
+PHY 117LR - Honors Physics I Credits: 4
+ PHY 108LR - General Physics II Credits: 4 OR
+PHY 118LR - Honors Physics II Credits: 4
+ PHY 158LAB - General Physics II Lab Credits: 1
+ PHY 207LR - General Physics III Credits: 4
+PHY 208LEC - General Physics IV Credits: 3
+PHY 257LAB - General Physics III Lab Credits: 1
+PHY 301LEC - Intermediate Mechanics I Credits: 3
+PHY 307LAB - Modern Physics Lab Credits: 2
+PHY 401LEC - Quantum Mechanics I - Fundamentals Credits: 3
+PHY 402LEC - Quantum Mechanics II - Applications Credits: 3
+PHY 403LEC - Electricity and Magnetism I Credits: 3
+PHY 404LEC - Electricity and Magnetism II Credits: 3
+PHY 405LEC - Thermal and Statistical Physics I Credits: 3
+ PHY 407LAB - Advanced Laboratory Credits: 3 OR
+PHY 408LAB - Advanced Laboratory Credits: 3
+Technical Electives (6 credits)
+Two technical electives, see the Academic Advising Report (AAR) for a complete list of course options.
+Students may choose to enroll in technical electives of interest. Technical electives allow undergraduates to explore broad areas of interest in engineering or physics. In principle, any 300 or 400 level course of technical nature may be considered as an unrestricted technical elective (for example, courses from SEAS, the Department of Mathematics, the Department of Physics, and others). Some restrictions may apply in cases in which courses have large overlap with other courses in the program. See director of undergraduate studies for clarification. 
+Total Credits Required for Major: 111
+Additional Degree Requirements Include:
+Additional coursework to fulfill UB Curriculum requirements
+Elective courses as needed to complete the 128 credit hour total
+Total Credits Required for Graduation: 128
+Total Credit Hours Required represents the minimum credits needed to complete this program, and may vary based on a number of circumstances. This should not be used for financial aid purposes.
+Notes
+ *Students are permitted to take alternative programming courses CSE 115 or EAS 999TRCP in lieu of EAS 240, however EAS 240 is strongly preferred for Engineering Physics majors. The alternative programming courses should only be utilized by students transferring into the program with CSE 115 or EAS 999TRCP (general programming for transfer students) already completed. View our Computer Programming Requirement website for more information on the programming alternatives and self-study packages. 
+**Students are permitted to take CSE 241 in lieu of EE 178, however EE 178 is strongly preferred for Engineering Physics majors. CSE 241 should only be used if the student has already completed this course or is considering a double major in Computer Engineering. 
+***Students are permitted to use PHY 151 and PHY 152 in lieu of PHY 158, however PHY 158 is preferred for engineering majors.
+Academic Requirements
+Students in the School of Engineering and Applied Sciences must have a minimum GPA of 2.000 in technical classes (engineering, math, and science classes) to be in good standing and graduate with an undergraduate degree. To maintain academic standards and determine eligibility for continued enrollment, the School of Engineering and Applied Sciences reviews the academic records of all students in an approved undergraduate SEAS major. This academic review is conducted at the end of each fall and spring semester. View the School of Engineering and Applied Sciences Academic Review Policy
+Program Honors
+A student must excel in course work as well as complete a Senior Thesis.  The Senior Thesis is prepared under the supervision of a Department of Physics faculty member. Credit for this is obtained through PHY 497. The thesis is reviewed by the student’s mentor and the Undergraduate Director. The thesis should be at least 20 pages long and the student must have completed at least one semester of PHY 497. 
+Students must also meet the remaining criteria outlined in the Academic Honors policy. Students who successfully complete the honors program and meet the criteria will have the appropriate notation on their official transcript.
+Curricular Plan
+A Curricular Plan provides a roadmap for completing this academic program and the UB Curriculum on time. Your actual plan may vary depending on point of entry to the university, course placement and/or waivers based on standardized test scores, earned alternative credit and/or college transfer credit.
+First Year Fall
+MTH 141LR - College Calculus I Credits: 4
+ CHE 107LR - General Chemistry for Engineers I Credits: 3.5 AND
+CHE 127LAB - General Chemistry for Engineers Laboratory 1 Credits: 0.5
+ EAS 199SL - UB Seminar Credits: 3
+PHY 107LR - General Physics I Credits: 4
+ENG 105LEC - Writing and Rhetoric Credits: 4 OR Pathway Credits: 3 
+Total Credits: 18 or 19
+First Year Spring
+MTH 142LR - College Calculus 2 Credits: 4
+EE 178LLB - Digital Principles Credits: 4
+EAS 202SEM - Engineering Impact On Society Credits: 1
+PHY 108LR - General Physics II Credits: 4
+PHY 158LAB - General Physics II Lab Credits: 1
+ENG 105LEC - Writing and Rhetoric Credits: 4 OR Pathway Credits: 3 
+Total Credits: 17 or 18
+Second Year Fall
+MTH 306LR - Introduction to Differential Equations Credits: 4
+EE 202LR - Circuit Analysis Credits: 3
+MTH 241LR - College Calculus 3 Credits: 4
+PHY 208LEC - General Physics IV Credits: 3
+Pathway Credits: 3
+Total Credits: 17
+Second Year Spring
+MTH 418LR - Survey of Partial Differential Equations Credits: 4
+EAS 230LLB - Engineering Computations Credits: 3
+PHY 207LR - General Physics III Credits: 4
+PHY 257LAB - General Physics III Lab Credits: 1
+EAS 360LEC - STEM Communications Credits: 3
+EAS 240LEC - Introduction to Programming for Engineers Credits: 3
+Total Credits: 18
+Third Year Fall
+EE 310LR - Electronic Devices and Circuits I Credits: 3
+EE 352LLB - Introduction to Electronics Lab Credits: 3
+PHY 301LEC - Intermediate Mechanics I Credits: 3
+PHY 401LEC - Quantum Mechanics I - Fundamentals Credits: 3
+Technical Elective Credits: 3
+Pathway Credits: 3
+Total Credits: 18
+Third Year Spring
+EE 311LLB - Electronic Devices and Circuits II Credits: 3
+EE 353LLB - Electronic Circuits Lab Credits: 3
+PHY 402LEC - Quantum Mechanics II - Applications Credits: 3
+PHY 307LAB - Modern Physics Lab Credits: 2
+Pathway: 3
+Total Credits: 14
+Fourth Year Fall
+MAE 335LR - Fluid Mechanics Credits: 3
+PHY 403LEC - Electricity and Magnetism I Credits: 3
+PHY 405LEC - Thermal and Statistical Physics I Credits: 3
+Technical Elective Credits: 3
+Total Credits: 12
+Fourth Year Spring
+EE 494SEM - Senior Capstone Design Project Credits: 3
+PHY 404LEC - Electricity and Magnetism II Credits: 3
+ PHY 407LAB - Advanced Laboratory Credits: 3 OR
+PHY 408LAB - Advanced Laboratory Credits: 3
+ UBC 399MNT - UB Curriculum Capstone Credits: 1
+EE 336LEC - Fundamentals of Energy Systems Credits: 3
+Pathway Credits: 3
+Total Credits: 16
+Total Credits Required: 128
+Note: Some classes may count toward both a major and UB Curriculum requirement.
+Learning Outcomes
+Program Educational Objectives
+Engineering Physics graduates are prepared to attain the following program educational objectives within a few years of graduation:
+Graduates of the program will be able to use their fundamental aspects of electrical engineering and physics in careers in industry or government or graduate programs in either electrical engineering or physics.
+Graduates of the program will continue to learn through advanced study or engagement in professional development activities within physics, electrical engineering or other technically related fields.
+Return to: Majors and Combined Degrees
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2023 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

@@ -329,7 +329,7 @@ def complete():
         distance = cdist(stored_Audio_embeddings[user.lower()], curr_embedding, metric="cosine")
         time_ar = round(time.time() - start_time ,3)
         if distance > 0.85:
-            out = {"Auth": False , "Sim": float(distance), "Request" : None, "func": None, "arg" : None, "time ar" :time_ar,  "time trans" : None , "time_gpt" : None }
+            out = {"Auth": False , "Sim": float(distance), "Request" : None, "func": None, "arg" : None, "time ar" :time_ar,  "time trans" : None , "time_gpt" : None , "toggle" : False }
             return jsonify(out)
 
     # -----------------
@@ -347,6 +347,7 @@ def complete():
         "time ar": time_ar,
         "time trans": time_trans,
         "time_gpt": None,
+        "toggle" : False
     }
 
     if "dance" in result["text"].lower():
@@ -359,8 +360,39 @@ def complete():
             "time ar": time_ar,
             "time trans": time_trans,
             "time_gpt": None,
+            "toggle" : False
             }
         return out
+    
+    if "llm" in result["text"].lower() and "toggle" in result["text"].lower():
+        out = {
+            "Auth": True,
+            "Sim": float(distance),
+            "Request": result['text'],
+            "func": "llm_res",
+            "arg": None,
+            "time ar": time_ar,
+            "time trans": time_trans,
+            "time_gpt": None,
+            "toggle" : True
+            }
+        return out
+    
+    if "chat" in result["text"].lower() and "gpt" in result["text"].lower() and "toggle" in result["text"].lower():
+        out = {
+            "Auth": True,
+            "Sim": float(distance),
+            "Request": result['text'],
+            "func": "chatgpt_res",
+            "arg": None,
+            "time ar": time_ar,
+            "time trans": time_trans,
+            "time_gpt": None,
+            "toggle" : True
+            }
+        return out
+    
+    
 
     # -----------------
     start_time = time.time()
@@ -383,4 +415,4 @@ def complete():
 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port = 5001)
+    app.run(host='0.0.0.0', port = 5002)

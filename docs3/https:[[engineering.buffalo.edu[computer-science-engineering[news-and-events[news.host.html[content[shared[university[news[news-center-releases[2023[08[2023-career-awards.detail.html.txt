@@ -1,0 +1,179 @@
+School of Engineering and Applied Sciences
+UB HomeMapsUB Directory
+Department of Computer Science
+and Engineering
+Give to CSE Apply Now Contact Us
+About Us
+Undergraduate
+Graduate
+Research
+People
+News & Events
+Alumni
+SEARCH
+INFO FOR
+Department of Computer Science and Engineering News & Events News UB researchers receive six NSF CAREER awards totaling nearly $3.8 million
+News & Events
+News
+In the Media
+Recognitions
+Newsletters
+Events
+CSE Departmental Anniversaries
+CSE Commencements
+CSE Demo Days
+CSE Distinguished Speaker Series
+CSE Industrial Career Days
+CSE Symposia
+CSE Transitions
+CSExplore
+Russell L. Agrusa CSE Student Innovation Competition
+UB Hacking
+Employment Opportunities
+Related Links
+UB News
+UB Events
+SEAS News
+Six UB researchers awarded NSF CAREER awards
+The funding, totaling nearly $3.8 million, will help early-career investigators address pressing societal issues
+By Tom Dinki and Mary Durlak
+Release Date: August 28, 2023
+Share This
+Print
+BUFFALO, N.Y. — Six University at Buffalo researchers have received U.S. National Science Foundation CAREER awards, one of the nation’s most prestigious honors for early-career engineers and scientists.
+CAREER grants provide scholars with funding to conduct research and develop educational programming for K-12 students, university students and members of the public.
+UB’s six CAREER award grantees – Priya Banerjee, Mingchen Gao, Prathima Nalam, A. Erdem Sariyuce, Sangwoo Shin and Ziming Zhao – will receive a total of nearly $3.8 million for projects that address pressing societal problems.
+The researchers will use their expertise to advance AI-powered medical imaging, develop lubricants for longer lasting cars, catch cybercriminals, protect devices from hackers, and better understand cellular and genomic processes that could lead to new medicine.
+“At UB, we are committed to providing our early-career researchers with the resources and support needed to effectively address society’s most pressing challenges. By doing so, we're fostering a culture of collaboration and enabling the next generation of scientific leaders to accelerate discoveries, develop technologies and move innovations to impact, transforming communities locally and around the globe,” says Venu Govindaraju, vice president for research and economic development.
+UB’s 2023 awardees:
+Priya Banerjee, PhD
+Assistant Professor of Assistant Professor of Physics
+College of Arts and Sciences
+Award amount: $925,000
+Banerjee’s project focuses on special proteins called transcription factors (TFs) and a subset called pioneer transcription factors (PTFs).
+“Transcription factors are proteins that begin the process by which information flows from our DNA to RNA to proteins,” he says. As a biophysicist, his interest is in the mechanisms by which the TFs switch on a particular gene. Given that our genomic DNA is severely compacted — a six-foot strand carrying about 30,000 genes is contained in each cell — most of the time, a particular gene cannot be physically accessed for transcription. TFs control when and how genes in our DNA are expressed.
+Banerjee plans to work with SayYesBuffalo to provide mentorship and research opportunities in his lab to underrepresented students and Buffalo Public Schools teachers. He also plans to work with the Coalesce Center for Biological Art (part of the Genome, Environment and Microbiome Community of Excellence at UB) to promote biophysics education through art exhibits.
+“Art communicates scientific findings in lucid and visually enticing ways to help understand complex systems,” he says.
+Mingchen Gao, PhD
+Assistant Professor of Computer Science and Engineering
+School of Engineering and Applied Sciences
+Award amount: $578,519
+What if a patient could get an accurate assessment of a rash on their skin by simply pulling out their phone and taking a photo of the infected area?
+This is the future that Gao aims to create through the advancement of AI-powered medical imaging diagnostics. She will create algorithms that help machine learning models analyze medical images, leading to improved clinical decisions and more confidence in AI-assisted health care.
+“Life-threatening diseases could be caught early or avoided entirely,” says Gao.
+Gao aims to improve the performance of deep learning models in clinical environments, where data may be limited, patient populations may be more diverse, and rare diseases cannot be ignored, as in simplified lab settings. She will train the models not to forget previous information upon learning new information, a problem known as catastrophic forgetting.
+The project will involve a diverse cohort of student researchers, as well as work to help ensure consistent screening services for glaucoma are provided in underserved communities.
+Prathima Nalam, PhD
+Assistant Professor of Materials Design and Innovation
+School of Engineering and Applied Sciences/College of Arts and Sciences
+Award amount: $667,017
+Wear caused by friction is a widespread problem in machines, leading to shorter lifecycles, increasing waste and a growing environmental burden. 
+“In the automotive industry alone, nearly 5% of global energy consumption is a result of energy loss due to friction,” says Nalam.
+To address these challenges, Nalam will develop efficient, low-pollutant lubricants. She will investigate the physical behavior and viscoelastic properties of two-dimensional materials as potential lubricant additives to protect engine walls. The layered structure of the materials would allow the intercalation, or insertion, of small molecules such as oil between its layers to better lubricate surfaces.
+The results will advance the application of 2D materials as coatings to reduce friction loss — and, therefore, wear and tear — in gears and engines.
+“Exploring liquid behavior within nanoconfined spaces holds the promise of unlocking a novel ability to manipulate material surfaces,” says Nalam. “This presents significant opportunities in energy storage, catalysis and the development of super lubricious surfaces.”
+The project will also provide summer research training for underrepresented students, fostering skills that enable the acceleration of material discovery and development. 
+A. Erdem Sariyuce, PhD
+Assistant Professor of Computer Science and Engineering
+School of Engineering and Applied Sciences
+Award amount: $555,821
+Networks that transfer money and messages are all around us. And they are open to attacks. Sariyuce aims to better detect cyberattacks and connect the dots between money launderers. 
+“Money transfers, communications between computers and face-to-face interactions are all networks,” says Sariyuce. “So, analyzing networks is critically important for bank fraud detection, ensuring cyber-secure environments and even preventing pandemics.”
+Sariyuce will focus on temporal networks, which contain links that are only active at certain points in time. Their temporality amplifies the diverse nature of networks, obscures the notion of scale and explodes the size, he says. The research could aid the detection of money laundering through cryptocurrency.
+“Cartels love Bitcoin,” Sariyuce says. “Cryptocurrencies create an illusion of privacy where we don’t know who is who but see all the transactions. Temporal motif-based methods can offer a systematic way to detect anomalies in which coordinated illicit activities occur.”
+Sariyuce will organize computer science workshops for high school students from Hispanic, Burmese and Somali communities in Buffalo with the help of community organizations.
+Sangwoo Shin, PhD
+Assistant Professor of Mechanical and Aerospace Engineering
+School of Engineering and Applied Sciences
+Award amount: $500,000
+Cellular organisms and cell parts relentlessly move around the body to perform various functions. Understanding this movement could provide insight into how wounds heal, pathogens are transmitted and cancer spreads. It can even lead to new approaches for treating wastewater and helping therapeutic drugs reach their targets.
+Shin will explore one important aspect of cells that affects their movement: lipid bilayers, or the thin membranes encapsulating the cell that control the entry or exit of water and ions. 
+“By delving into the fundamental physics governing the motion of these microscopic entities, our research has the potential to advance our understanding of life itself,” says Shin.
+The study will synthesize lipid vesicles — cell-mimicking droplets that are encapsulated by lipid membranes — and observe their motion in various conditions under a microscope. 
+The project will also promote diversity and inclusion in the science, technology, engineering and math fields by providing research opportunities to undergraduate students from underrepresented groups.
+Ziming Zhao, PhD
+Assistant Professor of Computer Science and Engineering
+School of Engineering and Applied Sciences
+Award amount: $564,748
+There are billions of smart devices worldwide, ranging from self-driving cars to smart refrigerators and thermostats. These devices are often vulnerable due to flawed security, and attackers are increasingly leveraging these weaknesses to infiltrate corporate networks.
+Zhao aims to discover and correct the vulnerabilities in trusted execution environments (TEEs), a core component of Internet of Things (IoT) device security.
+“The vast number of these devices and their crucial role in our daily lives makes it imperative to prioritize their security,” says Zhao.
+In addition to improving TEEs security, Zhao also aims to advance the education pedagogy of Internet of Things security.
+“The project's broader significance and importance, beyond securing the IoT infrastructure, are to train the next generation of cybersecurity researchers, educators and practitioners with deep theoretical understandings and practical skills in this field,” he says.
+Media Contact Information
+Tom Dinki
+News Content Manager
+Physical sciences, economic development
+Tel: 716-645-4584
+tfdinki@buffalo.edu
+UB is actively monitoring developments related to COVID-19. Please check with event organizers for the most up-to-date information about scheduled events. 
+UPCOMING SEAS EVENTS
+Oct
+20
+ISE Seminar — Understanding Structural Damage from Wildfires in Wildland-Urban Interface Communities
+11:00 AM - 12:00 PM
+Davis Hall - Agrusa Aud, Room 101
+Oct
+20
+CBE Graduate Student Research Symposium
+1:00 PM - 4:00 PM
+Center for the Arts
+Oct
+20
+EE Seminar — Polarimetric Aerosol and Cloud Remote Sensing – Radiative Transfer and Inversion Model Development
+2:00 PM - 3:00 PM
+Davis Hall - Room 230A
+Oct
+24
+WiSE and Shine Breakfast Meetup with Alumni: Overcoming Perfectionism
+9:00 AM - 10:00 AM
+Davis Hall – Salvador Lounge (2nd Floor)
+Oct
+24
+Government Gigs Snack n Chat
+4:00 PM - 5:00 PM
+Capen Hall - Career Svcs (Rm 259)
+MORE UPCOMING SEAS EVENTS
+LATEST NEWS
+10/18/23 UB takes AI chat series to Grand Island Central School District
+10/13/23 Agrusa makes historic $40 million gift to SEAS, largest in school history
+9/25/23 Nine SEAS students named 2023-24 WNY Prosperity Fellows
+9/8/23 SUNY chancellor touts UB as national leader in AI
+9/7/23 Two NSF grants totaling $1 million fund research to make machine learning smarter
+MORE NEWS
+
+SHARE THE NEWS
+Have some news or an event to share with us? Please send it to cse-dept@buffalo.edu.
+CONNECT WITH US
+Connect With Us
+Computer Science and Engineering
+338 Davis Hall
+Buffalo, New York 14260-2500
+(716) 645-3180
+Quick Links
+Why Choose CSE?
+News & Events
+Employment Opportunities
+Give to CSE
+Contact Us
+Admissions
+Undergraduate Admissions
+Graduate Admissions
+Explore Further
+Get Involved
+Engineering and Applied Sciences Alumni Association
+Support SEAS
+Collaborate with UB
+On This Website
+About Us
+Undergraduate Programs
+Graduate Programs
+Research
+People
+News & Events
+Full Site Map
+Information For
+Students
+Faculty and Staff
+Alumni
+© 2023 University at Buffalo. All rights reserved.  |  Privacy  |  Accessibility
