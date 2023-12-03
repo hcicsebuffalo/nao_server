@@ -23,6 +23,7 @@ import time
 import subprocess
 import qrcode
 from pdf2image import convert_from_bytes
+import timm
 images1 = convert_from_bytes(open(
     '/home/csgrad/sunilruf/nlp_cse/LLM_bot/data/grad-handbook-2023.pdf', 'rb').read())
 

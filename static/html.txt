@@ -1,45 +1,46 @@
 
-    <html>
-        <head>
-            <title></title>
-            <style>
-                body {
-                    font-family: Arial, sans-serif;
-                    background-color: #F0F0F0;
-                    text-align: left;
-                }
-                img {
-                    max-width: 300px;
-                    border: 2px solid #333;
-                    border-radius: 10px;
-                    box-sizing: border-box;
-                }
-                .container {
-                    margin: 0 auto;
-                    background-color: #fff;
-                    display: flex;
-                    align-items: center;
-                }
-                .text {
-                    flex: 1;
-                    padding: 20px;
-                    text-align: justify;
-                }
-                h1 {
-                    color: #333;
-                    font-weight: normal;
-                    text-align: center;
-                    white-space: nowrap;
-                }
-            </style>
-        </head>
-        <body>
-        <h1> Introduce yourself</h1>
-        <div class="container">
-                        <div class="text">
-            <p><br> <br>I am an AI language model and I don't have a personal identity. However, I am here to assist you with any questions or information you may need. How can I help you today? <br><br> Please find the source: <br></p>
-            </div>
-            <img src="static/output_img1.png">
-            </div>
-        </body>
-    </html>
+        <html>
+            <head>
+                <title></title>
+                <style>
+                    body {
+                        font-family: Arial, sans-serif;
+                        background-color: #F0F0F0;
+                        text-align: left;
+                    }
+                    img {
+                        max-width: 300px;
+                        border: 2px solid #333;
+                        border-radius: 10px;
+                        box-sizing: border-box;
+                    }
+                    .container {
+                        margin: 0 auto;
+                        background-color: #fff;
+                        display: flex;
+                        align-items: center;
+                    }
+                    .text {
+                        flex: 1;
+                        padding: 20px;
+                        text-align: justify;
+                    }
+                    h1 {
+                        color: #333;
+                        font-weight: normal;
+                        text-align: center;
+                        white-space: nowrap;
+                    }
+                </style>
+            </head>
+            <body>
+            <h1> Who is the Vice President of University at Buffalo?</h1>
+            <div class="container">
+                            <div class="text">
+                <p><br> <br>As of the most recent update on 2023-12-02, the Vice President of the University at Buffalo is Vino. <br><br> Please find the source: <br></p>
+                </div>
+                <img src="static/output_img1.png">
+                </div>
+            </body>
+        </html>
+    

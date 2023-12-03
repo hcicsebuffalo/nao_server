@@ -9,7 +9,7 @@ TRANSCRIBE = True
 EMOTION = True
 WAKE_WORD = True
 
-from LLM import LLMResponse
+from LLM_code.LLM1 import LLMResponse
 
 if EMOTION:
         
@@ -30,9 +30,15 @@ if EMOTION:
     import timm
 
     PATH='models/emotions.pt'
-    model = torch.load(PATH,map_location=torch.device('cpu'))
-    model=model.to(device)
-    model.eval()
+    try:
+        model = torch.load(PATH,map_location=torch.device('cpu'))
+        model=model.to(device)
+        model.eval()
+        
+    except Exception as e:
+        print("Error loading the model:", e)
+        import traceback
+        traceback.print_exc()
 
 if TRANSCRIBE:
     import whisper
@@ -295,9 +301,8 @@ if WAKE_WORD:
     import os
     import json
     porc_model_path_ppn = "models/hello-kai_en_linux_v2_2_0.ppn"
-    pico_key = os.environ["PICOVOICE_API_KEY"]
-    porcupine = pvporcupine.create(access_key=pico_key, keyword_paths=[porc_model_path_ppn])
-    
+    #pico_key = os.environ["PICOVOICE_API_KEY"]
+    porcupine = pvporcupine.create(access_key="mIyfVBxZvAvw4wEhVoXOBagmIy1f+EViskPNpAgzhZy8KkPQYIGzhA==", keyword_paths=[porc_model_path_ppn])
 
 if WAKE_WORD:
     @app.route('/wake_word', methods=['POST'])
@@ -305,8 +310,6 @@ if WAKE_WORD:
         int_list = json.loads(request.files['audio'].read().decode('utf-8'))
         keyword_index = porcupine.process(int_list)
         return jsonify(keyword_index)
-    
-
 
 @app.route('/complete', methods=['POST'])
 def complete():
