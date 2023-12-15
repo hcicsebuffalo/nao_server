@@ -1,0 +1,226 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Undergraduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Archived Catalogs
+General Catalog Information
+Majors and Combined Degrees
+Minors, Certificates and Micro-Credentials
+Departments & Programs
+Courses
+UB Curriculum (General Education)
+Academic Policies and Procedures
+Academic Calendar
+Campus Facilities and Instructional Spaces
+Financial and Scholarship Information
+Admissions
+Student Records and Registration
+Academic Advising
+Learning Outside the Classroom
+Study Abroad
+myUB
+HUB Academic Advisement Report
+Accreditations
+a
+Mechanical Engineering BS
+Return to: Majors and Combined Degrees
+Do you want to develop technologies that improve people’s lives? Do you care about things like helping people with health conditions, making transportation more sustainable and assisting those who live in poverty?
+Mechanical engineering is one of the most flexible-and practical-degrees. It’s for people who want to know how different types of machines, engines and systems work so they can make them better. Whether you want to design self-driving cars, improve wind turbines, build life-saving robots-or find other ways to change the world by solving problems-let’s get started.
+Visit the Mechanical Engineering academic program page for more information about the academic experience, who you will learn from, opportunities outside of class and what you can do with this degree.
+Visit the Mechanical and Aerospace Engineering department page for contact information, a brief overview of the department and the curricular options.
+Admission Criteria
+Current or transfer students wishing to pursue this major must meet School of Engineering and Applied Sciences Admission Criteria.
+Course Requirements
+Mechanical Engineering Core (93 credits)
+CHE 107LR - General Chemistry for Engineers I Credits: 3.5 AND
+CHE 127LAB - General Chemistry for Engineers Laboratory 1 Credits: 0.5 OR
+CHE 101LR - General Chemistry Credits: 4 AND
+CHE 113LAB - General Chemistry Credits: 1 OR
+CHE 105LLR - Chemistry: Principles and Applications Credits: 5
+ EAS 199SL - UB Seminar Credits: 3
+EAS 202SEM - Engineering Impact On Society Credits: 1
+EAS 207LR - Statics Credits: 3
+EAS 208LR - Dynamics Credits: 3
+EAS 209LR - Mechanics of Solids Credits: 3
+EAS 230LLB - Engineering Computations Credits: 3 *
+EAS 360LEC - STEM Communications Credits: 3
+ EAS 200LR - Electrical Engineering Concepts for Non-Majors Credits: 3 OR
+EE 202LR - Circuit Analysis Credits: 3
+ MAE 177LLB - Introduction to CAD Credits: 1 **
+MAE 204LR - Thermodynamics I Credits: 3
+MAE 277LEC - Introduction to Mechanical and Aerospace Engineering Practice Credits: 3 ***
+MAE 311LEC - Machines and Mechanisms I Credits: 3
+MAE 334LLB - Mechanical and Aerospace Engineering Lab I Credits: 2
+MAE 335LR - Fluid Mechanics Credits: 3
+MAE 336LEC - Heat Transfer Credits: 3
+MAE 338LAB - Mechanical and Aerospace Engineering Lab II Credits: 2
+MAE 340LEC - Dynamic Systems Credits: 3
+MAE 364LEC - Manufacturing Processes Credits: 3
+MAE 376LLB - Applied Mathematics for MAE Credits: 3
+MAE 377LLB - Product Design in a CAE Environment Credits: 3
+MAE 381LEC - Engineering Materials Credits: 3
+MAE 385LAB - Engineering Materials Laboratory Credits: 1
+MAE 451LEC - Design Process and Methods Credits: 3
+MAE 494LT - Design Project Credits: 3
+MTH 141LR - College Calculus I Credits: 4
+MTH 142LR - College Calculus 2 Credits: 4
+MTH 241LR - College Calculus 3 Credits: 4
+MTH 306LR - Introduction to Differential Equations Credits: 4
+PHY 107LR - General Physics I Credits: 4
+PHY 108LR - General Physics II Credits: 4
+PHY 158LAB - General Physics II Lab Credits: 1 *****
+Three MAE Technical Electives (9 credits)
+Any 300/400 level 3-credit course in MAE that is not a required course qualifies as an MAE technical elective. EAS 496 (3 credits minimum) also satisfies a technical elective requirement.
+One Applied Math Elective (3 or 4 credits)
+EAS 305LR - Applied Probability and Statistics Credits: 4 OR
+MTH 411LR - Probability Theory Credits: 4 OR
+STA 301LEC - Intro to Probability Credits: 3 ****** AND
+STA 301REC - Intro to Probability Credits: 1 ******
+ MAE 425LEC - Spacecraft Dynamics and Control Credits: 3
+MTH 309LR - Introductory Linear Algebra Credits: 4
+MTH 417LR - Survey of Multivariable Calculus Credits: 4
+MTH 418LR - Survey of Partial Differential Equations Credits: 4
+Two Professional Practice Track OR Science and Math Track (6 credits)
+Students will elect to take either the Professional Practice track or the Science and Mathematics track; mixing of tracks is not permitted. The Professional Practice track has a series of courses drawn from different departments across the university and stresses disciplines such as professional communication, economics and business, the environment, and similar. Some courses may require force registration through the department offering the course. Please contact that department directly. The Science and Mathematics track increases the exposure of the student to these areas over and above the usual requirements for the BSME degree and may be useful for students who are considering Graduate Studies (MS, PhD).
+Professional Practice Track
+CIE 303LLB - Geodesy, Gps, and GIS Credits: 3
+CIE 340LR - Environmental Engineering Credits: 3
+ COM 326REC - Public Speaking Credits: 3 OR
+COM 317DIS - Business/Professional Communication Credits: 3
+ EAS 345LEC - Introduction to Data Science Credits: 3
+EAS 346LEC - Communicating with Data Credits: 3
+EAS 496TUT - Engineering Co-Op Credits: 1-3
+ECO 405LEC - Microeconomic Theory 1 Credits: 3
+ECO 406LEC - Microeconomic Theory 2 Credits: 3
+ECO 469SEM - Industrial Organization Credits: 3
+ECO 470LEC - Economics of Regulation Credits: 3
+GEO 333LEC - International Trade Credits: 3
+GEO 334LEC - International Business Cultures Credits: 3
+IE 320LEC - Engineering Economy Credits: 3
+IE 323LLB - Human Factors in System Design Credits: 4
+IE 326LEC - Planning for Productions & Service Enterprises Credits: 3
+MAE 434LEC - Aircraft Design Credits: 3
+MAE 496TUT - Engineering Internship Credits: 1-3
+MGO 330LEC - Entrepreneurship and Small Business Credits: 3
+MGO 365SEM - Technology Entrepreneurship Credits: 3
+MGO 463SEM - The Entrepreneurship Lab Credits: 3
+Science and Mathematics Track
+BIO 200LLB - Evolutionary Biology Credits: 5
+BIO 201LEC - Cell Biology Credits: 3
+CHE 108LR - General Chemistry for Engineers II Credits: 3.5
+CHE 203LEC - Organic Chemistry Credits: 3
+CHE 205LBR - Organic Chemistry 1 LAB Credits: 2
+ EAS 305LR - Applied Probability and Statistics Credits: 4 OR
+MTH 411LR - Probability Theory Credits: 4 OR
+STA 301LEC - Intro to Probability Credits: 3 ****** AND
+STA 301REC - Intro to Probability Credits: 1 ******
+ PHY 207LR - General Physics III Credits: 4
+PHY 301LEC - Intermediate Mechanics I Credits: 3
+PHY 302LEC - Intermediate Mechanics II Credits: 3
+PHY 403LEC - Electricity and Magnetism I Credits: 3
+PHY 405LEC - Thermal and Statistical Physics I Credits: 3
+MTH 300/400-level courses except MTH 337, MTH 399, MTH 437, MTH 438, and MTH 49X courses.
+Total Credits Required for Major: 111
+Additional Degree Requirements Include:
+Additional coursework to fulfill UB Curriculum requirements
+Elective courses as needed to complete the 128 credit hour total
+Total Credits Required for Graduation: 128
+Total Credit Hours Required represents the minimum credits needed to complete this program, and may vary based on a number of circumstances. This should not be used for financial aid purposes.
+Notes
+*Students are permitted to take alternative programming courses EAS 240 or CSE 115 in lieu of EAS 230, however EAS 230 is strongly preferred for Mechanical Engineering majors. The alternative programming courses should only be utilized by students transferring into the program with EAS 240, CSE 115, or EAS 999TRCP (general programming for transfer students) already completed. View our Computer Programming Requirement website
+for more information on the programming alternatives and self-study packages.
+**Students are permitted to use CIE 177 or EAS 999TR177 (general graphics for transfer students) to satisfy this requirement. However, MAE 177 is strongly preferred for Mechanical Engineering majors. The CIE 177 or EAS 999TR177 should only be utilized by students transferring into the program with these courses already completed. View our Graphics Requirement website for more information on graphics alternatives and self-study packages.
+
+***Transfer students with Senior standing must replace MAE 277 with an SEAS technical elective. Transfer students with Junior standing should consult with an MAE academic adviser to determine if they should take MAE 277 or replace it with an SEAS technical elective.
+
+****A maximum combined total of 6 credits from the following courses can be used to satisfy degree requirements: EAS496, MAE496, MAE498, MAE499.
+*****Students are permitted to use PHY 151 and PHY 152 in lieu of PHY 158, however PHY 158 is preferred for engineering majors.
+****This course can only be applied to either the Applied Math Elective OR the Science and Math Track. Under no circumstances can this course fulfill both categories.
+Academic Requirements
+Students in the School of Engineering and Applied Sciences must have a minimum GPA of 2.000 in technical classes (engineering, math, and science classes) to be in good standing and graduate with an undergraduate degree.  To maintain academic standards and determine eligibility for continued enrollment, the School of Engineering and Applied Sciences reviews the academic records of all students in an approved undergraduate SEAS major. This academic review is conducted at the end of each fall and spring semester.
+View the School of Engineering and Applied Sciences Academic Review Policy
+Transfer Credit Policy
+Students seeking an undergraduate engineering degree from the School of Engineering and Applied Sciences must complete 30 undergraduate credit hours of junior/senior level courses required in their major at the University at Buffalo.
+Curricular Plan
+A Curricular Plan provides a roadmap for completing this academic program and the UB Curriculum on time. Your actual plan may vary depending on point of entry to the university, course placement and/or waivers based on standardized test scores, earned alternative credit and/or college transfer credit.
+First Year Fall
+EAS 199SL - UB Seminar Credits: 3
+CHE 107LR - General Chemistry for Engineers I Credits: 3.5
+MTH 141LR - College Calculus I Credits: 4
+ENG 105LEC - Writing and Rhetoric Credits: 4 OR  Pathway Credits: 3 
+Total Credits: 17 or 18
+First Year Spring
+MAE 177LLB - Introduction to CAD Credits: 1
+PHY 107LR - General Physics I Credits: 4
+MTH 142LR - College Calculus 2 Credits: 4
+ENG 105LEC - Writing and Rhetoric Credits: 4 OR  Pathway Credits: 3 
+EAS 230LLB - Engineering Computations Credits: 3
+EAS 202SEM - Engineering Impact On Society Credits: 1
+Total Credits: 16 or 17
+Second Year Fall
+EAS 207LR - Statics Credits: 3
+MAE 204LR - Thermodynamics I Credits: 3
+MTH 241LR - College Calculus 3 Credits: 4
+PHY 108LR - General Physics II Credits: 4
+PHY 158LAB - General Physics II Lab Credits: 1
+MAE 277LEC - Introduction to Mechanical and Aerospace Engineering Practice Credits: 3
+Total Credits: 18
+Second Year Spring
+EAS 200LR - Electrical Engineering Concepts for Non-Majors Credits: 3
+EAS 208LR - Dynamics Credits: 3
+EAS 209LR - Mechanics of Solids Credits: 3
+MTH 306LR - Introduction to Differential Equations Credits: 4
+Pathway Credits: 3
+Total Credits: 16
+Third Year Fall
+MAE 377LLB - Product Design in a CAE Environment Credits: 3
+MAE 340LEC - Dynamic Systems Credits: 3
+MAE 335LR - Fluid Mechanics Credits: 3
+MAE 376LLB - Applied Mathematics for MAE Credits: 3
+MAE 381LEC - Engineering Materials Credits: 3
+EAS 360LEC - STEM Communications Credits: 3
+Total Credits: 18
+Third Year Spring
+MAE 311LEC - Machines and Mechanisms I Credits: 3
+MAE 364LEC - Manufacturing Processes Credits: 3
+MAE 336LEC - Heat Transfer Credits: 3
+MAE 385LAB - Engineering Materials Laboratory Credits: 1
+MAE 334LLB - Mechanical and Aerospace Engineering Lab I Credits: 2
+Professional/Sci Track Credits: 3
+Total Credits: 15
+Fourth Year Fall
+MAE 338LAB - Mechanical and Aerospace Engineering Lab II Credits: 2
+MAE 451LEC - Design Process and Methods Credits: 3
+MAE Tech Elective Credits: 3
+MAE Tech Elective Credits: 3
+Pathway Credits: 3
+Total Credits: 14
+Fourth Year Spring
+MAE 494LT - Design Project Credits: 3
+Applied Math Elective Credits: 3
+MAE Technical Elective Credits: 3
+Professional/Sci Track Credits: 3
+Pathway Credits: 3
+UBC 399MNT - UB Curriculum Capstone Credits: 1
+Total Credits: 16
+Total Credits Required: 128
+Note: Some classes may count toward both a major and UB Curriculum requirement.
+Learning Outcomes
+The curriculum provides opportunities for students to develop the following knowledge, skills, and behaviors by the time of graduation:
+an ability to identify, formulate and solve complex engineering problems by applying principles of engineering, science, and mathematics
+an ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety and welfare, as well as global, cultural, social, environmental and economic factors
+an ability to communicate effectively with a range of audiences
+an ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts
+an ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives
+an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions
+an ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
+Return to: Majors and Combined Degrees
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2023 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

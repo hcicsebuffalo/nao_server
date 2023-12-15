@@ -1,0 +1,164 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Undergraduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Archived Catalogs
+General Catalog Information
+Majors and Combined Degrees
+Minors, Certificates and Micro-Credentials
+Departments & Programs
+Courses
+UB Curriculum (General Education)
+Academic Policies and Procedures
+Academic Calendar
+Campus Facilities and Instructional Spaces
+Financial and Scholarship Information
+Admissions
+Student Records and Registration
+Academic Advising
+Learning Outside the Classroom
+Study Abroad
+myUB
+HUB Academic Advisement Report
+Accreditations
+a
+Mathematics BA - General Study in Mathematics and Education Concentration
+Return to: Majors and Combined Degrees
+Are you captivated by the beauty of patterns and intrigued by the inherent logic of the universe? If so, mathematics may be the perfect choice. By immersing yourself in mathematics, you can unlock the power to decipher the secrets of nature, develop technology, and comprehend the interconnectedness of the world around us. Mathematics underpins everything from encrypting messages and predicting climate change to medical imaging, machine learning and much more. Whether you dream of unraveling the mysteries of the universe or utilizing mathematical models to shape the future, a mathematics degree gives you the flexibility to make a meaningful impact.
+Visit the Mathematics academic program page for more information about the academic experience, who you will learn from, opportunities outside of class and what you can do with this degree.
+Visit the Mathematics department page for contact information, a brief overview of the department and the curricular options.
+Course Requirements
+Mathematics Core (48 credits)
+CSE 191LR - Introduction to Discrete Structures Credits: 4
+ MTH 141LR - College Calculus I Credits: 4 OR
+MTH 153LR - Honors Calculus I Credits: 4
+ MTH 142LR - College Calculus 2 Credits: 4 OR
+MTH 154LR - Honors Calculus 2 Credits: 4
+ MTH 241LR - College Calculus 3 Credits: 4 OR
+MTH 251LR - Honors Calculus 3 Credits: 4
+ MTH 306LR - Introduction to Differential Equations Credits: 4 OR
+MTH 326LR - Honors Diff Equations Credits: 4
+ MTH 309LR - Introductory Linear Algebra Credits: 4 OR
+MTH 323LR - Honors Linear Algebra Credits: 4
+ MTH 311LR - Introduction to Higher Mathematics Credits: 4
+MTH 335LR - Elements of Geometry Credits: 4
+ MTH 337LEC - Introduction to Scientific and Mathematical Computing Credits: 4 OR
+CSE 116LLB - Introduction to Computer Science II Credits: 4
+ MTH 411LR - Probability Theory Credits: 4 OR
+STA 301LEC - Intro to Probability Credits: 3 AND
+STA 301REC - Intro to Probability Credits: 1
+ MTH 419LR - Introduction to Abstract Algebra Credits: 4 OR
+MTH 420LR - Abstract Linear Algebra Credits: 4
+ MTH 431LR - Introduction to Real Variables I Credits: 4
+One 300/400-level Mathematics Course (3-4 credits)
+Note: Excluding MTH 306, MTH 309, MTH 323, MTH 326, MTH 399, MTH 411, MTH 495-MTH 499, STA 301 and STA 301, and all courses already being used towards other requirements.
+Additional Course Requirements (14 credits)
+CSE 115LLR - Introduction to Computer Science I Credits: 4
+LAI 350LEC - Introduction to Education Credits: 4
+CEP 400LEC - Educational Psychology Credits: 3
+ELP 405LEC - Sociology of Education Credits: 3
+Three Electives from approved Education Minor course list: (9 credits)
+CEP 401LEC - Introduction to Counseling Credits: 3
+CEP 404LEC - Current Issues in Substance Abuse and Addiction Credits: 3
+CEP 453LEC - Current Issues in Rehab Counseling Credits: 3
+LAI 205LEC - Introduction to Child Development Credits: 3
+LAI 414LEC - Adolescent Writing Across the Curriculum Credits: 3
+LAI 416LEC - Early Childhood and Childhood Education: Theory & Practice Credits: 3
+LAI 474SEM - Teaching the Exceptional Learner in the Regular Education Classroom Credits: 3
+LAI 490SEM - Seminar and Practicum in Early Childhood Programs Credits: 3
+Total Credits Required for Major: 74-75
+Additional Degree Requirements Include:
+Additional coursework to fulfill UB Curriculum requirements
+Elective courses as needed to complete the 120 credit hour total
+Total Credits Required for Graduation: 120
+Total Credit Hours Required represents the minimum credits needed to complete this program, and may vary based on a number of circumstances. This should not be used for financial aid purposes.
+Academic Requirements
+Continuation in the major will be contingent on completing MTH 141 MTH 142 and MTH 241  (or Honors equivalent or transfer-equivalent courses), with a 2.500 GPA or higher. Students with a Calculus GPA below 2.500 may be eligible for provisional admission. Contact 716-645-8785 or math-undergrad@buffalo.edu to make an advising appointment.
+Transfer Credit Policy
+All UB Mathematics majors must complete at least four upper-division mathematics courses, numbered 311-489, excluding MTH 323, MTH 326, and MTH 399, at UB. 
+Program Honors and Program Distinction
+Majors are eligible for Program Honors upon completion of an honors thesis under the guidance of a faculty advisor. Students typically complete MTH 499 in the fall semester and MTH 497 in the spring semester, although the timing is flexible and students may complete the thesis before their last semester. Students must also meet the remaining Program Honors criteria outlined in the Academic Honors policy. 
+Majors who do not pursue a thesis but have exceptional grades are eligible for Program Distinction upon degree conferral if the criteria are met. These criteria are also found in the Academic Honors policy.
+Students who successfully complete Program Honors and meet the criteria will have the appropriate notation on their official transcript. Program Distinction is also noted on the official transcript.
+Curricular Plan
+A Curricular Plan provides a roadmap for completing this academic program and the UB Curriculum on time. Your actual plan may vary depending on point of entry to the university, course placement and/or waivers based on standardized test scores, earned alternative credit and/or college transfer credit.
+First Year Fall
+UB Seminar Credits: 3
+ MTH 141LR - College Calculus I Credits: 4 OR
+MTH 153LR - Honors Calculus I Credits: 4
+ Pathway Credits: 3
+ENG 105LEC - Writing and Rhetoric Credits: 4 OR Pathway Credits: 3
+Pathway Credits: 3
+Total Credits: 16 or 17
+First Year Spring
+MTH 142LR - College Calculus 2 Credits: 4 OR
+MTH 154LR - Honors Calculus 2 Credits: 4
+ CSE 115LLR - Introduction to Computer Science I Credits: 4
+Pathway Credits: 3
+ENG 105LEC - Writing and Rhetoric Credits: 4 OR Pathway Credits: 3
+Total Credits: 14 or 15
+Second Year Fall
+Scientific Literacy and Inquiry 1 Credits: 3
+Scientific Literacy and Inquiry Lab Credits: 1
+ MTH 241LR - College Calculus 3 Credits: 4 OR
+MTH 251LR - Honors Calculus 3 Credits: 4
+ MTH 337LEC - Introduction to Scientific and Mathematical Computing Credits: 4 OR
+CSE 116LLB - Introduction to Computer Science II Credits: 4
+ CSE 191LR - Introduction to Discrete Structures Credits: 4
+Total Credits: 16
+Second Year Spring
+MTH 309LR - Introductory Linear Algebra Credits: 4 OR
+MTH 323LR - Honors Linear Algebra Credits: 4
+ MTH 311LR - Introduction to Higher Mathematics Credits: 4
+LAI 350LEC - Introduction to Education Credits: 4
+Scientific Literacy and Inquiry 2 Credits: 3
+Total Credits: 15
+Third Year Fall
+MTH 411LR - Probability Theory Credits: 4 OR
+STA 301LEC - Intro to Probability Credits: 3 AND STA 301REC Credits: 1
+ MTH 306LR - Introduction to Differential Equations Credits: 4 OR
+MTH 326LR - Honors Diff Equations Credits: 4
+ Communication Literacy 2 Credits: 3
+Pathway Credits: 3
+Pathway Credits: 3
+Total Credits: 17
+Third Year Spring
+MTH 335LR - Elements of Geometry Credits: 4
+CEP 400LEC - Educational Psychology Credits: 3
+ELP 405LEC - Sociology of Education Credits: 3
+Elective Credits: 3
+UBC 399MNT - UB Curriculum Capstone Credits: 1
+Total Credits: 14
+Fourth Year Fall
+MTH 431LR - Introduction to Real Variables I Credits: 4
+Education Elective Credits: 3
+MTH 300/400 Elective Credits: 3
+Elective Credits: 3
+Total Credits: 13
+Fourth Year Spring
+Education Elective Credits: 3
+Education Elective Credits: 3
+ MTH 419LR - Introduction to Abstract Algebra Credits: 4 OR
+MTH 420LR - Abstract Linear Algebra Credits: 4
+ Elective Credits: 3
+Elective Credits: 1
+Total Credits: 14
+Total Credits Required: 120
+Note: Some classes may count toward both a major and UB Curriculum requirement.
+Learning Outcomes
+By the time of graduation, students majoring in mathematics should have acquired the following knowledge and skills:
+1. Proficiency in basic computational methods in calculus, algebra, and differential equations.
+2. Facility with computer-aided computations.
+3. The ability to write clear and rigorous mathematical proofs.  
+4. The ability to apply mathematical modeling to problems arising in other disciplines.
+5. A basic understanding of methods and the subject matter of various mathematical disciplines.
+Return to: Majors and Combined Degrees
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2023 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

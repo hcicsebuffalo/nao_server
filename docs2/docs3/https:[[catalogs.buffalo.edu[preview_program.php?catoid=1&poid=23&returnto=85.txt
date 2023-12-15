@@ -1,0 +1,159 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Undergraduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Archived Catalogs
+General Catalog Information
+Majors and Combined Degrees
+Minors, Certificates and Micro-Credentials
+Departments & Programs
+Courses
+UB Curriculum (General Education)
+Academic Policies and Procedures
+Academic Calendar
+Campus Facilities and Instructional Spaces
+Financial and Scholarship Information
+Admissions
+Student Records and Registration
+Academic Advising
+Learning Outside the Classroom
+Study Abroad
+myUB
+HUB Academic Advisement Report
+Accreditations
+a
+Bioinformatics and Computational Biology BS - Biological Sciences Concentration
+Return to: Majors and Combined Degrees
+Use electronic health records to prevent future pandemics. Help analyze genetic data to develop new cancer drugs. Create advanced computer models that lead to more resilient ecosystems. If these things sound interesting to you-and if you like using science, math, data and statistics-then this program could be exactly what you’re looking for. This program is for students who want a highly interdisciplinary major, with the freedom to focus on biology, computer science or informatics (using data to improve health).
+Visit the Bioinformatics and Computational Biology academic program page for more information about the academic experience, who you will learn from, opportunities outside of class and what you can do with this degree.
+Visit the Biological Sciences department page for contact information, a brief overview of the department and the curricular options.
+Course Requirements
+Bioinformatics and Computational Biology Core (35 credits)
+BIO 200LLB - Evolutionary Biology Credits: 5
+BIO 201LEC - Cell Biology Credits: 3
+BIO 211LAB - Cell Biology Lab Credits: 1
+CHE 101LR - General Chemistry Credits: 4
+CHE 113LAB - General Chemistry Credits: 1
+CHE 102LR - General Chemistry Credits: 4
+CHE 114LAB - General Chemistry Credits: 1
+CSE 115LLR - Introduction to Computer Science I Credits: 4
+CSE 116LLB - Introduction to Computer Science II Credits: 4
+MTH 141LR - College Calculus I Credits: 4
+MTH 142LR - College Calculus 2 Credits: 4
+Biological Sciences Concentration Core (54 credits)
+BCH 419LEC - Introduction to Bioinformatics and Computational Biology Credits: 3
+BIO 302LEC - Introduction to Molecular Biology Credits: 3
+BIO 305LEC - Fundamentals of Biological Chemistry Credits: 3
+BIO 319LEC - Genetics Credits: 3
+ BIO 315LLB - Fundamentals of Biological Chemistry Laboratory Credits: 2 OR
+BIO 329LLB - Genetics Laboratory Credits: 2
+ BIO 400LLB - Bioinformatics / Genome Analysis Credits: 4 OR
+MTH 337LEC - Introduction to Scientific and Mathematical Computing Credits: 4
+ BIO 494SEM - Biological Sciences Senior Capstone Credits: 3
+BIO 498TUT - Undergraduate Research Credits: 1-6 (9 credits)
+BIO 499TUT - Independent Study Credits: 1-4 (3 credits)
+ CHE 203LEC - Organic Chemistry Credits: 3 AND
+CHE 205LBR - Organic Chemistry 1 LAB Credits: 2 OR
+CHE 251LLR - Contemporary Organic Chemistry Credits: 5
+ MTH 411LR - Probability Theory Credits: 4 OR
+STA 301LEC - Intro to Probability Credits: 3 AND
+STA 301REC - Intro to Probability Credits: 1
+ MTH 412LR - Introduction to Statistical Inference Credits: 4 OR
+STA 302LEC - Intro Stat Inference Credits: 3 AND
+STA 302REC - Intro Stat Inference Credits: 1
+ Biology Electives Credits: 8
+Total Credits Required for Major: 89
+Additional Degree Requirements Include:
+Additional coursework to fulfill UB Curriculum requirements
+Elective courses as needed to complete the 120 credit hour total
+Total Credits Required for Graduation: 120
+Total Credit Hours Required represents the minimum credits needed to complete this program, and may vary based on a number of circumstances. This should not be used for financial aid purposes.
+Academic Requirements
+A minimum combined GPA of 3.000 for required courses is required for retention in the major. At the end of every semester a review of all coursework is completed, and any student not meeting the GPA minimum for four consecutive semesters will be dismissed from the major.
+Program Honors
+Students with at least a 3.600 GPA may apply to the honors program fall of the third year. Accepted students take BIO 487 spring of the junior year and the senior year is devoted to laboratory research where the student completes six credits of honors-level, biological research BIO 497 in the laboratory of a UB faculty member. The research is presented at the departmental honors symposium at the end of spring semester. BIO 497 credits count for two of the required labs for the major and all the BIO 487/BIO 497 credits will be counted toward the total required for the major.
+Students must also meet the remaining criteria outlined in the Academic Honors policy. Students who successfully complete the honors program and meet the criteria will have the appropriate notation on their official transcript.
+Curricular Plan
+A Curricular Plan provides a roadmap for completing this academic program and the UB Curriculum on time. Your actual plan may vary depending on point of entry to the university, course placement and/or waivers based on standardized test scores, earned alternative credit and/or college transfer credit.
+First Year Fall
+UB Seminar Credits: 3
+BIO 200LLB - Evolutionary Biology Credits: 5
+CHE 101LR - General Chemistry Credits: 4
+CHE 113LAB - General Chemistry Credits: 1
+MTH 141LR - College Calculus I Credits: 4
+Total Credits: 17
+First Year Spring
+BIO 201LEC - Cell Biology Credits: 3
+BIO 211LAB - Cell Biology Lab Credits: 1
+CHE 102LR - General Chemistry Credits: 4
+CHE 114LAB - General Chemistry Credits: 1
+MTH 142LR - College Calculus 2 Credits: 4
+ENG 105LEC - Writing and Rhetoric Credits: 4
+Total Credits: 17
+Second Year Fall
+BIO 499TUT - Independent Study Credits: 1-4
+CHE 203LEC - Organic Chemistry Credits: 3
+CHE 205LBR - Organic Chemistry 1 LAB Credits: 2
+CSE 115LLR - Introduction to Computer Science I Credits: 4
+Pathway and Diversity Learning Credits: 3
+ MTH 411LR - Probability Theory Credits: 4 OR
+STA 301REC - Intro to Probability Credits: 1
+Total Credits: 17
+Second Year Spring
+BIO 305LEC - Fundamentals of Biological Chemistry Credits: 3
+BIO 499TUT - Independent Study Credits: 1-4
+CSE 116LLB - Introduction to Computer Science II Credits: 4
+ MTH 412LR - Introduction to Statistical Inference Credits: 4 OR
+STA 302LEC - Intro Stat Inference Credits: 3 AND
+STA 302REC - Intro Stat Inference Credits: 1
+ Pathway Credits: 3
+Pathway Credits: 3
+Total Credits: 18
+Third Year Fall
+BIO 319LEC - Genetics Credits: 3
+ BIO 329LLB - Genetics Laboratory Credits: 2 OR
+BIO 315LLB - Fundamentals of Biological Chemistry Laboratory Credits: 2
+ BIO 387LEC - Communicating in Biological Sciences Credits: 3
+BIO 499TUT - Independent Study Credits: 1-4
+Pathway Course Credits: 3
+Total Credits: 12
+Third Year Spring
+BCH 419LEC - Introduction to Bioinformatics and Computational Biology Credits: 3
+BIO 302LEC - Introduction to Molecular Biology Credits: 3
+BIO 498TUT - Undergraduate Research Credits: 1-6
+Pathway Course Credits: 3
+Pathway Credits: 3
+Total Credits: 15
+Fourth Year Fall
+BIO 400LLB - Bioinformatics / Genome Analysis Credits: 4
+BIO 498TUT - Undergraduate Research Credits: 1-6
+Major elective (300-400 level) Credits: 4
+Major elective (300-400 level) Credits: 4
+UBC 399MNT - UB Curriculum Capstone Credits: 1
+Total Credits: 12
+Fourth Year Spring
+BIO 400LLB - Bioinformatics / Genome Analysis Credits: 4 OR
+MTH 337LEC - Introduction to Scientific and Mathematical Computing Credits: 4
+ BIO 494SEM - Biological Sciences Senior Capstone Credits: 3
+BIO 498TUT - Undergraduate Research Credits: 1-6
+Elective Credits: 2
+Total Credits: 12
+Total Credits Required: 120
+Note: Some classes may count toward both a major and UB Curriculum requirement.
+Learning Outcomes
+Students will:
+Develop computational skills relevant to solving problems in bioinformatics
+Develop relevant skills in math, statistics and biology that enable success in the field of bioinformatics
+Develop analytical skills that will allow them to identify important problems in bioinformatics and to identify solutions
+Gain research skills that allow them to apply their academic training to real-world problems
+Develop written and oral communication skills that are crucial to articulating research goals and reporting research results
+Return to: Majors and Combined Degrees
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2023 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

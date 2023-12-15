@@ -9,7 +9,10 @@ TRANSCRIBE = True
 EMOTION = True
 WAKE_WORD = True
 
-from LLM_code.LLM1 import LLMResponse
+from LLM_code.LLM_llama3 import LLMResponse
+
+#from LLM_code.LLM1 import LLMResponse  # for gpt
+
 
 if EMOTION:
         

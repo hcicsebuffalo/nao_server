@@ -1,0 +1,277 @@
+Computing ranking.
+
+
+
+CSRankings: Computer Science Rankings
+CSRankings is a metrics-based ranking of top computer science institutions around the world. Click on a triangle (►) to expand areas or institutions. Click on a name to go to a faculty member's home page. Click on a chart icon (the after a name or institution) to see the distribution of their publication areas as a 
+   
+bar chart
+   pie chart
+  . Click on a Google Scholar icon () to see publications, and click on the DBLP logo () to go to a DBLP entry. Applying to grad school? Read this first. Do you find CSrankings useful? Sponsor CSrankings on GitHub.
+Rank institutions in 
+      
+        Argentina
+                      Australia
+                      Austria
+        Bangladesh
+        Belgium
+        Brazil
+                      Canada
+        Chile
+        China
+        Colombia
+        Cyprus
+        Czech Republic
+        Denmark
+        Egypt
+        Estonia
+        Finland
+        France
+        Germany
+        Greece
+        Hong Kong
+        Hungary
+        India
+        Iran
+        Ireland
+        Israel
+        Italy
+        Japan
+        Jordan
+        Lebanon
+        Luxembourg
+        Malaysia
+        Malta
+        Netherlands
+        New Zealand
+        Norway
+        Pakistan
+        Philippines
+        Poland
+        Portugal
+        Qatar
+        Romania
+        Russia
+        Saudi Arabia
+        Singapore
+        South Africa
+        South Korea
+        Spain
+        Sri Lanka
+        Sweden
+"
+        
+Switzerland
+        Thailand
+        Taiwan
+        Turkey
+        United Arab Emirates
+        United Kingdom
+        USA
+      
+      
+        North America
+        South America
+        Africa
+        Asia
+        Australasia
+        Europe
+        the world
+      
+     by publications from 
+      
+1970
+  
+      1971
+  
+      1972
+  
+      1973
+  
+      1974
+  
+      1975
+  
+      1976
+  
+      1977
+  
+      1978
+  
+      1979
+  
+      1980
+  
+      1981
+  
+      1982
+  
+      1983
+  
+      1984
+  
+      1985
+  
+      1986
+  
+      1987
+  
+      1988
+  
+      1989
+  
+      1990
+  
+      1991
+  
+      1992
+  
+      1993
+  
+      1994
+  
+      1995
+  
+      1996
+  
+      1997
+  
+      1998
+  
+      1999
+  
+      2000
+      2001
+  
+      2002
+      2003
+      2004
+      2005
+      2006
+      2007
+      2008
+      2009
+      2010
+      2011
+      2012
+      2013
+      2014
+      2015
+      2016
+      2017
+      2018
+      2019
+      2020
+      2021
+      2022
+      2023
+     to 
+      
+1980
+  
+      1981
+  
+      1982
+  
+      1983
+  
+      1984
+  
+      1985
+  
+      1986
+  
+      1987
+  
+      1988
+  
+      1989
+  
+      1990
+  
+      1991
+  
+      1992
+  
+      1993
+  
+      1994
+  
+      1995
+  
+      1996
+  
+      1997
+  
+      1998
+  
+      1999
+  
+      2000
+      2001
+  
+      2002
+      2003
+      2004
+      2005
+      2006
+  
+      2007
+      2008
+      2009
+      2010
+      2011
+      2012
+      2013
+      2014
+      2015
+      2016
+      2017
+      2018
+      2019
+      2020
+      2021
+      2022
+      2023
+     All Areas  [off | on]
+AI [off | on]
+► Artificial intelligence
+► Computer vision
+► Machine learning
+► Natural language processing
+► The Web & information retrieval     
+  Systems [off | on]
+► Computer architecture
+► Computer networks
+► Computer security
+► Databases
+► Design automation
+► Embedded & real-time systems  
+► High-performance computing
+► Mobile computing
+► Measurement & perf. analysis 
+► Operating systems
+► Programming languages
+► Software engineering
+  Theory [off | on]
+► Algorithms & complexity
+► Cryptography
+► Logic & verification
+  Interdisciplinary Areas [off | on]
+► Comp. bio & bioinformatics
+► Computer graphics
+► Computer science education
+► Economics & computation
+► Human-computer interaction
+► Robotics
+► Visualization
+
+This ranking is designed to identify institutions and faculty actively engaged in research across a number of areas of computer science, based on the number of publications by faculty that have appeared at the most selective conferences in each area of computer science (see the FAQ for more details).
+
+New to CSrankings? Watch this video to learn how to use CSrankings.
+Prominent mentions of CSrankings: CMU (1, 2) | Edinburgh | Michigan | Rutgers | Technion | Yann LeCun | John Regehr | Charles Sutton
+All publication data is from DBLP (updated quarterly; last update September 19, 2023). Click to see the current database of faculty and their affiliations. Please submit any affiliation updates by editing the appropriate files and issuing a "pull request". Please verify that the faculty members are full-time, tenure-track faculty who can solely advise a PhD student in Computer Science, and that their names are as they appear in DBLP. All code and data is available here: https://github.com/emeryberger/CSRankings, and frequently-asked questions are here: CSRankings FAQ. CSrankings is a GOTO ranking.
+CSRankings by Emery Berger is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+Based on a work at https://github.com/emeryberger/CSrankings. Follow @csrankings for updates.
+
+Copyright 2017-2023 © Emery Berger

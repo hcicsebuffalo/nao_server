@@ -1,0 +1,178 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Undergraduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Archived Catalogs
+General Catalog Information
+Majors and Combined Degrees
+Minors, Certificates and Micro-Credentials
+Departments & Programs
+Courses
+UB Curriculum (General Education)
+Academic Policies and Procedures
+Academic Calendar
+Campus Facilities and Instructional Spaces
+Financial and Scholarship Information
+Admissions
+Student Records and Registration
+Academic Advising
+Learning Outside the Classroom
+Study Abroad
+myUB
+HUB Academic Advisement Report
+Accreditations
+a
+Aerospace Engineering BS
+Return to: Majors and Combined Degrees
+Get ready to soar! Whether you dream about building solar-powered planes, designing nanosatellites or putting the first person on Mars, this program is the perfect launchpad. As an aerospace engineering major, you’ll quickly discover that the sky isn’t the limit as you explore new ways to solve complex problems. If you’re the type of person who likes pushing boundaries and doing things that other people say can’t be done, then keep scrolling.
+Visit the Aerospace Engineering academic program page for more information about the academic experience, who you will learn from, opportunities outside of class and what you can do with this degree.
+Visit the Mechanical and Aerospace Engineering department page for contact information, a brief overview of the department and the curricular options.
+Admission Criteria
+Current or transfer students wishing to pursue this major must meet School of Engineering and Applied Sciences Admission Criteria.
+Course Requirements
+Aerospace Engineering Core (111 credits)
+CHE 107LR - General Chemistry for Engineers I Credits: 3.5 AND
+CHE 127LAB - General Chemistry for Engineers Laboratory 1 Credits: 0.5
+OR
+CHE 101LR - General Chemistry Credits: 4 AND
+CHE 113LAB - General Chemistry Credits: 1
+OR
+CHE 105LLR - Chemistry: Principles and Applications Credits: 5
+ EAS 199SL - UB Seminar Credits: 3
+ EAS 200LR - Electrical Engineering Concepts for Non-Majors Credits: 3 OR
+EE 202LR - Circuit Analysis Credits: 3
+ EAS 202SEM - Engineering Impact On Society Credits: 1
+EAS 207LR - Statics Credits: 3
+EAS 208LR - Dynamics Credits: 3
+EAS 209LR - Mechanics of Solids Credits: 3
+EAS 230LLB - Engineering Computations Credits: 3 *
+EAS 360LEC - STEM Communications Credits: 3
+MAE 177LLB - Introduction to CAD Credits: 1 **
+MAE 204LR - Thermodynamics I Credits: 3
+MAE 278LEC - Introduction to Aerospace Engineering Practice Credits: 3 ***
+MAE 315LEC - Analysis of Structures Credits: 3
+MAE 316LEC - Aerospace Structures Credits: 3
+MAE 334LLB - Mechanical and Aerospace Engineering Lab I Credits: 2
+MAE 335LR - Fluid Mechanics Credits: 3
+MAE 336LEC - Heat Transfer Credits: 3
+MAE 339LAB - Aerospace Engineering Laboratory Credits: 2
+MAE 340LEC - Dynamic Systems Credits: 3
+MAE 345LR - Intermediate Dynamics Credits: 3
+MAE 376LLB - Applied Mathematics for MAE Credits: 3
+MAE 381LEC - Engineering Materials Credits: 3
+MAE 385LAB - Engineering Materials Laboratory Credits: 1
+MAE 422LEC - Gas Dynamics Credits: 3
+MAE 423LEC - Introduction to Propulsion Credits: 3
+MAE 424LEC - Aerodynamics Credits: 3
+MAE 425LEC - Spacecraft Dynamics and Control Credits: 3
+MAE 434LEC - Aircraft Design Credits: 3
+MAE 436LEC - Flight Dynamics Credits: 3
+MAE 451LEC - Design Process and Methods Credits: 3
+MTH 141LR - College Calculus I Credits: 4
+MTH 142LR - College Calculus 2 Credits: 4
+MTH 241LR - College Calculus 3 Credits: 4
+MTH 306LR - Introduction to Differential Equations Credits: 4
+PHY 107LR - General Physics I Credits: 4
+PHY 108LR - General Physics II Credits: 4
+PHY 158LAB - General Physics II Lab Credits: 1 ****
+One SEAS technical elective *****
+Notes
+*Students are permitted to take alternative programming courses EAS 240 or CSE 115 in lieu of EAS 230, however EAS 230 is strongly preferred for Aerospace Engineering majors. The alternative programming courses should only be utilized by students transferring into the program with EAS 240, CSE 115, or EAS 999TRCP (general programming for transfer students) already completed. View our Computer Programming Requirement website for more information on the programming alternatives and self-study packages. 
+**Students are permitted to use CIE 177 or EAS 999TR177 (general graphics for transfer students) to satisfy this requirement. However, MAE 177 is strongly preferred for Aerospace Engineering majors. The CIE 177 or EAS 999TR177 should only be utilized by students transferring into the program with these courses already completed. View our Graphics Requirement website for more information on graphics alternatives and self-study packages.
+***Transfer students with Senior standing must replace MAE 278 with an SEAS technical elective**. Transfer students with Junior standing should consult with an MAE academic adviser to determine if they should take MAE 278 or replace it with an SEAS technical elective**.
+****Students are permitted to use PHY 151 and PHY 152 in lieu of PHY 158, however PHY 158 is preferred for engineering majors.
+*****Any 300/400 level 3-credit course that is offered by a department within SEAS (i.e. EAS, ENS, MAE, CIE, IE, etc.) can be used as an SEAS technical elective. See the Academic Advising Report (AAR) for a complete list of course options.
+Total Credits Required for Major: 111
+Additional Degree Requirements Include:
+Additional coursework to fulfill UB Curriculum requirements
+Total Credits Required for Graduation: 128
+Total Credit Hours Required represents the minimum credits needed to complete this program, and may vary based on a number of circumstances. This should not be used for financial aid purposes.
+Academic Requirements
+Students in the School of Engineering and Applied Sciences must have a minimum GPA of 2.000 in technical classes (engineering, math, and science classes) to be in good standing and graduate with an undergraduate degree.  To maintain academic standards and determine eligibility for continued enrollment, the School of Engineering and Applied Sciences reviews the academic records of all students in an approved undergraduate SEAS major. This academic review is conducted at the end of each fall and spring semester. View the School of Engineering and Applied Sciences Academic Review Policy
+Transfer Credit Policy
+Residency Requirement: Students seeking an undergraduate engineering degree from the School of Engineering and Applied Sciences must complete 30 undergraduate credit hours of junior/senior level courses required in their major at the University at Buffalo.
+Curricular Plan
+A Curricular Plan provides a roadmap for completing this academic program and the UB Curriculum on time. Your actual plan may vary depending on point of entry to the university, course placement and/or waivers based on standardized test scores, earned alternative credit and/or college transfer credit.
+First Year Fall
+EAS 199SL - UB Seminar Credits: 3
+CHE 107LR - General Chemistry for Engineers I Credits: 3.5
+CHE 127LAB - General Chemistry for Engineers Laboratory 1 Credits: 0.5
+MTH 141LR - College Calculus I Credits: 4
+ENG 105LEC - Writing and Rhetoric Credits: 4 OR  Pathway Credits: 3
+Total Credits: 17 or 18
+First Year Spring
+MAE 177LLB - Introduction to CAD Credits: 1
+PHY 107LR - General Physics I Credits: 4
+MTH 142LR - College Calculus 2 Credits: 4
+EAS 202SEM - Engineering Impact On Society Credits: 1
+EAS 230LLB - Engineering Computations Credits: 3
+ENG 105LEC - Writing and Rhetoric Credits: 4 OR  Pathway Credits: 3
+Total Credits: 16 or 17
+Second Year Fall
+EAS 207LR - Statics Credits: 3
+MAE 204LR - Thermodynamics I Credits: 3
+MTH 241LR - College Calculus 3 Credits: 4
+PHY 108LR - General Physics II Credits: 4
+PHY 158LAB - General Physics II Lab Credits: 1
+MAE 278LEC - Introduction to Aerospace Engineering Practice Credits: 3
+Total Credits: 18
+Second Year Spring
+EAS 200LR - Electrical Engineering Concepts for Non-Majors Credits: 3
+EAS 208LR - Dynamics Credits: 3
+EAS 209LR - Mechanics of Solids Credits: 3
+EE 202LR - Circuit Analysis Credits: 3
+MTH 306LR - Introduction to Differential Equations Credits: 4
+Pathway Credits: 3
+Total Credits: 16
+Third Year Fall
+MAE 315LEC - Analysis of Structures Credits: 3
+MAE 340LEC - Dynamic Systems Credits: 3
+MAE 335LR - Fluid Mechanics Credits: 3
+MAE 376LLB - Applied Mathematics for MAE Credits: 3
+MAE 381LEC - Engineering Materials Credits: 3
+EAS 360LEC - STEM Communications Credits: 3
+Total Credits: 18
+Third Year Spring
+MAE 316LEC - Aerospace Structures Credits: 3
+MAE 336LEC - Heat Transfer Credits: 3
+MAE 334LLB - Mechanical and Aerospace Engineering Lab I Credits: 2
+MAE 385LAB - Engineering Materials Laboratory Credits: 1
+MAE 424LEC - Aerodynamics Credits: 3
+MAE 345LR - Intermediate Dynamics Credits: 3
+Total Credits: 15
+Fourth Year Fall
+MAE 339LAB - Aerospace Engineering Laboratory Credits: 2
+MAE 436LEC - Flight Dynamics Credits: 3
+MAE 451LEC - Design Process and Methods Credits: 3
+MAE 422LEC - Gas Dynamics Credits: 3
+Pathway Credits: 3
+Total Credits: 14
+Fourth Year Spring
+MAE 423LEC - Introduction to Propulsion Credits: 3
+MAE 425LEC - Spacecraft Dynamics and Control Credits: 3
+MAE 434LEC - Aircraft Design Credits: 3
+SEAS Technical Elective Credits: 3
+Pathway Credits: 3
+UBC 399MNT - UB Curriculum Capstone Credits: 1
+Total Credits: 13
+Total Credits Required: 128
+Note: Some classes may count toward both a major and UB Curriculum requirement.
+Learning Outcomes
+The curriculum provides opportunities for students to develop the following knowledge, skills and behaviors by the time of graduation:
+an ability to identify, formulate and solve complex engineering problems by applying principles of engineering, science and mathematics
+an ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety and welfare, as well as global, cultural, social, environmental and economic factors
+an ability to communicate effectively with a range of audiences
+an ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental and societal contexts
+an ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks and meet objectives
+an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions
+an ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
+Return to: Majors and Combined Degrees
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2023 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

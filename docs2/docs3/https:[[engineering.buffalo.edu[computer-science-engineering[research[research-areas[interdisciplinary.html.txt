@@ -1,0 +1,107 @@
+School of Engineering and Applied Sciences
+UB HomeMapsUB Directory
+Department of Computer Science
+and Engineering
+Give to CSE Apply Now Contact Us
+About Us
+Undergraduate
+Graduate
+Research
+People
+News & Events
+Alumni
+SEARCH
+INFO FOR
+Department of Computer Science and Engineering Research Research Areas Interdisciplinary
+Research
+Research Areas
+Artificial Intelligence
+Artificial Intelligence and Machine Learning and Data Mining
+Computer Vision
+Databases and Data Science
+Information Integrity
+Natural Language Processing
+Systems
+Computer Architecture and Hardware
+Distributed Systems and Networks
+Edge Computing and Embedded Systems and Robotics
+High-Performance Computing
+Mobile Computing
+Operating Systems
+Programming Languages and Software Engineering
+Theory
+Algorithms and Complexity
+Computer Security and Cryptography
+Interdisciplinary
+Computational Biology and Bioinformatics
+Computing Education
+Human-Computer Interaction
+Society and Computing
+Research Centers, Institutes, Labs and Groups
+Research Highlights
+Research Policies
+Research Tools
+Technical Reports
+Related Links
+UB Research and Economic Development
+SEAS Research & Faculty
+Interdisciplinary
+Related Links
+#49. Interdisciplinary Areas program national ranking, 2019-2022. Source: csrankings.org
+Interdisciplinary research category introduction and description.
+Computational Biology and Bioinformatics
+Focuses on developing highly efficient algorithms and techniques for a wide range of problems (such as automatic analysis of biomedical images, computer-assisted diagnosis, treatment planning, protein-protein interaction network analysis, protein structure prediction, computational analysis and interpretation of Genomes, evolutionary studies of Genomic ORFans, and spatial positioning patterns of the cell nucleus) arising in smart hospital, smart healthcare, precision medicine, genomics, proteomics, and microarray analysis.
+Computing Education
+Focuses on expanding approaches to teaching computing at all levels (K-12 and University) and the outreach to promote computing majors and careers.
+Human-Computer Interaction
+Human-computer interaction (HCI) is a multidisciplinary field of study focusing on the design of computer technology, in particular, the interaction between humans (the users) and computers. HCI researchers observe the ways humans interact with computers and design technologies that allow humans to interact with computers in novel ways.
+Society and Computing
+Computing is ubiquitous in society today. Computing touches all aspects of our lives and sometimes in ways that are not beneficial (even though the intent of the developer is not to cause harm). What has become clear is that we cannot develop systems for society without meaningful and deep collaborations with disciplines that have thought about society for much longer than computing. The challenge is to incorporate knowledge from humanistic studies from day one in the design of computing systems.
+RESEARCH RANKING
+Excelsior!
+UB's institutional reputation in the field of computer science has improved dramatically over the last decade.  By the most valid measure, our national ranking has risen from 50th to 29th.
+RESEARCH HIGHLIGHTS
+This Necklace Hears What You Eat
+Wenyao Xu created AutoDietary—software that tracks the unique sounds produced by food as people chew it.  AutoDietary, placed near the throat by a necklace delivery system developed at China's Northeastern University, helps users measure their caloric intake.
+
+
+
+
+MORE RESEARCH HIGHLIGHTS
+RECOGNITIONS
+Xu, Moore receive SUNY Chancellor’s Awards
+Awards acknowledge and provide system-wide recognition for consistently superior professional achievement and the ongoing pursuit of excellence.
+
+MORE RECOGNITIONS
+Connect With Us
+Computer Science and Engineering
+338 Davis Hall
+Buffalo, New York 14260-2500
+(716) 645-3180
+Quick Links
+Why Choose CSE?
+News & Events
+Employment Opportunities
+Give to CSE
+Contact Us
+Admissions
+Undergraduate Admissions
+Graduate Admissions
+Explore Further
+Get Involved
+Engineering and Applied Sciences Alumni Association
+Support SEAS
+Collaborate with UB
+On This Website
+About Us
+Undergraduate Programs
+Graduate Programs
+Research
+People
+News & Events
+Full Site Map
+Information For
+Students
+Faculty and Staff
+Alumni
+© 2023 University at Buffalo. All rights reserved.  |  Privacy  |  Accessibility

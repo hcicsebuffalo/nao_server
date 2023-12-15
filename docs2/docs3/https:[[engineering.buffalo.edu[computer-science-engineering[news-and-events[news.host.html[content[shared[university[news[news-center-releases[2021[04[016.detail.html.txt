@@ -1,0 +1,134 @@
+School of Engineering and Applied Sciences
+UB HomeMapsUB Directory
+Department of Computer Science
+and Engineering
+Give to CSE Apply Now Contact Us
+About Us
+Undergraduate
+Graduate
+Research
+People
+News & Events
+Alumni
+SEARCH
+INFO FOR
+Department of Computer Science and Engineering News & Events News Study: ‘Fingerprint’ for 3D printer accurate 92% of time
+News & Events
+News
+In the Media
+Recognitions
+Newsletters
+Events
+CSE Departmental Anniversaries
+CSE Commencements
+CSE Demo Days
+CSE Distinguished Speaker Series
+CSE Industrial Career Days
+CSE Symposia
+CSE Transitions
+CSExplore
+Russell L. Agrusa CSE Student Innovation Competition
+UB Hacking
+Employment Opportunities
+Related Links
+UB News
+UB Events
+SEAS News
+Study: ‘Fingerprint’ for 3D printer accurate 92% of time
+University at Buffalo researchers identify machines by their unique ‘hot end,’ could aid intellectual property, security
+By Melvin Bankhead III
+Release Date: April 21, 2021
+Share This
+Print
+“This ThermoTag will behave like the fingerprint of the 3D printer. When you print out a new product, you can use watermarking. ”
+Zhanpeng Jin, associate professor in the Department of Computer Science and Engineering
+University at Buffalo
+BUFFALO, N.Y. – 3D printing is transforming everything from fashion and health care to transportation and toys. But this rapidly evolving technology, also known as additive manufacturing, can threaten national security and intellectual property rights.
+To reduce illicit use of 3D printers, Zhanpeng Jin, PhD, associate professor in the Department of Computer Science and Engineering at the University at Buffalo, is developing a way to track the origin of 3D-printed items.
+His concern was that, as long as people have the digital design for an item, which can be downloaded from the internet, sometimes as open-source material, people can print out anything they want, which can range from computer parts and toys to fully functional handguns and assault rifles.
+“So, what would be the best way to protect our intellectual property from someone else printing the same design using their own printer?” says Jin. “We wanted to find something internal. What would be the inherent signatures printed by my own 3D printer instead of another 3D printer?”
+3D printers build three-dimensional objects by adding successive layers of printing materials according to the digital design for a 3D model. Each 3D printer has an “extruder,” which pushes the building material along. The extruder’s hot end then melts the material, and places it on the print bed to build the model.
+In a paper, “ThermoTag: A Hidden ID of 3D Printers for Fingerprinting and Watermarking,” published in the journal IEEE Transactions on Information Forensics and Security, a research team led by Jin describes how each extruder’s hot end has its own unique heating properties, which impact the precise way that the 3D model is constructed.
+Those thermodynamic properties can be used to identify the specific extruder and, thus, the model of 3D printer, as uniquely as a human fingerprint, or, as Jin calls it, a “ThermoTag.”
+Jin compared the process to using a laptop to write a letter. Because software exists that can track keystrokes, an observer can see every step that went into the letter, including the writer’s unique writing style. Similarly, because of the unique properties of each 3D printer’s extruder, a researcher can examine the specific manner in which a 3D-printed object was made, and compare that to a database of various extruders until a match is made. From there, once the model printer is identified, the purchaser of said model can be tracked down if they had, say, used the printer to build an illegal assault rifle.
+According to the research, Jin and his team discovered that, by examining and comparing the ThermoTag features of 45 different extruders of the same model, they were able to correctly identify the source printer with an accuracy rate of 92%.
+“This ThermoTag will behave like the fingerprint of the 3D printer. When you print out a new product, you can use watermarking,” Jin says, noting that watermarking can be used to invisibly embed such information as the printer’s manufacturer, label and serial number in the product. “So that would make this watermark of this particular product unique.”
+It’s possible, Jin says, that someone could replace their extruder to try to avoid detection. That’s why it’s important to create a database of these parts for comparison, he says.
+Co-authors of the study are UB faculty members Chi Zhou, PhD, associate professor in the Department of Industrial and Systems Engineering, and Wenyao Xu, PhD, associate professor in the Department of Computer Science and Engineering. The lead student author is Yang Gao, and additional student co-authors include Wei Wang and Yincheng Jin, all graduate students in Jin’s lab.
+Media Contact Information
+Media Relations (University Communications)
+330 Crofts Hall (North Campus)
+Buffalo, NY 14260-7015
+Tel: 716-645-6969
+ub-news@buffalo.edu
+UB is actively monitoring developments related to COVID-19. Please check with event organizers for the most up-to-date information about scheduled events. 
+UPCOMING SEAS EVENTS
+Oct
+20
+ISE Seminar — Understanding Structural Damage from Wildfires in Wildland-Urban Interface Communities
+11:00 AM - 12:00 PM
+Davis Hall - Agrusa Aud, Room 101
+Oct
+20
+CBE Graduate Student Research Symposium
+1:00 PM - 4:00 PM
+Center for the Arts
+Oct
+20
+EE Seminar — Polarimetric Aerosol and Cloud Remote Sensing – Radiative Transfer and Inversion Model Development
+2:00 PM - 3:00 PM
+Davis Hall - Room 230A
+Oct
+24
+WiSE and Shine Breakfast Meetup with Alumni: Overcoming Perfectionism
+9:00 AM - 10:00 AM
+Davis Hall – Salvador Lounge (2nd Floor)
+Oct
+24
+Government Gigs Snack n Chat
+4:00 PM - 5:00 PM
+Capen Hall - Career Svcs (Rm 259)
+MORE UPCOMING SEAS EVENTS
+LATEST NEWS
+10/18/23 UB takes AI chat series to Grand Island Central School District
+10/13/23 Agrusa makes historic $40 million gift to SEAS, largest in school history
+9/25/23 Nine SEAS students named 2023-24 WNY Prosperity Fellows
+9/8/23 SUNY chancellor touts UB as national leader in AI
+9/7/23 Two NSF grants totaling $1 million fund research to make machine learning smarter
+MORE NEWS
+
+SHARE THE NEWS
+Have some news or an event to share with us? Please send it to cse-dept@buffalo.edu.
+CONNECT WITH US
+Connect With Us
+Computer Science and Engineering
+338 Davis Hall
+Buffalo, New York 14260-2500
+(716) 645-3180
+Quick Links
+Why Choose CSE?
+News & Events
+Employment Opportunities
+Give to CSE
+Contact Us
+Admissions
+Undergraduate Admissions
+Graduate Admissions
+Explore Further
+Get Involved
+Engineering and Applied Sciences Alumni Association
+Support SEAS
+Collaborate with UB
+On This Website
+About Us
+Undergraduate Programs
+Graduate Programs
+Research
+People
+News & Events
+Full Site Map
+Information For
+Students
+Faculty and Staff
+Alumni
+© 2023 University at Buffalo. All rights reserved.  |  Privacy  |  Accessibility

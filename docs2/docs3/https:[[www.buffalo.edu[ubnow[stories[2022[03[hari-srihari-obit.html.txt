@@ -1,0 +1,42 @@
+UBNow
+News and views for the UB community
+October 20, 2023
+CAMPUS NEWS
+RESEARCH NEWS
+YOUR COLLEAGUES
+WORKING AT UB
+UB SEEN
+DRIVEN TO DISCOVER PODCAST
+UBNow Stories Groundbreaking computer scientist Sargur Srihari dies at 72
+CAMPUS NEWS
+Groundbreaking computer scientist Sargur Srihari dies at 72
+UBNOW STAFF
+Published March 10, 2022
+Share This
+Print
+Sargur Srihari
+Sargur “Hari” Srihari, an internationally renowned UB professor of computer science who taught computers to read handwriting and significantly advanced the fields of pattern recognition, computational forensics and machine learning, died March 8 due to complications from a glioblastoma. He was 72.  
+A SUNY Distinguished Professor of Computer Science and Engineering and UB faculty member for more than 40 years, Srihari established the university as a leading center for pattern recognition and machine learning. He founded the Center of Excellence for Document Analysis and Recognition (CEDAR), which did groundbreaking research for the U.S. Postal Service in the 1990s, ultimately teaching machines how to read handwritten envelopes. This work at CEDAR, which received total funding of more than $60 million over 25 years, led to handwritten digit recognition being recognized as the “fruit fly” of artificial intelligence and machine learning.
+“Dr. Srihari was, quite simply, a towering figure in computer science,” said President Satish K. Tripathi. “Always at the cutting edge of innovation, he transformed pattern recognition, machine learning and computational forensics with findings that brought global renown to UB and had a profound impact on society.
+“Beyond his truly exceptional research contributions, Hari was a devoted university citizen and dedicated mentor. In his own patient, gentle and encouraging manner, he inspired generations of aspiring computer scientists to excel in their own right,” Tripathi said.
+“As we at UB join the world’s computer science community in mourning the passing of this incomparable scholar, I would like to offer my heartfelt condolences to Hari’s wife, Professor Rohini Srihari, his children and his entire family.”
+Srihari’s research advances, which have received seven U.S. patents, paved the way for the handwriting-recognition technology that is used in modern systems ranging from tablets to scanners. His early research work on 3D imaging also remains influential in fields such as 3D printing.
+Srihari later would become a pioneer in the field of computational forensics. In 2002, he conducted the first computationally based research to establish the individuality of handwriting, with important implications for the criminal justice community.
+This work led to the first automated system, known as CEDAR-FOX, for determining whether two handwritten samples came from the same or different writers. The handwriting work was eventually extended to comparing fingerprints and footwear prints. The work led to Srihari being invited to serve as the only computer scientist on a National Academy of Sciences’ committee that produced an influential 2009 report on strengthening forensic sciences in the U.S. that has had a major impact in courts worldwide.
+“This is a tremendous loss, not only for UB’s computer science and engineering family, but for the world of computer science,” said Jinhui Xu, professor and chair of the Department of Computer Science and Engineering. “Hari was greatly admired by his students, UB faculty members and researchers throughout the world.”
+Kemper Lewis, dean of the School of Engineering and Applied Sciences, called Srihari “a renowned researcher in artificial intelligence” who was a “widely respected expert in statistical pattern recognition and deep learning.”
+“Hari cherished his role as a researcher, professor and scientist, and he will be deeply missed by his department, our school and our university,” Lewis said.
+Srihari is survived by his wife of 45 years, Rohini, UB professor of computer science and engineering; his sons, Dileep Srihari and Ashok Srihari (Caroline); and granddaughter, Vera Srihari.
+A memorial fund, the Professor Sargur (Hari) Srihari Memorial Fund, has been established to support student scholarships. Donations can be made here.
+Born in Bangalore, India, Srihari earned an undergraduate degree in electrical and communication engineering from the world-renowned Indian Institute of Science in Bangalore in 1970. Immigrating to the U.S. later that year, he obtained an MS (1972) and PhD (1976), both in computer and information science, from The Ohio State University. His doctoral thesis focused on the design and evaluation of classification algorithms for a type of pattern recognition related to radar aircraft identification.
+After receiving his PhD, Srihari joined the faculty at Wayne State University. He came to UB in 1978.
+During his career, Srihari authored more than 350 research papers with 20,000 citations (h-index=64); edited five books; and served as principal adviser to 40 doctoral students.
+He was the recipient of numerous honors, among them the IAPR/ICDAR Outstanding Achievements Award in 2011 for his outstanding and continued contributions to research and education in handwriting recognition and document analysis, and services to the community; the Distinguished Alumnus of the Ohio State University College of Engineering in 1999; and the UB Excellence in Graduate Mentoring Award in 2018.
+He held fellowships in the International Association for Pattern Recognition (IAPR) and the Institute of Electronics and Telecommunications Engineers (IETE, India), and was a life fellow of the Institute of Electrical and Electronics Engineers (IEEE).
+In his later years, Srihari remained an active faculty member, continuing to teach and supervise graduate students. He also developed an extensive set of lecture slides for machine learning, which are widely used in courses around the world.
+His final teaching efforts were focused on integrating the wealth of research being produced in deep learning from various books, papers and blogs. He served as a visiting professor and scientist at his alma mater, the Indian Institute of Science, during spring 2020, and later established a scholarship there. During the pandemic, he began recording videos of his explanation of topics in deep learning, and did livestreaming as well.
+He enjoyed traveling with Rohini to Washington, D.C., and Florida to visit their sons and granddaughter. He also continued to read avidly while pursuing his lifelong love of history, science and gardening.
+UBNow
+Contact Us
+About UBNow
+© 2023 University at Buffalo. All rights reserved.  |  Privacy  |  Accessibility
