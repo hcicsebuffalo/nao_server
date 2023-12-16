@@ -25,6 +25,10 @@ import subprocess
 import qrcode
 from pdf2image import convert_from_bytes
 import timm
+
+os.environ['CUDA_VISIBLE_DEVICES'] = "0,1,2,3"
+os.environ["TRANSFORMERS_CACHE"] = '/data/'
+#os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "max_split_size_mb:4096"
 images1 = convert_from_bytes(open(
     '/home/csgrad/sunilruf/nlp_cse/LLM_bot/data/grad-handbook-2023.pdf', 'rb').read())
 
@@ -39,7 +43,7 @@ for file in os.listdir("/home/csgrad/sunilruf/nao_server/LLM_code/data"):
         pdf_path = "/home/csgrad/sunilruf/nao_server/LLM_code/data/" + file
         loader = PyPDFLoader(pdf_path)
         documents.extend(loader.load())
-text_splitter = CharacterTextSplitter(chunk_size=4000, chunk_overlap=10)
+text_splitter = CharacterTextSplitter(chunk_size=4000, chunk_overlap=20)
 documents = text_splitter.split_documents(documents)
 embeddings = HuggingFaceEmbeddings(model_name="hkunlp/instructor-base")
 vectordb = FAISS.from_documents(documents, embeddings)
@@ -53,9 +57,71 @@ try:
     vectordb.add_texts([str(data)])
 except:
     print("Context handbook added to vectordb")
+    
+from torch import cuda, bfloat16
+import transformers
+#Deci/DeciLM-6b-instruct
+#meta-llama/Llama-2-13b-chat-hf
+model_id = 'meta-llama/Llama-2-13b-chat-hf'
+#model_id = 'TheBloke/Llama-2-7B-Chat-GPTQ'
+device = f'cuda:{cuda.current_device()}' if cuda.is_available() else 'cpu'
+
+# set quantization configuration to load large model with less GPU memory
+
+# this requires the `bitsandbytes` library
+bnb_config = transformers.BitsAndBytesConfig(
+    load_in_4bit=True,
+    bnb_4bit_quant_type='nf4',
+    bnb_4bit_use_double_quant=True,
+    bnb_4bit_compute_dtype=bfloat16
+)
+
+# begin initializing HF items, you need an access token
+hf_auth = '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'
+model_config = transformers.AutoConfig.from_pretrained(
+    model_id,
+    use_auth_token=hf_auth
+)
+
+model = transformers.AutoModelForCausalLM.from_pretrained(
+    model_id,
+    trust_remote_code=True,
+    config=model_config, 
+    #quantization_config=bnb_config,
+    #device="cuda:0",
+    device_map='auto',
+    use_auth_token=hf_auth
+)
+
+# enable evaluation mode to allow model inference
+model.eval()
+
+print(f"Model loaded on {device}")
+
+tokenizer = transformers.AutoTokenizer.from_pretrained(
+    model_id,
+    use_auth_token=hf_auth
+)
+
+generate_text = transformers.pipeline(
+    model=model,
+    tokenizer=tokenizer,
+    return_full_text=True,  # langchain expects the full text
+    task='text-generation',
+    # we pass model parameters here too
+    #stopping_criteria=stopping_criteria,  # without this model rambles during chat
+    do_sample=True,
+    temperature=0.2,  # 'randomness' of outputs, 0.0 is the min and 1.0 the max
+    max_new_tokens=4096,  # max number of tokens to generate in the output
+    repetition_penalty=1.1  # without this output begins repeating
+)
+from langchain.llms import HuggingFacePipeline
+
+llm = HuggingFacePipeline(pipeline=generate_text)
+
 pdf_qa = ConversationalRetrievalChain.from_llm(
-    ChatOpenAI(max_tokens=150,temperature=0.1, model_name="gpt-3.5-turbo-16k"),
-    vectordb.as_retriever(search_type = "similarity_score_threshold", search_kwargs={'score_threshold': 0.5, 'k': 4}),
+    llm,
+    vectordb.as_retriever(search_type = "similarity_score_threshold", search_kwargs={'score_threshold': 0.5, 'k': 2}),
     return_source_documents=True,
     verbose=False
 )
@@ -80,8 +146,8 @@ def LLMResponse(query):
             date = datetime.today().strftime('%Y-%m-%d')
             query = query.replace('correct yourself', '')
             vectordb.add_texts(["Updated info as of "+str(date)+" :"+query])
-            chain = ConversationalRetrievalChain.from_llm(ChatOpenAI(max_tokens=150,temperature=0.1, model_name="gpt-3.5-turbo-16k"),
-                                                          vectordb.as_retriever(search_kwargs={"k": 4}),verbose=False)
+            chain = ConversationalRetrievalChain.from_llm(llm,
+                                                          vectordb.as_retriever(search_kwargs={"k": 2}),verbose=False)
             result['answer'] = "The information is updated.Thank you"
             
             with open("context_handbook.txt", "a") as context_file:
