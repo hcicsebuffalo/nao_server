@@ -121,7 +121,8 @@ llm = HuggingFacePipeline(pipeline=generate_text)
 
 pdf_qa = ConversationalRetrievalChain.from_llm(
     llm,
-    vectordb.as_retriever(search_type = "similarity_score_threshold", search_kwargs={'score_threshold': 0.5, 'k': 2}),
+    vectordb.as_retriever(search_type = "similarity_score_threshold", search_kwargs={'score_threshold': 0.5, 'k': 4}),
+    max_tokens_limit=4000,
     return_source_documents=True,
     verbose=False
 )
