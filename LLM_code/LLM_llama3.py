@@ -30,17 +30,17 @@ os.environ['CUDA_VISIBLE_DEVICES'] = "0,1,2,3"
 os.environ["TRANSFORMERS_CACHE"] = '/data/'
 #os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "max_split_size_mb:4096"
 images1 = convert_from_bytes(open(
-    '/home/csgrad/sunilruf/nlp_cse/LLM_bot/data/grad-handbook-2023.pdf', 'rb').read())
+    'data/grad-handbook-2023.pdf', 'rb').read())
 
 documents = []
-for file in os.listdir("/home/csgrad/sunilruf/nao_server/LLM_code/docs3"):
+for file in os.listdir("docs3"):
     if file.endswith('.txt'):
-        text_path = "/home/csgrad/sunilruf/nao_server/LLM_code/docs3/" + file
+        text_path = "docs3/" + file
         loader = TextLoader(text_path)
         documents.extend(loader.load())
-for file in os.listdir("/home/csgrad/sunilruf/nao_server/LLM_code/data"):
+for file in os.listdir("data"):
     if file.endswith(".pdf"):
-        pdf_path = "/home/csgrad/sunilruf/nao_server/LLM_code/data/" + file
+        pdf_path = "data/" + file
         loader = PyPDFLoader(pdf_path)
         documents.extend(loader.load())
 text_splitter = CharacterTextSplitter(chunk_size=4000, chunk_overlap=20)
@@ -49,7 +49,7 @@ embeddings = HuggingFaceEmbeddings(model_name="hkunlp/instructor-base")
 vectordb = FAISS.from_documents(documents, embeddings)
 try:
     print("Entered context handbook updation")
-    with open('/home/csgrad/sunilruf/nao_server/context_handbook.txt', 'r') as file:
+    with open('../context_handbook.txt', 'r') as file:
         data = file.read().replace('\n', '')
 except:
     print("No data in context_handbook")
@@ -151,7 +151,7 @@ def LLMResponse(query):
                                                           vectordb.as_retriever(search_kwargs={"k": 2}),verbose=False)
             result['answer'] = "The information is updated.Thank you"
             
-            with open("/home/csgrad/sunilruf/nao_server/context_handbook.txt", "a") as context_file:
+            with open("../context_handbook.txt", "a") as context_file:
                 context_file.write("Updated info as of " + str(date) + ": " + query + "\n")
             
             source = """
@@ -206,7 +206,7 @@ def LLMResponse(query):
             final_html = source % (query, output)
             print(f"{white}Answer: " + str(result["answer"]))
             
-            with open('/home/csgrad/sunilruf/nao_server/static/html.txt', 'w') as f:
+            with open('../static/html.txt', 'w') as f:
                 f.write(final_html)
             return result['answer']
 
@@ -224,7 +224,7 @@ def LLMResponse(query):
                 page_no = result['source_documents'][0].metadata['page']
                 print("PdF -->", result['source_documents'][0].metadata)
                 #images1[page_no]
-                images1[page_no].save('/home/csgrad/sunilruf/nao_server/static/output_img1.png')
+                images1[page_no].save('../static/output_img1.png')
             except:
                 pass
             try:
@@ -242,7 +242,7 @@ def LLMResponse(query):
                     qr.make(fit=True)
                     # Create an image from the QR code
                     qr_image = qr.make_image(fill_color="black", back_color="white")
-                    qr_image.save("/home/csgrad/sunilruf/nao_server/static/output_img1.png")
+                    qr_image.save("../static/output_img1.png")
             except:
                 pass
             chat_history.append((query, result["answer"]))
@@ -294,7 +294,7 @@ def LLMResponse(query):
     """
             answer = result['answer'].replace("\n", "<br>")
             output = "<br> <br>" + answer + " <br><br> Please find the source: <br>"
-            final_html = source % (query, output, "/home/csgrad/sunilruf/nao_server/static/output_img1.png")
-            with open('/home/csgrad/sunilruf/nao_server/static/html.txt', 'w') as f:
+            final_html = source % (query, output, "../static/output_img1.png")
+            with open('../static/html.txt', 'w') as f:
                 f.write(final_html)
             return result['answer']
