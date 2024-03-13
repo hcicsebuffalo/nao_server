@@ -1,0 +1,82 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Graduate Catalog
+2023-2024 Graduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Graduate School Policies and Procedures
+A-Z Program List
+Courses
+Department/Program
+Degree Level
+Accreditations
+Class Schedule
+myUB
+a
+Computational Science Advanced Certificate
+The Advanced Certificate in Computational Science is a collaborative program offered by the Center for Computational Research (CCR) and several participating departments, namely Mathematics, Physics, Chemical Engineering, Mechanical and Aerospace Engineering, and Computer Science and Engineering. This program seamlessly integrates the domains of mathematics and computer science to harness the potential of hardware and software in tackling complex computational challenges encountered in the fields of engineering and science.
+Request More Information
+Required Core (6 credits)
+High Performance Computing I (3 credits)
+Select 1 from:
+CE 620LEC - High Perform Computing 1 Credits: 3
+COR 501LEC - High Perform Computing 1 Credits: 3
+MAE 609LEC - High Perform Computing 1 Credits: 3
+MTH 667LEC - High Perform Computing 1 Credits: 3
+PHY 515LEC - High Perform Computing 1 Credits: 3
+High Performance Computing II (3 credits)
+CE 621LEC - High Perform Computing 2 Credits: 3
+COR 502LEC - High Perform Computing 2 Credits: 3
+MAE 610LEC - High Perform Computing 2 Credits: 3
+MTH 668LEC - High Perform Computing 2 Credits: 3
+PHY 516LEC - High Perform Computing 2 Credits: 3
+Electives (9 credits)
+(Departmentally approved courses based on discipline.)
+CSE 537LEC - Intro Numeric Analysis 1 Credits: 3
+or
+MTH 537LEC - Intro Numeric Analysis 1 Credits: 3
+ CSE 531LEC - Analysis of Algorithms I Credits: 3
+CSE 603LEC - Parallel and Distributed Processing Credits: 3
+CSE 606LEC - Parallel Architecture Credits: 3
+CSE 633LEC - Parallel Algorithms Credits: 3
+PHY 501LEC - Introduction to Mathematical Physics I Credits: 3
+PHY 505LEC - Computational Physics I Credits: 3
+PHY 506LEC - Computational Physics II Credits: 3
+PHY 507LEC - Quantum Mechanics I Credits: 3
+PHY 508LEC - Quantum Mechanics II Credits: 3
+PHY 509LEC - Classical Dynamics Credits: 3
+PHY 513LEC - Electrodynamics Credits: 3
+PHY 514LEC - Modern Electrodynamics Credits: 3
+PHY 519LEC - Statistical Physics I Credits: 3
+PHY 520LEC - Statistical Physics II Credits: 3
+Total Credit Hours: 15
+3.0 GPA required
+  Instruction Method
+In Person (100 percent of courses offered in person)
+Full/Part Time Options
+Full Time
+Part Time
+Credits Required
+15 Hours
+Time-To-Degree
+1 Year
+Application Fee
+$85
+Program Contact
+School of Engineering and Applied Sciences
+Office of Graduate Education
+415 Bonner Hall
+Buffalo, NY 14260
+Email: gradeng@buffalo.edu
+SED Statement
+This program is officially registered with the New York State Education Department (SED).
+Online programs/courses may require students to come to campus on occasion. Time-to-degree and number of credit hours may vary based on full/part time status, degree, track and/or certification option chosen. Time-to-degree is based on calendar year(s). Contact the department for details.
+Return to: A-Z Program List
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2024 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

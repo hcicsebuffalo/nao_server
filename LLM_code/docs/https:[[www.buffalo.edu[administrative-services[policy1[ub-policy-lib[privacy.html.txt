@@ -1,0 +1,314 @@
+Division of Finance and Administration
+UB HomeMapsUB Directory
+Administrative Services Gateway
+Building partnerships through collaboration
+Forms Policies Training
+Human Resources
+Managing Facilities
+Managing Procurement
+Managing Money
+SEARCH
+Administrative Services Policy UB Policy Library Website Privacy Policy
+POLICY INFORMATION
+Date Established: 3/19/2003
+Date Last Revised: 1/16/2020
+Category: Information Technology
+Responsible Office: Vice President and Chief Information Officer
+Responsible Executive: Vice President and Chief Information Officer
+POLICY CONTENTS
+Summary
+Policy Statement
+Background
+Applicability
+Definitions
+Responsibility
+Contact Information
+Related Information
+History
+Presidential Approval
+Return to UB Policy Library
+Print
+UNIVERSITY AT BUFFALO POLICY LIBRARY
+Website Privacy Policy
+Summary
+This policy explains the university’s operational practices with respect to visitor information collected from official University at Buffalo websites and associated third-party web applications.
+Policy Statement
+The University at Buffalo (UB, university) is committed to protecting visitor’s privacy when navigating through official University at Buffalo websites and associated third-party web applications. Visitors navigate through a majority of official UB websites and associated third-party web applications without providing personal information. However, the university implements operational practices to enhance the ease and efficiency with which visitors interact with official UB websites and associated third-party web applications. To that end:
+UB collects information for purposes including, but not limited to providing requested services and analyzing web traffic
+UB collects voluntarily-provided information, which may include personal information; this information is collected through processes including, but not limited to sending an email; filling out a webform, survey, or application; or completing a financial transaction
+This policy is consistent with federal and state laws, rules and regulations, policies and procedures of the State University of New York (SUNY). This policy is consistent with the provisions of the Internet Security and Privacy Act, the New York State Freedom of Information Law (FOIL), Family Educational Rights and Privacy Act (FERPA), and the Personal Privacy Protection Law.
+Automatically Collected Visitor Information
+When visiting official University at Buffalo websites or associated third-party web applications, the university automatically collects and stores the following information:
+User client hostname. The hostname or Internet Protocol address requesting access to the university website.
+HTTP header, "user agent." The user agent information includes the type of browser, its version, and the operating system on which that the browser is running.
+HTTP header, "referrer." The referrer specifies the web page from which the visitor accessed the current web page.
+System date. The date and time of the request.
+Full request. The exact request made.
+Status. The status code the server returned to the visitor.
+Content length. The content length, in bytes, of any document sent to the visitor.
+Method. The request method used.
+Universal Resource Identifier (URI). The location of a resource on the server.
+Query string of the URI. Anything after the question mark in a URI.
+Protocol. The transport protocol and the version used.
+The UBITName is logged when accessing a page on official UB websites or associated third-party web applications requiring authentication.
+The client user name, if not blocked from the web browser or computer.
+This information is used to:
+Improve web content and usefulness
+Help determine visitor engagement with the website
+Conduct statistical analysis
+Determine visitor interest
+Identify visitors for re-engagement and outreach efforts
+Perform technical troubleshooting or root cause analysis
+The university is not authorized to sell or otherwise disclose the information collected from the website for non-university commercial marketing purposes.
+Tracking Codes or Beacons
+The university installs tracking codes or beacons on official UB websites and associated third-party web applications.
+Cookies
+The university uses session and persistent cookie technology on official UB websites and associated third-party web applications. Cookies are a standard practice among internet websites. Refusing or deleting cookies may limit features of official UB websites and associated third-party web applications.
+
+Session Cookies
+Are created automatically and store a randomly-generated identifying tag on a computer or device when navigating to official UB websites and associated third-party web applications
+Are used to enhance or customize website visits
+Are erased when the computer or device internet browser is closed
+Do not contain personal information
+Do not compromise visitor privacy or security
+Persistent Cookies
+Are created automatically and store a randomly-generated identifying tag on a computer or device when navigating to official UB websites and associated third-party web applications
+Are stored on a computer or device’s hard drive
+Allow the website to recognize a device when it revisits official UB websites or associated third-party web applications
+Tailor the information presented based on the visitor’s needs and interests
+·Rely on the use of third-party cookies
+Contain personal information
+Information Collected When A Visitor Completes a Transaction or Sends an Email
+Transactional Engagement
+Website transactions include visitor-initiated actions such as filling out and submitting:
+Survey responses
+Registration or application forms
+Financial or business transactions
+Requests for authenticated file access
+Email
+Visitor email addresses are not collected for non-university commercial purposes. The university is not authorized to sell or otherwise disclose a person’s email address for non-university commercial purposes.
+While navigating through official UB websites and third-party web applications associated with the university, a visitor may send an email to UB. The visitor’s email address and message content (including attachments) are collected. This information is used to:  
+Respond to the email
+Address issues identified in the email
+Forward the information to another SUNY or state agency for appropriate action
+Improve official UB websites and third-party web applications associated with the university
+Personal Information
+Voluntarily-provided information, including personal information, is used for operational and business functions. Functions include the provision of goods, services, and information. UB retains the right to disclose information for purposes reasonably ascertained from the nature and terms of the transaction in which the information was submitted.
+UB does not knowingly collect personal information from minors or create profiles of minors through official UB websites or associated third-party web applications. Visitors are cautioned, however, that the collection of personal information will be treated as though it was submitted by an adult, and may, unless exempted from access by federal or state law, be subject to public access. UB strongly encourages parents, guardians, educators, and teachers to be involved in a minor’s internet activities and to provide guidance whenever children are asked to provide personal information online.
+Information and Choice
+Voluntarily-provided visitor information, including personal information, is collected through actions including:
+Sending an email
+Responding to a survey
+Completing a registration or application form
+Completing a financial or business transaction
+Requesting authenticated file access
+A visitor may choose not to complete such actions with official UB websites or associated third-party web applications. Not completing these actions may prohibit a visitor’s ability to receive specific services or products through official UB websites or associated third-party web applications. However, the choice to not complete these actions does not adversely affect a visitor’s ability to take advantage of other features of website, including some browsing or downloading.
+Disclosure of Information Collected Through This Website
+Information collected through official UB websites and associated third-party web applications and the disclosure of that information is subject to the provisions of Article II - (201 - 208) Internet Security and Privacy Act of the NYS Technology Law. UB only collects website visitor’s personal information through official UB websites or associated third-party web applications.
+UB only discloses personal information collected through official UB websites or associated third-party web applications if the visitor consents to the collection or disclosure of this information. A visitor’s voluntary disclosure of personal information, whether solicited or unsolicited, constitutes consent to UB’s collection and disclosure of the information for the purposes for which the visitor disclosed the information to the UB.
+UB retains the right to collect or disclose personal information without consent if the collection or disclosure is:
+(1) Necessary to perform the statutory duties of the university, or necessary for UB to operate a program authorized by law, or authorized by state or federal statute or regulation
+(2) Made pursuant to a court order or by law
+(3) For the purpose of validating the identity of the visitor or
+(4) Of information to be used solely for statistical purposes that is in a form that cannot be used to identify any particular person
+Information collected through website is subject to the provisions of the Freedom of Information Law, the Family Educational Rights and Privacy Act (FERPA), and the Personal Privacy Protection Law. UB may disclose personal information to federal, state, or local law enforcement authorities to comply with court orders, the provisions of The Patriot Act of 2001, or enforce its rights against unauthorized access or attempted unauthorized access to the university's information technology assets.
+Disclosure of Information Collected Through This Website
+Information collected through official UB websites and associated third-party web applications and the disclosure of that information is subject to the provisions of Article II - (201 - 208) Internet Security and Privacy Act of the NYS Technology Law. UB only collects website visitor’s personal information through official UB websites or associated third-party web applications.
+UB only discloses personal information collected through official UB websites or associated third-party web applications if the visitor consents to the collection or disclosure of this information. A visitor’s voluntary disclosure of personal information, whether solicited or unsolicited, constitutes consent to UB’s collection and disclosure of the information for the purposes for which the visitor disclosed the information to the UB.
+UB retains the right to collect or disclose personal information without consent if the collection or disclosure is:
+(1) Necessary to perform the statutory duties of the university, or necessary for UB to operate a program authorized by law, or authorized by state or federal statute or regulation
+(2) Made pursuant to a court order or by law
+(3) For the purpose of validating the identity of the visitor or
+(4) Of information to be used solely for statistical purposes that is in a form that cannot be used to identify any particular person
+Information collected through website is subject to the provisions of the Freedom of Information Law, the Family Educational Rights and Privacy Act (FERPA), and the Personal Privacy Protection Law. UB may disclose personal information to federal, state, or local law enforcement authorities to comply with court orders, the provisions of The Patriot Act of 2001, or enforce its rights against unauthorized access or attempted unauthorized access to the university's information technology assets.
+Retention
+Retention of Automated Log Data
+UB retains automated log data collected in accordance with the university policy, Log Data Access and Retention Policy. UB’s internet service logs are automatically-produced electronic files. The files monitor access and use of website services. Log data is retained for a minimum of 92 days. Access to automated log data is restricted in accordance with the Data Risk Classification Policy, the Protection of University Data Policy, and the UBIT Standards for Protecting Category 2 - Private Data.
+Retention of Voluntarily-Provided Information
+Voluntarily-provided information may include personal information. Visitors provide information to UB through processes including, but not limited to:
+Sending an email
+Filling out a webform, survey, or application
+Completing a financial or business transaction
+UB retains voluntarily-provided information collected through this website in accordance with New York State Arts and Cultural Affairs Law’s records retention and disposition requirements. For more information, contact UB’s Records Management Officer.
+Access to and Correction of Personal Information Collected Through This Website
+Visitors to official UB websites or associated third-party web applications may submit a request to the university’s privacy compliance officer to determine if personal information was collected while navigating these sites. If UB collected website visitor’s personal information and UB determines the visitor has the right to this information, then pursuant to the visitor’s request, the privacy compliance officer shall inform the visitor of his or her right to request that the personal information be amended, corrected, or deleted under the procedures set forth in section 95 of the New York State Public Officers Law.
+Confidentiality and Integrity of Personal Information Collected Through This Website
+UB is committed to protecting personal information collected through official UB websites and associated third-party web applications.
+UB implements procedures to safeguard the integrity of its information technology assets, including, but not limited to, authentication, monitoring, scanning, auditing, and encryption. Such security procedures are integrated into the design, implementation, and day-to-day operations of official UB websites and third-party web applications associated with the university as part of the university’s continuing commitment to the security of electronic content and to the electronic transmission of information.
+For website security purposes and to maintain the availability of the website, UB deploys software to monitor traffic in order to identify unauthorized attempts to upload or change information or otherwise damage official UB websites and associated third-party web applications.
+Return to Top
+Background
+This policy informs visitors to official UB websites and associated third-party web applications about the technical information collected during their session. This process is often automatic and part of web browser and website interactions and functions. This policy also identifies and describes how personal information may or may not be collected while navigating on official UB websites and associated third-party websites.
+Growth of privacy-related regulations and personal interest among visitors drive the increased demand for such policies, particularly on free consumer-oriented websites where visitors may not be aware their information is collected and used or sold for profit. Some examples include free web search portals, social media platforms, and personal email services. However, university web sites typically do not engage in such behavior because individuals are not visiting for consumer-aimed free services.
+This policy is almost exclusively focused on technical or mechanical aspects of information being exchanged to render website content. Other types of website privacy notices may include pop-ups about cookies, personal privacy policies, and notices of other privacy practices (e.g., Health Insurance Portability and Accountability Act (HIPAA)). These notices may detail additional information sharing or disclosure.
+Return to Top
+Applicability
+This policy applies to visitors navigating official UB websites and associated third-party web applications. This policy does not apply to mobile applications.
+Return to Top
+Definitions
+Cookies
+A text file (up to 4KB) created by a website and stored on visitor’s device, either temporarily for that session (session cookie) or permanently on the hard disk (persistent cookie). Cookies provide a way for the website to recognize visitors and keep track of the visitor’s preferences.
+Official University at Buffalo (UB) Websites
+Online content, both publicly accessible as well as material behind an authentication layer, owned or controlled by the university's formal academic and administrative units. These sites typically reside in, or resolve to, the buffalo.edu domain (though some may not, e.g., ubbulls.com, ubcfa.org, and myubcard.com) and may serve any (or all) of the university's stakeholders.
+Personal Information
+Has the meaning set forth in subdivision 5 of section 202 of the New York State Technology Law. Personal information means any information concerning a natural person which, because of name, number, symbol, mark, or other identifier, can be used to identify that natural person. (Source: New York State Technology Law)
+Third-Party Web Applications
+Any vendor-created, -provided, or -hosted technology solution that conducts official business for, or provides official service(s) to, the university or its constituents through an explicit contractual relationship.
+Tracking Codes or Beacons
+An often-transparent graphic image, usually no larger than 1-pixel x 1-pixel, placed on a website or in an email that is used to monitor the behavior of the user visiting the website or sending the email. Tracking codes or beacons do not contain personally identifiable information. Tracking codes collect traffic data and click information. This information is used to prioritize tasks, record visitor-specific web traffic, and associate web traffic history with unique visitors.
+Visitor
+Natural person who uses the internet to access official UB websites and third-party websites associated with the university.
+Return to Top
+Responsibility
+Enrollment Management
+Provide the link to the Website Privacy Policy in all Enrollment Management website and application footers.
+Privacy Compliance Officer
+Make decisions about records disclosure in accordance with the New York State Freedom of Information Law (FOIL).
+Respond to the UB community about inquiries or complaints.
+University Communications
+Promote awareness of this policy through established university communications channels, and demonstration of best practices.
+Provide a link to the Website Privacy Policy in all UB website footers.
+Procurement
+Determine that all contracts (purchases) with third-party platform providers include verbiage about compliance with the Website Privacy Policy. This may include specific language that addresses vendor practices with respect to additional data collection, including financial data.
+Visitor
+Report practices that seem to be contrary to this policy to the Privacy Compliance Office.
+Control security settings on the device(s) used to visit official University at Buffalo websites and third-party platforms associated with the university. This includes, but is not limited to cookie settings to allow, refuse, or delete cookies.
+Vice President and Chief Information Officer
+Oversee all components of UB information technology.
+Return to Top
+Contact Information
+Contact An Expert
+Contact Phone Email
+Information Security Office - Privacy Contact 716-645-6997 privacy@buffalo.edu
+Records Management Officer / Privacy Compliance Officer
+  ubfoil@buffalo.edu
+Vice President and Chief Information Officer
+716-645-7979 cio@buffalo.edu
+Return to Top
+Related Information
+University Links
+Access to Student Information - Family Educational Rights and Privacy Act (FERPA) Policy
+Data Access Procedure
+Data Risk Classification Policy
+Freedom of Information Law (FOIL)
+Protection of University Data Policy
+Records Management
+Standards for Protecting Category 2 - Private Data
+Related Links
+Family Educational Rights & Privacy Act (FERPA)
+New York Consolidated Laws, Arts and Cultural Affairs Law - ACA
+New York State Freedom of Information Law (FOIL)
+New York State Office of Information Technology Services - Information Security Policy
+New York State Public Officers Law, Section 95 - Access to Records
+New York State Office of Information Technology Services - Technology Law
+New York State Office of Information Technology Services - Internet Privacy Guideline
+New York State Personal Privacy Protection Law
+Return to Top
+History
+Policy Revision History
+January 2020 Full review. Updated the policy to:
+● Change the policy name from Privacy Policy to Website Privacy Policy
+● Revise the policy statement to confirm the university's commitment to protecting visitor privacy when navigating through official UB websites and associated third-party web applications
+● Add information about tracking codes or beacons
+● Revise the retention period of automated log data from 180 days to a minimum of 92 days
+● Add the Background section
+● Revise the Applicability section to specify that the policy:
+   ▫ Applies to visitors navigating official UB websites and associated third-party applications
+   ▫ Excludes mobile applications
+● Add definitions for Cookies, Official University at Buffalo Websites, Third-Party Web Applications, Tracking Codes or Beacons, and Visitor
+● Delete the definition of User
+● Add the Responsibility section and specify responsibilities for Enrollment Management, Privacy Compliance Officer, University Communications, Procurement, Visitors, and the Vice President and Chief Information Officer
+Return to Top
+Presidential Approval
+Signed by President Satish K. Tripathi
+Satish K. Tripathi, President
+Return to Top
+1/16/2020
+Emergency
+University Police
+Emergency Management
+Announcements for All Services
+UB Holiday Calendar
+About Us
+Leadership and Organization
+Staff Directory
+Policy
+UB Policy Library
+Develop and Maintain a UB Policy
+Records Management
+Freedom of Information Law (FOIL)
+Internal Audit
+EthicsPoint
+COELIG Filing and Training
+Internal Controls Practices
+Catalogs
+Forms
+Training
+UB Policy
+UB Online Directory
+HR For Faculty and Staff
+Getting Started at UB
+Information About Me
+My Benefits
+Managing My Time
+Taxes For International Students, Scholars and Guests
+HR For Student Employees
+College Work-Study
+My Benefits
+Taxes for International Students
+Time Sheets
+Careers at UB
+Notice Of Non-Discrimination
+Log in to UB Jobs
+Employment and Workplace Regulations and Policies
+Employee Assistance
+Your Personal Well-being
+Your Professional Well-being
+Training and Development
+Ways to Develop and Improve
+Learn a Computing Skill
+Wellness and Work Life Balance
+Discounts for UB Employees
+Managing People
+Payroll Calendars
+Salary Increases By Contract
+Salary Schedules
+Managing Facilities
+Work Order Request
+Service Advisories
+Find a Facilities Expert
+For FPMO
+Managing Money
+Getting Started in Money Management
+Find a Financial Expert
+Resource Planning
+Annual Resource Planning
+Find Your Resource Analyst
+Managing Procurement
+Getting Started in Managing Procurement
+Find a Procurement Expert
+Traveling for Business
+Travel Guidelines
+Mileage and Per Diem Expenses
+Reimbursement for Business and Travel
+Parking and Transportation
+Parking Permits
+Citations and Appeals
+Print Services
+Finishing Options
+Mailing Services
+Print Services Ordering System Instructions
+Campus Mail
+Related Websites
+Office of the Provost Policies and Guidelines for Faculty and Staff
+Sponsored Projects Services
+SUNY
+SUNY RF
+University at Buffalo Foundation
+Information for Suppliers
+For Administrative Services Staff
+Communicators Toolkit
+Log In to Procurement Intranet
+Website Comments
+Can't find something? Send us your feedback about the website.
+© 2024 University at Buffalo. All rights reserved.  |  Privacy  |  Accessibility

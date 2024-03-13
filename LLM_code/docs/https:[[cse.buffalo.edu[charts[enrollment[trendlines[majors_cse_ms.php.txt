@@ -1,0 +1,90 @@
+CS[E] MS Majors by Gender
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+Students
+Jan 1989
+Aug 1989
+Jan 1990
+Aug 1990
+Jan 1991
+Aug 1991
+Jan 1992
+Aug 1992
+Jan 1993
+Aug 1993
+Jan 1994
+Aug 1994
+Jan 1995
+Aug 1995
+Jan 1996
+Aug 1996
+Jan 1997
+Aug 1997
+Jan 1998
+Aug 1998
+Jan 1999
+Aug 1999
+Jan 2000
+Aug 2000
+Jan 2001
+Aug 2001
+Jan 2002
+Aug 2002
+Jan 2003
+Aug 2003
+Jan 2004
+Aug 2004
+Jan 2005
+Aug 2005
+Jan 2006
+Aug 2006
+Jan 2007
+Aug 2007
+Jan 2008
+Aug 2008
+Jan 2009
+Aug 2009
+Jan 2010
+Aug 2010
+Jan 2011
+Aug 2011
+Jan 2012
+Aug 2012
+Jan 2013
+Aug 2013
+Jan 2014
+Aug 2014
+Jan 2015
+Aug 2015
+Jan 2016
+Aug 2016
+Jan 2017
+Aug 2017
+Jan 2018
+Aug 2018
+Jan 2019
+Aug 2019
+Jan 2020
+Aug 2020
+Feb 2021
+Aug 2021
+Jan 2022
+Aug 2022
+Jan 2023
+Aug 2023
+Jan 2024
+Undisclosed
+Female
+Male
+Computer Science [and Engineering] (CS[E]) Master of Science (MS) majors by gender from Spring 1989 to now. The CS Department became the CSE Department in 1998. Source: UB InfoSource

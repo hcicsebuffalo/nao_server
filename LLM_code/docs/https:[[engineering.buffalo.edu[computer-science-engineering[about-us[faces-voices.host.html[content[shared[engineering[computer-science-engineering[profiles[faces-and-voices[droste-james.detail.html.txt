@@ -1,0 +1,76 @@
+School of Engineering and Applied Sciences
+UB HomeMapsUB Directory
+Department of Computer Science
+and Engineering
+Give to CSE Apply Now Contact Us
+About Us
+Undergraduate
+Graduate
+Research
+People
+News & Events
+Alumni
+SEARCH
+INFO FOR
+Department of Computer Science and Engineering About Us Faces & Voices Droste, James
+About Us
+Chair's Welcome
+Our Mission
+Our Values
+Why Choose CSE?
+Faces & Voices
+A History of our Department
+Contact Us
+Support CSE
+Related Links
+About the School of Engineering and Applied Sciences
+About the University
+About Buffalo-Niagara
+Droste, James
+Computer Science BS '17
+James Droste.  Defending the Internet.  Photo credit: Onion Studio
+“I'm amazed by what I was able to do in CSE's student server room. I can bring up and manage a whole network infrastructure. ”
+James Droste
+Computer Science BS Candidate '17
+Published April 3, 2017
+This content is archived.
+by Christian Miller
+James Droste wears a black UB Network Defense jacket with his hacker code name, debug, embroidered on the sleeve. It's a sleek look for the captain of the UB team that competed in the 2016 Northeast Collegiate Cyberdefense Competition, hosted at RIT, at which UB took third place.
+"The entire weekend was designed to make us sweat the entire time," James recalled. "Constantly being attacked, trying to get stuff done. It's meant to be a very high pressure situation to say the least. We typically don't sleep, up 'til 3 a.m., back up at 9 a.m. It's fun when they rm -rf a box. They reweaponized a virus called Shamoon. They put it on all our boxes so it would turn our boxes off. It triggered an alert, and because it was the same virus, we thought the real virus was back. General antics from the red team."
+The red team is the offensive squad that challenges the cyberdefenders, made up of industry professionals who perform penetration testing for a living. They work for government agencies and private security contractors. "This is the only time they can let loose and not care if things work or not after they leave," James said. "They're people heavy inside the information security community."
+James, from Nanuet, NY, got started in cyberdefense when he met former CSE sysadmin Kevin Cleary. "When I was interviewing to be a CSE 101 teaching assistant, Kevin was one of my interviewers. I'm amazed by the stuff I was able to do in Davis 339C, CSE's student server room. That's my second home.  I can bring up and manage a whole network infrastructure. That's something I never thought I'd be able to do."
+James will join the Amazon Web Services (AWS) Security Operations Team in Seattle, WA, after he graduates in May. "When you email aws-security, we're the team that handles that," he said. "If one of your EC2 instances got hacked, we're your team." He interned at Amazon's Herndon, Va. location between his junior and senior years.  Because AWS runs such a high percentage of commercial websites, "I actually got to protect the Internet."
+He looks forward to living in Seattle. "Everything's walkable and I'll be in the city, so it's pretty sick. Our floor was awesome. It's so high up, the view is incredible. They allow dogs in the workplace, so we have two dogs on the team, too."
+James doesn't rule out joining the real-life red team at some point in the future. "I see it as my military service.  I could do that to give back to the country."
+Connect With Us
+Computer Science and Engineering
+338 Davis Hall
+Buffalo, New York 14260-2500
+(716) 645-3180
+Quick Links
+Why Choose CSE?
+News & Events
+Employment Opportunities
+Give to CSE
+Contact Us
+Admissions
+Undergraduate Admissions
+Graduate Admissions
+Explore Further
+Get Involved
+Engineering and Applied Sciences Alumni Association
+Support SEAS
+Collaborate with UB
+On This Website
+About Us
+Undergraduate Programs
+Graduate Programs
+Research
+People
+News & Events
+Full Site Map
+Information For
+Students
+Faculty and Staff
+Alumni
+© 2024 University at Buffalo. All rights reserved.  |  Privacy  |  Accessibility

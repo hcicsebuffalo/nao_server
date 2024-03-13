@@ -1,0 +1,44 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Graduate Catalog
+2023-2024 Graduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Graduate School Policies and Procedures
+A-Z Program List
+Courses
+Department/Program
+Degree Level
+Accreditations
+Class Schedule
+myUB
+a
+Pharmacometrics Modeling Micro-Credential
+This micro-credential will be a three-course series encompassing what pharmacometrics involves. The learner with gain an in-depth overview of Pharmacometrics, covering methodology and application of models for disease & pharmacological measurement. Students will learn through practical training with application-based software to guide the learner through pharma data & modeling problems, complementing the lecture series. Finally, to obtain the micro-credential the learner will be asked to complete a cumulative modeling question related to current applications in Pharmacometrics.
+For more information and to apply visit the Office of Micro-Credentials.
+Admissions Requirements
+A basic knowledge of pharmacokinetic and statistical principles will be required for this micro-credential.
+Additionally knowledge in calculus based derivatives will be beneficial to understand basic pharmacokinetic principles.
+Course Requirements
+Pharmacometrics Modeling Core (8 credits)
+PHC 506LEC - Biometry in Phc Sci Credits: 3
+PHC 607LR - Intermediate Pharmacokinetics Credits: 3
+PHC 610LEC - Population PK-PD Modeling Credits: 2
+Additional Requirements
+Students will also:
+Construct a population pharmacokinetic model based on supplied example datasets.  Specific descriptions of the clinical resulting in drug concentration and dosage history information will be provided.  Learners will be expected to explore the data using graphical and numeric strategies. This initial exploration will be extended by learners to select an appropriate pharmacokinetic model in part (I) of of the assessment and then extend the population pharmacokinetic model to include patient specific covariates (II). Learners will have one month from the completion of the required courses to submit their model.
+Total Credit Hours: 8
+3.0 GPA required
+  Instruction Method
+Online (100 percent of the degree requirements can be fulfilled online)
+Average Time to Completion
+Three Semesters
+Return to: Department/Program
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2024 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

@@ -1,0 +1,76 @@
+School of Engineering and Applied Sciences
+UB HomeMapsUB Directory
+Department of Computer Science
+and Engineering
+Give to CSE Apply Now Contact Us
+About Us
+Undergraduate
+Graduate
+Research
+People
+News & Events
+Alumni
+SEARCH
+INFO FOR
+Department of Computer Science and Engineering About Us Faces & Voices Qin, Zhan
+About Us
+Chair's Welcome
+Our Mission
+Our Values
+Why Choose CSE?
+Faces & Voices
+A History of our Department
+Contact Us
+Support CSE
+Related Links
+About the School of Engineering and Applied Sciences
+About the University
+About Buffalo-Niagara
+Qin, Zhan
+PhD '17
+Zhan Qin. On his way to a tenure-track faculty position in San Antonio, inventing new ways to safeguard your data.  Photo credit: Onion Studio
+“The atmosphere among professors to cooperate on joint projects is really good. It leads to very many top-tier papers and works. ”
+Zhan Qin
+PhD '17
+Published April 4, 2017
+This content is archived.
+by Christian Miller
+Zhan Qin will join the University of Texas at San Antonio Department of Electrical and Computer Engineering as a tenure-track assistant professor in Fall 2017.  At UTSA, he'll continue his work in data privacy and data computation security.
+In his five years at UB, Zhan published at leading conferences including the ACM Conference on Computer and Communication Security (ACM CCS) and the ACM Multimedia Conference (ACM MM).  The work that he published at ACM CCS'16, "Heavy Hitter Estimation over Set-valued Data with Local Differential Privacy", also won the CSE Best Graduate Student Research Award in 2016.
+"My research area is data privacy," he said.  "Cloud-based, user data privacy.  In the real world, big companies are collecting your data every day with permission hiding in a long 'terms of service' contract.  For them, compromised privacy is a big potential data risk breach.  Someday there might be a breach like what happened in Sony or other incidents happening in the last few years.  These companies hold such data but can utlilize only a very little portion of them.  Minimize risk, find that value in them.  Privacy-preserving data mining.  Find some valuable, meaningful info from data where user's privacy is protected."
+Zhan, a native of Beijing, made his way to UB after earning a BS at the Beijing Institute of Technology and an MS at Columbia University.  He was attracted to UB by the opportunity to work with Kui Ren, whom he describes as "a rising star in security."
+"Zhan is very intelligent and persistent with his research," said Dr. Ren.  "He has great potential to be very successful in his future academia career."
+Zhan is excited about his upcoming move.  "San Antonio has a pretty strong security group there," he said.  "Ravi Sandhu (director of the UTSA Institute for Cyber Security) is a big name in security area.  I'm happy to join their team."
+Still, he'll miss his friends and collaborators in Buffalo.  "At UB, CSE faculty are pretty nice and friendly," he said.  "Very diverse expertise.  I cooperate on many different projects with different professors.  It's really productive.  The atmosphere among professors to cooperate on joint projects is really good.  It leads to very many top-tier papers and works."
+Connect With Us
+Computer Science and Engineering
+338 Davis Hall
+Buffalo, New York 14260-2500
+(716) 645-3180
+Quick Links
+Why Choose CSE?
+News & Events
+Employment Opportunities
+Give to CSE
+Contact Us
+Admissions
+Undergraduate Admissions
+Graduate Admissions
+Explore Further
+Get Involved
+Engineering and Applied Sciences Alumni Association
+Support SEAS
+Collaborate with UB
+On This Website
+About Us
+Undergraduate Programs
+Graduate Programs
+Research
+People
+News & Events
+Full Site Map
+Information For
+Students
+Faculty and Staff
+Alumni
+© 2024 University at Buffalo. All rights reserved.  |  Privacy  |  Accessibility

@@ -1,0 +1,87 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Graduate Catalog
+2023-2024 Graduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Graduate School Policies and Procedures
+A-Z Program List
+Courses
+Department/Program
+Degree Level
+Accreditations
+Class Schedule
+myUB
+a
+Computer Science and Engineering PhD
+The Department of Computer Science and Engineering is committed to provide the highest quality of graduate education. The MS and PhD degrees are offered in almost all core areas of computer science/computer engineering.
+Apply Now
+Request More Information
+The PhD in Computer Science and Engineering is your passport to a career in academia or industrial research.  Our PhD graduates have earned tenure-track faculty positions, led major technology firms, created their own innovative technology startups, and become thought leaders in their fields.
+One PhD alum (so far) has risen to the office of university president.
+The PhD in Computer Science and Engineering degree provides an opportunity for students to pursue a program of research in a specialized area and to develop a dissertation that embodies the results of original research and gives evidence of high scholarship.
+Curriculum
+Breadth Requirement (13 credits)
+CSE 501LEC - Introduction to Graduate Study in Computer Science I Credits: 1
+ Select four core courses from the lists below, one from each of the four focus areas:
+ Theory/Algorithms Area (T/A):
+CSE 529LEC - Algorithms for Modern Computing Systems Credits: 3
+CSE 531LEC - Analysis of Algorithms I Credits: 3
+CSE 596LEC - Introduction to the Theory of Computation Credits: 3
+ Artificial Intelligence Area (AI):
+CSE 528LEC - Introduction to Digital Image Processing Credits: 3
+CSE 546LEC - Reinforcement Learning Credits: 3
+CSE 555LEC - Introduction to Pattern Recognition Credits: 3
+CSE 563LEC - Knowledge Representation Credits: 3
+CSE 568LEC - Robotics Algorithms Credits: 3
+CSE 573LEC - Introduction to Computer Vision and Image Processing Credits: 3
+CSE 574LEC - Introduction to Machine Learning Credits: 3
+ Software and Information Systems Area (SW):
+CSE 505LEC - Fundamentals of Programming Languages Credits: 3
+CSE 521LEC - Operating Systems Credits: 3
+CSE 522LEC - Object Oriented Analysis, Design and Implementation Credits: 3
+CSE 535LEC - Information Retrieval Credits: 3
+CSE 562LEC - Database Systems Credits: 3
+CSE 565LEC - Computer Security Credits: 3
+CSE 570LEC - Introduction to Parallel and Distributed Processing Credits: 3
+CSE 587LEC - Data Intensive Computing Credits: 3
+ Hardware and Networked Systems Area (HW):
+CSE 552LEC - VLSI Testing Credits: 3
+CSE 570LEC - Introduction to Parallel and Distributed Processing  Credits: 3
+CSE 586LEC - Distributed Systems Credits: 3
+CSE 587LEC - Data Intensive Computing  Credits: 3
+CSE 589LEC - Modern Network Concepts Credits: 3
+CSE 590LEC - Computer Architecture Credits: 3
+CSE 593LLB - Introduction to VLSI Electronics Credits: 3
+Depth Requirement (6-9 credits)
+Take two-three courses as categorized below:
+One 600-level CSE course
+One 600-level or a 700-level seminar
+One 700-level “seminar” course if a 2nd 600 level course is chosen above.
+Note: These two courses must belong to the same focus area. The list of 600-level courses listed by focus area are chosen in consultation with your academic advisor or the director of graduate studies.
+Electives (12+ credits)
+Students will select electives from the list of CSE offerings in consultation with their PhD advisor and/or the Director of Graduate Studies.
+Dissertation (up to 36 credits)
+CSE 799TUT - Supervised Research Credits: 1 - 3
+CSE 800TUT - Thesis Guidance Credits: 1 - 12
+Total Credit Hours: 72
+3.0 Degree GPA required
+Instruction Method
+In Person (100 percent of courses offered in person)
+Full/Part Time Options
+Full Time
+Credits Required
+72 Hours
+Time-To-Degree
+5+ Years
+Application Fee
+$85
+Return to: A-Z Program List
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2024 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

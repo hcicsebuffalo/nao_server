@@ -1,0 +1,84 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Graduate Catalog
+2023-2024 Graduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Graduate School Policies and Procedures
+A-Z Program List
+Courses
+Department/Program
+Degree Level
+Accreditations
+Class Schedule
+myUB
+a
+Cybersecurity Advanced Certificate
+The Advanced Certificate in Cybersecurity aims to provide students with a holistic comprehension of the diverse aspects of computer security, catering to the demands of our technology-driven society. 
+This program encompasses coursework from various departments at UB, such as computer science and engineering, management, mathematics and law. It offers a comprehensive overview of the interdisciplinary nature of computer security while also delivering specialized training tailored to students’ chosen areas of focus.
+Apply Now
+Request More Information
+Required Core (9 credits)
+Complete:
+MGS 650LEC - Information Assurance Credits: 3
+and choose track with 2 courses
+Managerial Track: Students admitted through School of Management
+MGS 639LEC - Cybersecurity, Privacy & Ethics Credits: 3
+MGS 642LEC - IS Auditing for IT Managers Credits: 3
+Technical Track: Students admitted through SEAS
+Select 2 from:
+MTH 535LEC - Intro to Cryptography Credits: 3
+or
+CSE 664LEC - Applied Cryptography and Computer Security Credits: 3
+ CSE 566LEC - Wireless Networks Security Credits: 3
+CSE 565LEC - Computer Security Credits: 3
+Electives (5 credits)
+Select a minimum of 5 credits from:
+CSE 505LEC - Fundamentals of Programming Languages Credits: 3
+CSE 512LR - Oper Sys Internals Credits: 3
+CSE 562LEC - Database Systems Credits: 3
+CSE 589LEC - Modern Network Concepts Credits: 3
+CSE 605LEC - Advanced Concepts in Programming Languages Credits: 3
+CSE 610LEC - Special Topics Credits: 3
+CSE 626LEC - Data Mining Credits: 3
+CSE 671LEC - Sec Wireless Sensr Ntwrks Credits: 3
+LAW 696LEC - Intellectual Property Credits: 3
+LAW 891LEC - Copyright Credits: 3
+MGA 643LEC - Fraud Examination and Forensic Investigation Credits: 3
+MGS 610LEC - Digital Forensics Credits: 3
+MGS 613LEC - Database Mgmt Systems Credits: 3
+MGS 640LEC - IT Risk Management Credits: 1.5
+MGS 651LEC - Managing Computer Networks Credits: 3
+MTH 529LEC - Intro Theory of Numbers 1 Credits: 3
+MTH 530LEC - Intro Theory of Numbers 2 Credits: 3
+Total Credit Hours: 14
+3.0 GPA required
+  Instruction Method
+In Person (100 percent of courses offered in person)
+Credits Required
+14-15 Hours
+Full/Part Time Options
+Full Time
+Part Time
+Time-To-Degree
+1 to 2 Years
+Application Fee
+$85
+Program Contact
+School of Engineering and Applied Sciences
+Office of Graduate Education
+415 Bonner Hall
+Buffalo, NY 14260
+Email: gradeng@buffalo.edu
+SED Statement
+This program is officially registered with the New York State Education Department (SED).
+Online programs/courses may require students to come to campus on occasion. Time-to-degree and number of credit hours may vary based on full/part time status, degree, track and/or certification option chosen. Time-to-degree is based on calendar year(s). Contact the department for details.
+Return to: A-Z Program List
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2024 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

@@ -1,0 +1,195 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Graduate Catalog
+2023-2024 Undergraduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Archived Catalogs
+General Catalog Information
+Majors and Combined Degrees
+Minors, Certificates and Micro-Credentials
+Departments & Programs
+Courses
+UB Curriculum (General Education)
+Academic Policies and Procedures
+Academic Calendar
+Campus Facilities and Instructional Spaces
+Financial and Scholarship Information
+Admissions
+Student Records and Registration
+Academic Advising
+Learning Outside the Classroom
+Study Abroad
+myUB
+HUB Academic Advisement Report
+Accreditations
+a
+Bioinformatics and Computational Biology BS - Biomedical Informatics Concentration
+Use electronic health records to prevent future pandemics. Help analyze genetic data to develop new cancer drugs. Create advanced computer models that lead to more resilient ecosystems. If these things sound interesting to you-and if you like using science, math, data and statistics-then this program could be exactly what you’re looking for. This program is for students who want a highly interdisciplinary major, with the freedom to focus on biology, computer science or informatics (using data to improve health).
+Visit the Bioinformatics and Computational Biology academic program page for more information about the academic experience, who you will learn from, opportunities outside of class and what you can do with this degree.
+Visit the Biomedical Informatics department page for contact information, a brief overview of the department and the curricular options.
+Admission Criteria
+Minimum 2.000 GPA overall
+Minimum 3.000 prerequisite major GPA required
+Current UB students who are interested in applying to the Bioinformatics and Computational Biology BS - Biomedical Informatics Concentration in the Jacobs School of Medicine and Biomedical Sciences should submit the Program Application.
+Course Requirements
+Bioinformatics and Computational Biology Core (35 credits)
+BIO 200LLB - Evolutionary Biology Credits: 5
+BIO 201LEC - Cell Biology Credits: 3
+BIO 211LAB - Cell Biology Lab Credits: 1
+CHE 101LR - General Chemistry Credits: 4
+CHE 113LAB - General Chemistry Credits: 1
+CHE 102LR - General Chemistry Credits: 4
+CHE 114LAB - General Chemistry Credits: 1
+CSE 115LLR - Introduction to Computer Science I Credits: 4
+CSE 116LLB - Introduction to Computer Science II Credits: 4
+MTH 141LR - College Calculus I Credits: 4
+MTH 142LR - College Calculus 2 Credits: 4
+Biomedical Informatics Concentration Core (53 credits)
+BCH 403LEC - Biochemical Principles Credits: 4
+BCH 410LEC - Biomedical Genetics Credits: 3
+BCH 419LEC - Introduction to Bioinformatics and Computational Biology Credits: 3
+BMI 401LEC - Introduction to Biomedical Informatics Credits: 3
+BMI 494LEC - Biomedical Informatics Senior Capstone Credits: 3
+BMI 402LEC - Biomedical Informatics: Science and Enabling Technology Credits: 3
+BMI 498TUT - Biomedical Informatics Undergraduate Research Credits: 1-6 (6 credits)
+CHE 203LEC - Organic Chemistry Credits: 3
+CHE 204LEC - Organic Chemistry Credits: 3
+CHE 205LBR - Organic Chemistry 1 LAB Credits: 2
+CHE 206LBR - Organic Chemistry 2 LAB Credits: 2
+ Select one Probability course:
+MTH 411LR - Probability Theory Credits: 4 OR
+STA 301LEC - Intro to Probability Credits: 3 AND
+STA 301REC - Intro to Probability Credits: 1
+ Select one Statistical Inference course:
+MTH 412LR - Introduction to Statistical Inference Credits: 4 OR
+STA 302LEC - Intro Stat Inference Credits: 3 AND
+STA 302REC - Intro Stat Inference Credits: 1
+ PHY 101LR - College Physics Credits: 4
+PHY 151LAB - College Physics I Lab Credits: 1
+PHY 102LR - College Physics II Credits: 4
+PHY 152LAB - College Physics II Lab Credits: 1
+Biomedical Informatics Electives (10 credits):
+Four of the elective credits must be CSE 300/400 level.
+BIO 302LEC - Introduction to Molecular Biology Credits: 3
+BIO 400LLB - Bioinformatics / Genome Analysis Credits: 4
+BIO 402LEC - Advanced Cell and Developmental Biology 1 Credits: 4
+BIO 404LEC - Advanced Molecular Genetics Credits: 4
+BIO 417LEC - Neurobiology Credits: 3
+BIO 449SEM - Comparative Genomics Credits: 3
+CSE 331LR - Algorithms and Complexity Credits: 4
+CSE 368LR - Introduction to Artificial Intelligence Credits: 4
+CSE 370LR - Applied Human Computer Interaction and Interface Design Credits: 4
+CSE 408LEC - Programming with Python Credits: 1
+CSE 460LEC - Data Models and Query Languages Credits: 3
+CSE 463LEC - Knowledge Representation Credits: 3
+CSE 469LEC - Introduction to Data Mining Credits: 3
+CSE 474LEC - Introduction to Machine Learning Credits: 3
+CSE 487LEC - Data Intensive Computing Credits: 3
+EAS 345LEC - Introduction to Data Science Credits: 3
+MTH 306LR - Introduction to Differential Equations Credits: 4
+MIC 401LLB - Biomedical Microbiology Credits: 4
+MIC 412LEC - Fundamentals of Immunology Credits: 3
+MTH 306LR - Introduction to Differential Equations
+MTH 309LR - Introductory Linear Algebra Credits: 4
+NRS 301LEC - The Brain Credits: 3
+PGY 300LEC - Human Physiology Credits: 4
+PUB 340LEC - Introduction to Epidemiology Credits: 3
+PUB 420LEC - Social Determinants of Health Credits: 3
+STA 306LEC - Introduction to Statistical Computing with SAS I Credits: 3
+STA 403LEC - Regression Analysis Credits: 3
+STA 404LEC - Design of Experiments Credits: 3
+STA 427LEC - Statistical Analysis I Credits: 3
+STA 427REC - Statistical Analysis I REC Credits: 1
+STA 431LEC - Sample Surveys Theory-Methods Credits: 3
+Total Credits Required for Major: 88
+Additional Degree Requirements Include:
+Additional coursework to fulfill UB Curriculum requirements
+Elective courses as needed to complete the 121 credit hour total
+Total Credits Required for Graduation: 121
+Total Credit Hours Required represents the minimum credits needed to complete this program, and may vary based on a number of circumstances. This should not be used for financial aid purposes.
+Academic Requirements
+A minimum combined GPA of 3.000 for required courses is required for retention in the major. At the end of every semester a review of all coursework is completed, and any student not meeting the GPA minimum for four consecutive semesters will be dismissed from the major.
+Curricular Plan
+A Curricular Plan provides a roadmap for completing this academic program and the UB Curriculum on time. Your actual plan may vary depending on point of entry to the university, course placement and/or waivers based on standardized test scores, earned alternative credit and/or college transfer credit.
+First Year Fall
+BIO 200LLB - Evolutionary Biology Credits: 5
+CHE 101LR - General Chemistry Credits: 4
+CHE 113LAB - General Chemistry Credits: 1
+MTH 141LR - College Calculus I Credits: 4
+UB Seminar Credits: 3
+Total Credits: 17
+First Year Spring
+BIO 201LEC - Cell Biology Credits: 3
+BIO 211LAB - Cell Biology Lab Credits: 1
+CHE 102LR - General Chemistry Credits: 4
+CHE 114LAB - General Chemistry Credits: 1
+MTH 142LR - College Calculus 2 Credits: 4
+Total Credits: 13
+Second Year Fall
+CHE 203LEC - Organic Chemistry Credits: 3
+CHE 205LBR - Organic Chemistry 1 LAB Credits: 2
+ENG 105LEC - Writing and Rhetoric Credits: 4 OR  Pathway Credits: 3
+Pathway Credits: 3
+Pathway Credits: 3
+Total Credits: 14 or 15
+Second Year Spring
+CSE 115LLR - Introduction to Computer Science I Credits: 4
+CHE 204LEC - Organic Chemistry Credits: 3
+CHE 206LBR - Organic Chemistry 2 LAB Credits: 2
+ENG 105LEC - Writing and Rhetoric Credits: 4 OR Pathway Credits: 3
+Pathway Credits: 3
+Total Credits: 15 or 16
+Third Year Fall
+BCH 403LEC - Biochemical Principles Credits: 4
+PHY 101LR - College Physics Credits: 4
+PHY 151LAB - College Physics I Lab Credits: 1
+BMI 401LEC - Introduction to Biomedical Informatics Credits: 3
+CSE 116LLB - Introduction to Computer Science II Credits: 4
+Total Credits: 16
+Third Year Spring
+BCH 410LEC - Biomedical Genetics Credits: 3
+PHY 102LR - College Physics II Credits: 4
+PHY 152LAB - College Physics II Lab Credits: 1
+BMI 402LEC - Biomedical Informatics: Science and Enabling Technology Credits: 3
+Communication Literacy II Credits: 3
+Upper Division Elective Credits: 3
+UBC 399MNT - UB Curriculum Capstone Credits: 1
+Total Credits: 18
+Fourth Year Fall
+MTH 411LR - Probability Theory Credits: 4
+OR
+STA 301LEC - Intro to Probability Credits: 3 AND
+STA 301REC - Intro to Probability Credits: 1
+ BMI 494LEC - Biomedical Informatics Senior Capstone Credits: 3
+BMI 498TUT - Biomedical Informatics Undergraduate Research Credits: 1-6 (complete for 3 credits)
+Upper Division Track Elective Credits: 3
+Total Credits: 13
+Fourth Year Spring
+BCH 419LEC - Introduction to Bioinformatics and Computational Biology Credits: 3
+ MTH 412LR - Introduction to Statistical Inference Credits: 4
+OR
+STA 302LEC - Intro Stat Inference Credits: 3 AND
+STA 302REC - Intro Stat Inference Credits: 1
+ BMI 498TUT - Biomedical Informatics Undergraduate Research Credits: 1-6 (complete for 3 credits)
+Upper Division CSE Course Credits: 4
+Total Credits: 14
+Total Credits Required: 124
+Note: Some classes may count toward both a major and UB Curriculum requirement.
+Learning Outcomes
+Students will develop:
+Computational skills relevant to solving problems in bioinformatics.
+Relevant skills in math, statistics and biology that enable success in the field of bioinformatics.
+Analytical skills that will allow them to identify important problems in bioinformatics and to create solutions.
+Research skills that allow them to apply their academic training to real-world problems.
+Written and oral communication skills that are crucial to articulating research goals and reporting research results.
+  (HEGIS: 04.00 BIOLOGICAL SCI UNCLASSFD, CIP: 26.1103 Bioinformatics)
+  Return to: Majors and Combined Degrees
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2024 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

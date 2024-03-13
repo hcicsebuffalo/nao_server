@@ -1,0 +1,94 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Graduate Catalog
+2023-2024 Graduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Graduate School Policies and Procedures
+A-Z Program List
+Courses
+Department/Program
+Degree Level
+Accreditations
+Class Schedule
+myUB
+a
+Materials Design and Innovation PhD
+The Materials Design and Innovation PhD program blends traditional materials science with modern statistical analysis, database interpretation, and data mining techniques. In addition to the fundamental materials science subjects, the program offers unique courses in materials informatics, advanced computing methods, machine learning, robotics for materials engineering, and an integrated experimental development laboratory that spans from atomic-level research to device creation.
+PhD students in this program will also have the opportunity to engage with UB’s Computational Data-enabled Science and Engineering graduate program. This collaboration provides comprehensive training in computational data science, benefiting both experimental and computational materials scientists.
+Apply Now
+Request More Information
+Curriculum
+The PhD degree in Materials Design and Innovation requires the following:
+Successful completion of the core course requirements, a minimum overall GPA of 3.0, and a project as per the MS degree
+Passing of a PhD comprehensive exam based on the core graduate courses in MDI
+Completion of 9 additional credits based three advanced level courses in MDI or related discipline
+Completion of PhD thesis
+Required Core (33-36 credits)
+MDI 501LEC - Introduction to Materials Design and Informatics Credits: 3
+MDI 502LEC - Quant Structure-Property Relationship in Materials Credits: 3
+MDI 503LEC - Thermodynamics and Molecular Structure of Materials Credits: 3
+MDI 504LEC - Multivariate Statistics and Materials Informatics Credits: 3
+MDI 505LEC - Computational Materials Chemistry and Physics Credits: 3
+MDI 506LEC - Kinetics, Microstructure, and Defects Credits: 3
+MDI 507LEC - Quantitative Methods in Materials Characterization Credits: 3
+MDI 508LEC - Experimental Design for Materials Development Credits: 3
+XXX XXX - Computation Data Science Elective of Choice  Credits: 3
+MDI 702TUT - MDI Individual Problems Credits: 1 - 3
+MDI 703TUT - Research Proposal Credits: 3
+Elective Courses (6 credits)
+MDI 701TUT - Thesis Guidance Credits: 1 - 6
+ OR TWO of the following electives:
+ CE 530LEC - Molecular Modeling Credits: 3
+CSE 555LEC - Introduction to Pattern Recognition Credits: 3
+CSE 674LEC - Advanced Machine Learning Credits: 3
+IE 576LEC - Applied Stochastic Proc Credits: 3
+IE 671LEC - Nonlinear Programming Credits: 3
+IE 675LEC - Game Theory Credits: 3
+MAE 529LEC - Finite Element Struc Anal Credits: 3
+MAE 540LEC - Computational Fluid Dynamics 2 Credits: 3
+MAE 541LEC - Topics Finite Elements Credits: 3
+MTH 511LEC - Probability Theory Credits: 3
+MTH 549LEC - Intro Partl Diff Equatns Credits: 3
+MTH 731LEC - Functional Analysis Credits: 3
+STA 511LEC - Advanced Statistical Computing Credits: 3
+STA 517LEC - Categorical Data Analysis Credits: 3
+STA 522LEC - Intro Theoretical Stat 2 Credits: 3
+STA 522REC - Intro Theoretical Stat 2 Credits: 1
+STA 551LEC - Stochastic Processes Credits: 3
+STA 551REC - Stochastic Processes Credits: 1
+STA 561LEC - Longitudinal Data Analysis Credits: 3
+STA 581LEC - Multivar Data Analysis Credits: 3
+Culminating Experience (30-33 credits)
+MDI 704TUT - Dissertation Research Credits: 1 - 12
+Total Credit Hours: 72
+3.0 Degree GPA required
+Instruction Method
+In Person (100 percent of courses offered in person)
+Full/Part Time Options
+Full Time
+Part Time
+Credits Required
+72 Hours
+Time-To-Degree
+4 Years
+Application Fee
+$85
+Program Contact
+School of Engineering and Applied Sciences
+Office of Graduate Education
+415 Bonner Hall
+Buffalo, NY 14260
+Email: gradeng@buffalo.edu
+SED Statement
+This program is officially registered with the New York State Education Department (SED).
+Online programs/courses may require students to come to campus on occasion. Time-to-degree and number of credit hours may vary based on full/part time status, degree, track and/or certification option chosen. Time-to-degree is based on calendar year(s). Contact the department for details.
+Return to: A-Z Program List
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2024 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

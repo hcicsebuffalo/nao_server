@@ -1,0 +1,136 @@
+School of Engineering and Applied Sciences
+UB HomeMapsUB Directory
+Department of Computer Science
+and Engineering
+Give to CSE Apply Now Contact Us
+About Us
+Undergraduate
+Graduate
+Research
+People
+News & Events
+Alumni
+SEARCH
+INFO FOR
+Department of Computer Science and Engineering News & Events News Two NSF grants totaling $1 million fund research to make machine learning smarter
+News & Events
+News
+In the Media
+Recognitions
+Newsletters
+Events
+CSE Departmental Anniversaries
+CSE Commencements
+CSE Demo Days
+CSE Distinguished Speaker Series
+CSE Industrial Career Days
+CSE Symposia
+CSE Transitions
+CSExplore
+Russell L. Agrusa CSE Student Innovation Competition
+UB Hacking
+Employment Opportunities
+Related Links
+UB News
+UB Events
+SEAS News
+Two NSF grants totaling $1 million fund research to make machine learning smarter
+Assistant professor Kaiyi Ji's research could enhance power networks, communication systems and other critical infrastructure. 
+By Peter Murphy
+Published September 7, 2023
+Machines solve problems by developing their own models and algorithms, but this requires a significant commitment from human programmers. Two UB projects could make this process more efficient and expand the capabilities of machine learning. 
+Share This Print
+Related Links
+Kaiyi Ji, PhD
+Department of Computer Science and Engineering
+“Our ultimate goal is to apply this large scale bilevel optimization to different learning fields, robots and communication networks. ”
+Kaiyi Ji, Assistant Professor
+Department of Computer Science and Engineering
+Each of the National Science Foundation (NSF)-funded projects focus on bilevel optimization, something that principal investigator and computer science and engineering assistant professor Kaiyi Ji says has been in practice, outside of computer science, for decades.
+“Bilevel optimization was introduced very early, in the 1960s. It’s used in the decision-making processes in finance and marketing,” Ji says. “It helps decide whether the current plan is good enough, or if you need to adjust. Bilevel optimization, in machines, has gotten increased attention because it really is the framework for many machine learning models like meta learning or other complex learning paradigms.”
+A better way to learn
+Assistant professor Kaiyi Ji
+Traditionally, computer scientists have worked with single-level optimization. To train a machine learning model, the programmer would develop the model’s function; essentially, telling the model what it will learn. However, to effectively train a machine learning model – and teach it how to learn – programmers need to attach several other parameters. These “hyper parameters” train the model, and are essential to its function, but they can be time-consuming to build, according to Ji.
+Bilevel optimization uses machine learning to set the model’s hyperparameters on the upper level and uses the lower level to develop the model parameters. The two levels of the machine communicate to determine which hyper parameters train the model most effectively.
+“The further tuning of the hyper parameters is based on feedback,” Ji says. “The upper level gives the hyper parameters to the lower level, and the lower level gives feedback to the upper level. The basic procedure is to optimize again and again until we see the final hyper parameters form.”
+Bilevel optimization is sometimes used in urban planning. In this scenario, the upper-level problem might involve optimizing the placement and capacity of transportation hubs like bus stops or train stations. The lower-level problem may be to optimize the flow of passengers or vehicles through the transportation network. The upper level considers decisions made in the lower level, as it works to minimize transportation costs. 
+Two approaches to advance machine learning
+Bilevel optimization helps optimize placement of bus stops and train stations. 
+The existing theory and practice of bilevel optimization only work for small sets of data and small-scale machine learning models. Ji is lead principal investigator (PI) on the first project that will develop the theory, algorithm and application for bilevel optimization in large sets of data and larger machine learning models like networks. Even with bilevel optimization, it will still take several days to train a machine on a relatively moderate model, according to Ji. His goal with the first project is to develop more efficient and feasible bilevel optimization algorithms and the theory behind it.
+“Without theory, we are without design. You have no direction,” Ji says. “Our ultimate goal is to apply this large scale bilevel optimization to different learning fields, robots and communication networks.”
+Ji is a PI on the second NSF project, led by a faculty member at Rice University, Distributed Bilevel Optimization in Multi-Agent Systems, addresses a broader aspect of bilevel optimization and could help implement the practice for modern day use.
+Bilevel optimization in several fields like machine learning, signal processing, communication, optimal control and energy to power systems – whether using small-scale or large-scale data – has primarily focused on single-agent systems. These single-agent systems feature one machine that learns and trains itself. However, most applications in power systems, communication and energy often require problem solving in multi-agent distributed networks. According to Ji, his second project will determine how to implement bilevel optimization in these networks that feature several machines, each connecting to a server.
+The project examines bilevel optimization in three different types of multi-agent systems, including decentralized, federated and distributed. While each type of system is different, Ji compares distributed bilevel optimization to the relationship a medical doctor has with their patients.  
+“In a decentralized system, the different agents each communicate with the same server, but these agents do not communicate with each other,” Ji says. “Each agent is like the patient. They have their own private record, so they will not transmit or communicate this information to the other patients. The server can be regarded as the doctor who communicates with each patient.”
+Developing a feasible and practical algorithm for bilevel optimization in multi-agent systems will take time, but Ji is confident this idea can enhance the efficiency of major power networks.
+Each project builds upon the other, according to Ji, and together, has the potential to transform the way society’s critical systems.
+“We will first try to develop the efficient distributed bilevel project with theory, and then apply it,” Ji says. “This will improve the communication networks and power networks.”
+Ji is working with Rice University associate professor Shiqian Ma on each of the projects
+UB is actively monitoring developments related to COVID-19. Please check with event organizers for the most up-to-date information about scheduled events. 
+UPCOMING SEAS EVENTS
+Mar
+11
+WOAA x DREAM — Technical Workshop AVL Part One
+5:00 PM - 6:00 PM
+Mar
+12
+MAE Seminar — Beyond Horizon: A One-Shot Space Exploration Paradigm Through Autonomous Space Systems
+11:00 AM - 12:00 PM
+Furnas Hall - Room 206
+Mar
+12
+Materials Design and Innovation Exploration Day
+11:30 AM - 1:00 PM
+Davis Hall – Salvador Lounge (2nd Floor)
+Mar
+12
+ISE — INDUSTRY PANEL 2024
+6:00 PM - 7:30 PM
+Mar
+13
+WiSE and Career Design Center — Science and Tech Interview Blitz
+2:00 PM - 4:00 PM
+MORE UPCOMING SEAS EVENTS
+LATEST NEWS
+3/7/24 Everything to know about OpenAI's new text-to-video generator
+3/7/24 College students love Sidechat. Colleges, not so much.
+2/27/24 Xiong recognized for contributions to semiconductor manufacturing process
+2/23/24 Amazon Accused Of Using AI Voices For “Road House” Remake
+2/21/24 UB computer science professor weighs in on bias in facial recognition software
+MORE NEWS
+
+SHARE THE NEWS
+Have some news or an event to share with us? Please send it to cse-dept@buffalo.edu.
+CONNECT WITH US
+Connect With Us
+Computer Science and Engineering
+338 Davis Hall
+Buffalo, New York 14260-2500
+(716) 645-3180
+Quick Links
+Why Choose CSE?
+News & Events
+Employment Opportunities
+Give to CSE
+Contact Us
+Admissions
+Undergraduate Admissions
+Graduate Admissions
+Explore Further
+Get Involved
+Engineering and Applied Sciences Alumni Association
+Support SEAS
+Collaborate with UB
+On This Website
+About Us
+Undergraduate Programs
+Graduate Programs
+Research
+People
+News & Events
+Full Site Map
+Information For
+Students
+Faculty and Staff
+Alumni
+© 2024 University at Buffalo. All rights reserved.  |  Privacy  |  Accessibility

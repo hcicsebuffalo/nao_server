@@ -1,0 +1,153 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Graduate Catalog
+2023-2024 Undergraduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Archived Catalogs
+General Catalog Information
+Majors and Combined Degrees
+Minors, Certificates and Micro-Credentials
+Departments & Programs
+Courses
+UB Curriculum (General Education)
+Academic Policies and Procedures
+Academic Calendar
+Campus Facilities and Instructional Spaces
+Financial and Scholarship Information
+Admissions
+Student Records and Registration
+Academic Advising
+Learning Outside the Classroom
+Study Abroad
+myUB
+HUB Academic Advisement Report
+Accreditations
+a
+Statistics BA
+Every day, around the world, people use data to make decisions. But where does this data come from? Who interprets it, and how does their interpretation influence our decisions? If you like working with data and you’re good with math, then think about statistics as a way to bring together all of your talents, skills and interests. Whether you want to shape public policy, design clinical trials, help organizations grow or improve healthcare outcomes, see how you can change the world as a statistician.
+Visit the Statistics academic program page for more information about the academic experience, who you will learn from, opportunities outside of class and what you can do with this degree.
+Visit the Biostatistics department page for contact information, a brief overview of the department and the curricular options.
+Admission Criteria
+Current students wishing to pursue the Statistics BA must follow the instructions on the School of Public Health and Health Professions change of major form. 
+Course Requirements
+Statistics Core (18 credits)
+STA 119LEC - Statistical Methods Credits: 3 AND
+STA 119REC - Statistical Methods Credits: 1
+ STA 301LEC - Intro to Probability Credits: 3 AND
+STA 301REC - Intro to Probability Credits: 1
+ STA 302LEC - Intro Stat Inference Credits: 3 AND
+STA 302REC - Intro Stat Inference Credits: 1
+ STA 403LEC - Regression Analysis Credits: 3
+STA 404LEC - Design of Experiments Credits: 3
+Additional Course Requirements (23 credits)
+CSE 115LLR - Introduction to Computer Science I Credits: 4
+PUB 101LEC - Introduction to Public Health Credits: 3
+MTH 141LR - College Calculus I Credits: 4
+MTH 142LR - College Calculus 2 Credits: 4
+MTH 241LR - College Calculus 3 Credits: 4
+MTH 309LR - Introductory Linear Algebra Credits: 4
+Three Restricted Electives (3-12 credits)
+STA 306LEC - Introduction to Statistical Computing with SAS I Credits: 3
+STA 309LEC - Stat Quality Control Credits: 3
+STA 361LEC - Statistical Programming in R (I) Credits: 3
+STA 411LEC - Prob & Stoch Processes Credits: 3
+STA 415LEC - Distribution Free Inference Credits: 3
+STA 431LEC - Sample Surveys Theory-Methods Credits: 3
+STA 461LEC - Appld Time Series Analys Credits: 4
+STA 471LEC - Topics in Statistics 1 Credits: 1-4
+STA 472LEC - Topics in Statistics 2 Credits: 3
+*MTH 311 may be substituted for one of the restricted electives
+Total Credits Required for Major: 44-53
+Additional Degree Requirements Include:
+Additional coursework to fulfill UB Curriculum requirements
+Elective courses as needed to complete the 120 credit hour total
+Total Credits Required for Graduation: 120
+Total Credit Hours Required represents the minimum credits needed to complete this program, and may vary based on a number of circumstances. This should not be used for financial aid purposes.
+Notes
+The department does require a GPA of 2.500 or higher in the following lower division courses to keep the status of statistics major: MTH 141LR, MTH 142LR and STA 119LEC/STA 119REC 
+Students not attaining the 2.500 average will need to retake courses to improve their average or they will be removed from the program.
+Students intending to pursue graduate work in statistics are strongly encouraged to take additional mathematics courses.
+Academic Requirements
+Minimum major GPA of 2.000 required for graduation.
+All Statistics students will be academically reviewed at the end of each semester after grades are posted. Academic review standards are as follows:
+Minimum UB GPA of 2.000
+Minimum major GPA of 2.000
+Students identified after academic review each semester who do not meet these requirements will be notified via their UB Email account. The first semester that students receive a warning notification they will be mandated to make an advising appointment before registering for next semester’s classes (enforced with a hold). Second semester of not meeting criteria will mandate that the student attend an SPHHP sponsored workshop on academic improvement and mandate them to meet with an academic advisor (enforced with service indicator). When a student is identified with 3 semesters of academic warning the student will be removed from the major. Academic reviews are conducted following Fall and Spring semesters only. Courses repeated during the winter and/or summer are not factored into the review.
+Students who are academic dismissed from the Statistics BA major have one (1) opportunity to appeal to the program director.
+Curricular Plan
+A Curricular Plan provides a roadmap for completing this academic program and the UB Curriculum on time. Your actual plan may vary depending on point of entry to the university, course placement and/or waivers based on standardized test scores, earned alternative credit and/or college transfer credit.
+First Year Fall
+UB Seminar Credits: 3
+STA 119LEC - Statistical Methods Credits: 3
+STA 119REC - Statistical Methods Credits: 1
+ENG 105LEC - Writing and Rhetoric Credits: 4 OR Pathway Credits: 3
+MTH 141LR - College Calculus I Credits: 4
+Total Credits: 14 or 15
+First Year Spring
+CSE 115LLR - Introduction to Computer Science I Credits: 4
+PUB 101LEC - Introduction to Public Health Credits: 3
+Elective Credits: 3
+ENG 105LEC - Writing and Rhetoric Credits: 4 OR Pathway Credits: 3
+MTH 142LR - College Calculus 2 Credits: 4
+Total Credits: 17 or 18
+Second Year Fall
+MTH 241LR - College Calculus 3 Credits: 4
+Pathway Credits: 3
+Pathway Credits: 3
+STA 301LEC - Intro to Probability Credits: 3
+STA 301REC - Intro to Probability Credits: 1
+Scientific Literacy and Inquiry 1 Credits: 3
+Total Credits: 17
+Second Year Spring
+STA 302LEC - Intro Stat Inference Credits: 3
+STA 302REC - Intro Stat Inference Credits: 1
+Communication Literacy 2 (ENG 353 recommended) Credits: 3
+Pathway Credits: 3
+Pathway Credits: 3
+MTH 309LR - Introductory Linear Algebra Credits: 4
+Total Credits: 17
+Third Year Fall
+UBC 399MNT - UB Curriculum Capstone Credits: 1
+Pathway Credits: 3
+STA 403LEC - Regression Analysis Credits: 3
+Pathway Credits: 3
+Scientific Literacy and Inquiry 2 Credits: 3
+Scientific Literacy and Inquiry Lab Credits: 1 
+Total Credits: 14
+Third Year Spring
+Stats Elective Credits: 3
+STA 404LEC - Design of Experiments Credits: 3
+Elective Credits: 3
+Elective Credits: 3
+Stats Elective Credits: 3
+Total Credits: 15
+Fourth Year Fall
+Stats Elective Credits: 4
+300/400-level Elective Credits: 3
+300/400-level Elective Credits: 3
+Elective Credits: 4
+Total Credits: 13
+Fourth Year Spring
+Elective Credits: 3
+300/400-level Elective Credits: 3
+300/400-level Elective Credits: 3
+300/400-level Elective Credits: 3
+Total Credits: 12
+Total Credits Required: 120
+Note: Some classes may count toward both a major and UB Curriculum requirement.
+Learning Outcomes
+Students completing the statistics major are expected to have demonstrated knowledge of the following:
+An understanding of probability theory, its application to everyday problems and the important role probability plays in data analysis and decision making
+The ability to identify the proper statistical technique needed for the analysis of data in a variety of contexts
+How to design data collection experiments in a way that allows for optimal decision making while being subject to real-world constraint
+  (HEGIS: 17.02 STATISTICS, CIP: 27.0501 Statistics, General)
+  Return to: Majors and Combined Degrees
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2024 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

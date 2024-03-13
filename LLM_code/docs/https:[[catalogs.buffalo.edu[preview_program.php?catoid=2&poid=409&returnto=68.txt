@@ -1,0 +1,126 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Graduate Catalog
+2023-2024 Graduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Graduate School Policies and Procedures
+A-Z Program List
+Courses
+Department/Program
+Degree Level
+Accreditations
+Class Schedule
+myUB
+a
+Computational and Applied Mathematics MS
+The demand for a professional labor force skilled in data analysis and statistical methods, alongside scientific computation and other applied mathematics techniques, and has grown tremendously over the last decade, and all indications are that such growth will further accelerate in the near future. The UB Department of Mathematics Master of Science (MS) Degree Program in Computational and Applied Mathematics provides students with the skills required to enter the 21st-century professional workforce, thus making them highly employable in various industries based locally, nationwide, and worldwide.
+Apply Now
+Request More Information
+Flexible concentration areas
+Students completing the MS program will have acquired highly marketable techniques involving networks, complex systems, machine learning and data analysis alongside more traditional topics such as probability, statistics, computational methods and other applied mathematics methods.
+The MS program includes three tracks:
+Applied Probability and Statistics
+Computation (including high-performance computing, data-intensive computing, and data science)
+Complex Systems (including network science)
+Applied Probability & Statistics Track
+Applied Probability & Statistics Required Core (24 credits)
+MTH 511LEC - Probability Theory Credits: 3
+MTH 512LEC - Intro Statistical Inferenc Credits: 3
+MTH 537LEC - Intro Numeric Analysis 1 Credits: 3
+MTH 538LEC - Intro Numeric Analysis 2 Credits: 3
+MTH 543LEC - Fundamen Applied Math 1 Credits: 3
+MTH 546LEC - Stochastic Processes Credits: 3
+MTH 548LEC - Data-oriented Computing Credits: 3
+MTH 589TUT - Project Guidance Credits: 3
+Applied Probability & Statistics Electives (9 credits)
+Select 3 from:
+Or another graduate level course with approval by the Program Director. 
+MTH 539LEC - Method of Applied Math 1 Credits: 3
+MTH 550LEC - Network Theory Credits: 3
+MTH 555LEC - Introduction to Complex Systems Credits: 3
+MTH 558LEC - Mathematical Finance Credits: 3
+MTH 559LEC - Mathematical Finance 2 Credits: 3
+MTH 644LEC - Large Deviations Theory and Rare Event Simulation Credits: 3
+Culminating Experience: Project (0 credits)
+completed in required course MTH 589 
+Total Credit Hours: 33
+3.0 Degree GPA required
+  Computation Track
+Computation Track Required Core (24 credits)
+MTH 511LEC - Probability Theory Credits: 3
+MTH 512LEC - Intro Statistical Inferenc Credits: 3
+MTH 537LEC - Intro Numeric Analysis 1 Credits: 3
+MTH 538LEC - Intro Numeric Analysis 2 Credits: 3
+MTH 543LEC - Fundamen Applied Math 1 Credits: 3
+MTH 548LEC - Data-oriented Computing Credits: 3
+MTH 589TUT - Project Guidance Credits: 3
+MTH 667LEC - High Perform Computing 1 Credits: 3
+Computation Track Electives (9 credits)
+Select 3 from:
+Or another graduate level course with approval by the Program Director. 
+CSE 574LEC - Introduction to Machine Learning Credits: 3
+MTH 555LEC - Introduction to Complex Systems Credits: 3
+MTH 637LEC - Adv Numerical Analysis 1 Credits: 3
+MTH 644LEC - Large Deviations Theory and Rare Event Simulation Credits: 3
+MTH 648LEC - Data-Oriented Computing II Credits: 3
+Culminating Experience: Project (0 credits)
+completed in required course MTH 589 
+Total Credit Hours: 33
+3.0 Degree GPA required
+  Complex Systems Track
+Complex Systems Track Required Core (24 credits)
+MTH 511LEC - Probability Theory Credits: 3
+MTH 512LEC - Intro Statistical Inferenc Credits: 3
+MTH 537LEC - Intro Numeric Analysis 1 Credits: 3
+MTH 538LEC - Intro Numeric Analysis 2 Credits: 3
+MTH 543LEC - Fundamen Applied Math 1 Credits: 3
+MTH 548LEC - Data-oriented Computing Credits: 3
+MTH 555LEC - Introduction to Complex Systems Credits: 3
+MTH 589TUT - Project Guidance Credits: 3
+Complex Systems Track Electives (9 credits)
+Select 3 from:
+Or another graduate level course with approval by the Program Director. 
+MTH 546LEC - Stochastic Processes Credits: 3
+MTH 550LEC - Network Theory Credits: 3
+MTH 644LEC - Large Deviations Theory and Rare Event Simulation Credits: 3
+MTH 648LEC - Data-Oriented Computing II Credits: 3
+Culminating Experience: Project (0 credits)
+completed in required course MTH 589 
+MTH 589TUT - Project Guidance Credits: 3
+(Elective 2)
+(Elective 3)
+Total Credit Hours: 33
+3.0 Degree GPA required
+  Instruction Method
+In Person (100 percent of courses offered in person)
+Full/Part Time Options
+Full Time
+Part Time
+Credits Required
+33 Hours
+Time-To-Degree
+2 to 4 Years
+Application Fee
+$75
+Admission Tests **
+GRE
+Program Contact
+Jenny Russell
+244 Math Building
+Email: jennyr@buffalo.edu
+Phone: 716-645-8782
+Fax: 716-645-5039
+SED Statement
+This program is officially registered with the New York State Education Department (SED).
+Online programs/courses may require students to come to campus on occasion. Time-to-degree and number of credit hours may vary based on full/part time status, degree, track and/or certification option chosen. Time-to-degree is based on calendar year(s). Contact the department for details.
+** At least one of the admissions tests are required for admission. Test and score requirements/exceptions vary by program. Contact the department for details.
+Return to: A-Z Program List
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2024 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

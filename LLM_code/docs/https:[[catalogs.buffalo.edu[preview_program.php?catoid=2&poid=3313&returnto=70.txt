@@ -1,0 +1,92 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Graduate Catalog
+2023-2024 Graduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Graduate School Policies and Procedures
+A-Z Program List
+Courses
+Department/Program
+Degree Level
+Accreditations
+Class Schedule
+myUB
+a
+Engineering Science MS: Cybersecurity
+The Engineering Science MS program with a course focus in Cybersecurity is an interdisciplinary program in partnership with the UB School of Management. This program is designed for graduates and IT professionals looking to enhance their knowledge and expertise in cybersecurity. It equips students with the necessary skills to pursue various roles, including cybersecurity analysts, engineers, administrators, or consultants in industries or government sectors.
+The curriculum encompasses essential concepts in cybersecurity, covering foundational principles and imparting practical skills. Students will gain hands-on experience applying security solutions and utilizing tools to safeguard cyber infrastructures. The program emphasizes real-world applications in sectors such as healthcare, manufacturing, and transportation systems, enabling students to protect critical systems from cyber threats effectively.
+Apply Now
+Request More Information
+Required Core (15 credits)
+* Indicates a new course and/or course under development. 
+MTH 535LEC - Intro to Cryptography Credits: 3
+OR
+EAS 5XX - Cryptography and Computer Security* (3 credits)
+ CSE 503LR - Computer Science for Non Majors Credits: 3
+CSE 5XX - Network Security* (3 credits)
+MGS 650LEC - Information Assurance Credits: 3
+ CDA 551LEC - Cybersecurity, Privacy & Ethics Credits: 3
+OR
+MGS 639LEC - Cybersecurity, Privacy & Ethics Credits: 3
+Focus Area (9 credits)
+Select 3 from:
+CSE 510LEC - Special Topics Credits: 1 - 3
+CSE 5XX - AI/ML and Security*  Credits: 3
+EAS 5XX - Systems Security*  Credits: 3
+CSE 518LEC - Software Security Credits: 3
+MGS 610LEC - Digital Forensics Credits: 3
+Electives & Culminating Experience (6 credits)
+Electives (6 credits)
+Select 2 from (One course must include a major project as indicated below): 
+CSE 510LEC - Special Topics Credits: 1 - 3
+CSE 518LEC - Software Security Credits: 3
+CSE 526LEC - Blockchain Application Development Credits: 3
+CSE 529LEC - Algorithms for Modern Computing Systems Credits: 3
+CSE 535LEC - Information Retrieval Credits: 3
+CSE 540LEC - Machine Learning and Society Credits: 3
+ EAS 5XX or MGS 6XX - Cybersecurity Analytics*  Credits: 3
+EAS 5XX or MGS 6XX - Cloud Security*  Credits: 3
+EAS 5XX - Cybersecurity Project* Credits: 3
+ CDA 502LEC - Database Management Systems Credits: 3
+or
+MGS 613LEC - Database Mgmt Systems Credits: 3
+Culminating Experience: Integrated Project
+The culminating experience requirement can be completed as a part of a pre-approved experience-based elective course or through a pre-approved internship or industry certification audit and review, or as supervised work with a faculty member.
+The following elective courses (from the list above) contain a major culminating project and should be 1 of your 2 electives :
+CSE 510LEC - Special Topics Credits: 1 - 3
+CSE 510 Course Topic: Hardware Trust and Security
+CSE 526LEC - Blockchain Application Development Credits: 3
+CSE 540LEC - Machine Learning and Society Credits: 3
+EAS 5XX - Cybersecurity Project*  Credits: 3
+Total Credit Hours: 30
+3.0 Degree GPA required
+  Instruction Method
+In Person (100 percent of courses offered in person)
+Full/Part Time Options
+Full Time
+Part Time
+Credits Required
+30 Hours
+Time-To-Degree
+1 to 2 Years
+Application Fee
+$85
+Program Contact
+School of Engineering and Applied Sciences
+Office of Graduate Education
+415 Bonner Hall
+Buffalo, NY 14260
+Email: gradeng@buffalo.edu
+SED Statement
+This program is officially registered with the New York State Education Department (SED).
+Online programs/courses may require students to come to campus on occasion. Time-to-degree and number of credit hours may vary based on full/part time status, degree, track and/or certification option chosen. Time-to-degree is based on calendar year(s). Contact the department for details.
+Return to: Department/Program
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2024 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

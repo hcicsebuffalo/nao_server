@@ -1,0 +1,237 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Graduate Catalog
+2023-2024 Undergraduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Archived Catalogs
+General Catalog Information
+Majors and Combined Degrees
+Minors, Certificates and Micro-Credentials
+Departments & Programs
+Courses
+UB Curriculum (General Education)
+Academic Policies and Procedures
+Academic Calendar
+Campus Facilities and Instructional Spaces
+Financial and Scholarship Information
+Admissions
+Student Records and Registration
+Academic Advising
+Learning Outside the Classroom
+Study Abroad
+myUB
+HUB Academic Advisement Report
+Accreditations
+a
+Computer Science BS
+Do you think in algorithms? Are you good at math? Do you enjoy solving problems? Then welcome to computer science, where you can learn how developers build billion-dollar apps, use artificial intelligence to address climate change, and protect computer systems from cyber attacks. As one student put it, UB’s computer science program is for people who like logic and theory, but also want the “practicality and applicability” of being a developer or programmer.
+Visit the Computer Science academic program page for more information about the academic experience, who you will learn from, opportunities outside of class and what you can do with this degree.
+Visit the Computer Science and Engineering department page for contact information, a brief overview of the department and the curricular options.
+Admission Criteria
+Minimum overall GPA of 2.800 required
+Matriculated student with academic good standing at the University at Buffalo.
+Satisfactory performance in a series of core courses (see below). There are two paths to meet this requirement.
+Standard: Completion of four core courses with a combined core course grade point average of at least 2.500.
+Fast-Track: Completion of at least two of the four core courses (graded on an A-F bases) with a combined core course grade point average of at least 3.000.
+Computer Science / Bioinformatics Courses Core Courses:
+Calculus 1 (MTH 141 or MTH 153)
+Introduction to Computer Science for Majors 1 (CSE 115)
+Introduction to Computer Science for Majors 2 (CSE 116)
+Discrete Structures (CSE 191 or MTH 191)
+  Current students wishing to pursue the Computer Science BS must follow the instructions on the School of Engineering and Applied Sciences Supplemental Application. See the complete School of Engineering and Applied Sciences Admissions Policies for details.
+Course Requirements
+Computer Science Core (53-54 credits)
+CSE 115LLR - Introduction to Computer Science I Credits: 4 *
+CSE 116LLB - Introduction to Computer Science II Credits: 4
+CSE 191LR - Introduction to Discrete Structures Credits: 4
+CSE 199SR - UB Seminar Credits: 3
+CSE 220LLB - Systems Programming Credits: 4
+CSE 250LR - Data Structures Credits: 4
+CSE 305LR - Introduction to Programming Languages Credits: 4
+CSE 331LR - Algorithms and Complexity Credits: 4
+CSE 341LR - Computer Organization Credits: 4
+EAS 360LEC - STEM Communications Credits: 3
+MTH 141LR - College Calculus I Credits: 4
+MTH 142LR - College Calculus 2 Credits: 4
+MTH 309LR - Introductory Linear Algebra Credits: 4
+ Capstone Requirement (select one):
+CSE 402LEC - Experiential Learning/Research Capstone Credits: 3
+CSE 442LR - Software Engineering Credits: 4
+CSE 443LR - Compilers Credits: 4
+CSE 494SEM - Senior Capstone/Seminar Credits: 3
+One calculus-based probability or statistics course (4 credits)
+EAS 305LR - Applied Probability and Statistics Credits: 4
+MTH 411LR - Probability Theory Credits: 4
+ STA 301LEC - Intro to Probability Credits: 3 AND
+STA 301REC - Intro to Probability Credits: 1
+Six CSE Electives (18-24 credits)
+The CSE elective requirement consists of six courses: three from required Topic Areas, two within a Specialization Area, and one general upper-level CSE course. The three required Topic Areas are (1) Theory, (2) Hardware Systems and Networking, and (3) Artificial Intelligence. Students select one course from the relevant Topic Area course lists provided below. The Specialization Area requirement is satisfied by completing two additional courses, both from one of the following Topic Areas: (1) Theory, (2) Hardware Systems and Networking, (3) Artificial Intelligence, (4) Software Systems, and (5) Experiential Learning and Research. The general upper-level CSE course requirement is satisfied by a 3- or 4-credit 300- or 400-level CSE course not otherwise applied to requirements for the computer science degree. Note that the non-lecture-based courses CSE 496, CSE 498, and CSE 499 may be used to satisfy the general upper-level CSE course requirement.
+Theory Area Courses:
+CSE 396LR - Introduction to the Theory of Computation Credits: 4
+CSE 429LEC - Algorithms for Modern Computing Systems Credits: 3
+CSE 430LEC - Topics in Theoretical Computer Science Credits: 3
+CSE 431LEC - Algorithms Analysis and Design Credits: 3
+CSE 432LEC - Randomized Algorithms Analysis and Design Credits: 3
+CSE 439LEC - Quantum Computation through Linear Algebra Credits: 3
+CSE 445LEC - Coding Theory Credits: 3
+CSE 491LEC - Introduction to the Theory of Computation Credits: 3
+Hardware Systems and Networking Area Courses:
+CSE 379LLB - Introduction to Microprocessors Credits: 4
+CSE 450LEC - Hardware/Software Integrated Systems Design I Credits: 3
+CSE 453LEC - Hardware/Software Integrated Systems Design 2 Credits: 3
+CSE 454LEC - Applied Computational Intelligence Credits: 3
+CSE 486LEC - Distributed Systems Credits: 3
+CSE 489LEC - Modern Networking Concepts Credits: 3
+CSE 490LEC - Computer Architecture Credits: 3
+CSE 493LLB - Introduction to VLSI Electronics Credits: 4
+Artificial Intelligence Area Courses:
+CSE 368LR - Introduction to Artificial Intelligence Credits: 4
+CSE 428LEC - Introduction to Digital Image Processing Credits: 3
+CSE 440LEC - Machine Learning and Society for Majors Credits: 3
+CSE 446LEC - Reinforcement Learning Credits: 3
+CSE 455LEC - Introduction to Pattern Recognition Credits: 3
+CSE 463LEC - Knowledge Representation Credits: 3
+CSE 467LEC - Computational Linguistics Credits: 3
+CSE 468LEC - Robotics Algorithms Credits: 3
+CSE 469LEC - Introduction to Data Mining Credits: 3
+CSE 473LEC - Introduction to Computer Vision and Image Processing Credits: 3
+CSE 474LEC - Introduction to Machine Learning Credits: 3
+Software Systems Area Courses:
+CSE 306LLB - Software Quality in Practice Credits: 4
+CSE 312LR - Introduction to Web Applications Credits: 4
+CSE 321LR - Real -Time and Embedded Operating Systems Credits: 4
+CSE 365LR - Introduction to Computer Security Credits: 4
+CSE 370LR - Applied Human Computer Interaction and Interface Design Credits: 4
+CSE 404LR - Software Project Management Credits: 3
+CSE 409LEC - Advanced Blockchain Concepts Credits: 3
+CSE 411LEC - Introduction to Computer Systems Administration Credits: 3
+CSE 421LEC - Introduction to Operating Systems Credits: 3
+CSE 426LEC - Blockchain Application Development Credits: 3
+CSE 427LEC - Systems Security Credits: 3
+CSE 435LEC - Information Retrieval Credits: 3
+CSE 460LEC - Data Models and Query Languages Credits: 3
+CSE 462LEC - Database Systems Credits: 3
+CSE 470LEC - Introduction to Parallel and Distributed Processing Credits: 3
+CSE 487LEC - Data Intensive Computing Credits: 3
+Experiential Learning and Research Area Courses:
+CSE 302LR - Intro to Experiential Learning/Research Credits: 3
+CSE 303LEC - Intermediate Experiential Learning/Research Credits: 3
+Science Sequence (7-9 credits)
+Students must complete at least 7 credits, including at least one credit of laboratory, from the following lists. Laboratory courses must be from the same subject area as one of the completed lecture courses.
+  BIO 200LLB - Evolutionary Biology Credits: 5
+CHE 101LR - General Chemistry Credits: 4
+CHE 102LR - General Chemistry Credits: 4
+CHE 105LLR - Chemistry: Principles and Applications Credits: 5
+CHE 106LLR - Chemistry: Principles and Applications Credits: 5
+CHE 107LR - General Chemistry for Engineers I Credits: 3.5
+CHE 108LR - General Chemistry for Engineers II Credits: 3.5
+CHE 113LAB - General Chemistry Credits: 1
+CHE 114LAB - General Chemistry Credits: 1
+CHE 127LAB - General Chemistry for Engineers Laboratory 1 Credits: 0.5
+CHE 128LAB - General Chemistry for Engineers Laboratory 2 Credits: 0.5
+GLY 101LEC - Natural Hazards Credits: 3
+GLY 102LEC - Climate Change Credits: 3
+GLY 103LEC - Geology for Engineers Credits: 3
+GLY 104LAB - Earth History & Fossils Lab Credits: 1
+GLY 105LAB - Natural Hazards and Climate Change:Past, Present, Future Credits: 1
+PHY 107LR - General Physics I Credits: 4
+PHY 108LR - General Physics II Credits: 4
+PHY 117LR - Honors Physics I Credits: 4
+PHY 118LR - Honors Physics II Credits: 4
+PHY 158LAB - General Physics II Lab Credits: 1 ***
+One Additional Math or Science course (3 credits):
+Can be satisfied through any of the following: [except courses used to satisfy any other degree requirement or scientific literacy sequence required for UB Curriculum]
+Any 200-level or higher MTH or STA course (excludes MTH 411, STA 301, STA 301, and MTH 495-MTH 499/ STA 495-STA 499); OR
+Any 200- level or higher (excluding 495-499) course in BIO, CHE, GLY or PHY; OR
+Any course in an approved UB Curriculum Scientific Literacy sequence
+Notes
+*Students are permitted to take alternative programming courses EAS 230 or EAS 240 in lieu of CSE 115, however CSE 115 is strongly preferred for Computer Science majors. The alternative programming courses should only be utilized by students transferring into the program with EAS 230, EAS 240, or EAS 999TRCP (general programming for transfer students) already completed. View our Computer Programming Requirement website for more information on the programming alternatives and self-study packages. 
+*Students are permitted to use PHY 151 and PHY 152  in lieu of PHY 158, however PHY 158 is preferred.
+All courses are not offered every semester. Please check the undergraduate schedule ahead for planning.
+Total Credits Required for Major: 85-94
+Additional Degree Requirements Include:
+Additional coursework to fulfill UB Curriculum requirements
+Elective courses as needed to complete the 120 credit hour total
+Total Credits Required for Graduation: 120
+Total Credit Hours Required represents the minimum credits needed to complete this program, and may vary based on a number of circumstances. This should not be used for financial aid purposes.
+Academic Requirements
+Students in the School of Engineering and Applied Sciences must have a minimum GPA of 2.000 in technical classes (engineering, math, and science classes) to be in good standing and graduate with an undergraduate degree. To maintain academic standards and determine eligibility for continued enrollment, the School of Engineering and Applied Sciences reviews the academic records of all students in an approved undergraduate SEAS major. This academic review is conducted at the end of each fall and spring semester.
+View the School of Engineering and Applied Sciences Academic Review Policy
+Transfer Credit Policy
+Students seeking a BA degree in computer science must complete at least six required CSE courses at UB, and at least four of these courses must be at the 300 or 400 level (excluding CSE 492 CSE 494 and CSE 499).
+Curricular Plan
+A Curricular Plan provides a roadmap for completing this academic program and the UB Curriculum on time. Your actual plan may vary depending on point of entry to the university, course placement and/or waivers based on standardized test scores, earned alternative credit and/or college transfer credit. 
+First Year Fall
+CSE 199SR - UB Seminar Credits: 3
+CSE 115LLR - Introduction to Computer Science I Credits: 4
+MTH 141LR - College Calculus I Credits: 4
+ENG 105LEC - Writing and Rhetoric Credits: 4 OR Pathway Credits: 3
+Total Credits: 14 or 15
+First Year Spring
+CSE 116LLB - Introduction to Computer Science II Credits: 4
+CSE 191LR - Introduction to Discrete Structures Credits: 4
+MTH 142LR - College Calculus 2 Credits: 4
+ENG 105LEC - Writing and Rhetoric Credits: 4 OR Pathway Credits: 3
+Total Credits: 15 or 16
+Second Year Fall
+CSE 220LLB - Systems Programming Credits: 4
+CSE 250LR - Data Structures Credits: 4
+Scientific Literacy Inquiry 1 Credits: 3
+Pathway Credits: 3
+Total Credits: 14
+Second Year Spring
+CSE 341LR - Computer Organization Credits: 4
+CSE 331LR - Algorithms and Complexity Credits: 4
+Pathway Credits: 3
+Pathway Credits: 3
+Scientific Literacy and Inquiry 2 Credits: 3
+Scientific Literacy and Inquiry Lab Credits: 1
+Total Credits: 18
+Third Year Fall
+CSE 305LR - Introduction to Programming Languages Credits: 4
+MTH 309LR - Introductory Linear Algebra Credits: 4
+Probability/Statistics Course Credits: 4
+Topic Area 1 Credits: 3
+Pathway Credits: 3
+Total Credits: 17
+Third Year Spring
+EAS 360LEC - STEM Communications Credits: 3
+Topic Area 2 Credits: 3
+Topic Area 3 Credits: 3
+CSE 300 or 400 Technical Elective Credits: 3
+Pathway Course Credits: 3
+Total Credits: 15
+Fourth Year Fall
+Specialization 1 Credits: 3
+Math or Science Elective Credits: 3
+Capstone Requirement Credits: 3-4
+Elective Credits: 3 
+UBC 399MNT - UB Curriculum Capstone Credits: 1
+Total Credits: 13-14
+Fourth Year Spring
+Specialization 2 Credits: 4
+Elective Credits: 3
+Elective Credits: 3
+Elective Credits: 3
+Total Credits: 13
+Total Credits Required: 120
+Note: Some classes may count toward both a major and UB Curriculum requirement.
+Learning Outcomes
+The curriculum provides opportunities for students to develop the following knowledge, skills, and behaviors by the time of graduation:
+Analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions.
+Design, implement and Evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline.
+Communicate effectively in a variety of professional contexts.
+Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles.
+Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline.
+Apply computer science theory and software development fundamentals to produce computing-based solutions.
+  (HEGIS: 07.01 COMPUTER & INFO SCI-GEN,&nbsp;CIP: 11.0701 Computer Science)
+  Return to: Majors and Combined Degrees
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2024 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

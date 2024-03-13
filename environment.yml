@@ -1,4 +1,4 @@
-name: bio1
+name: bio3
 channels:
   - pytorch
   - nvidia

@@ -1,0 +1,223 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Graduate Catalog
+2023-2024 Graduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Graduate School Policies and Procedures
+A-Z Program List
+Courses
+Department/Program
+Degree Level
+Accreditations
+Class Schedule
+myUB
+a
+Biomedical Informatics PhD
+Graduate study in biomedical informatics provides an in-depth foundation in evaluating and managing concepts and systems related to information management in healthcare, and biomedical research settings. Our graduates will be well prepared for technical, policy or planning leadership positions in healthcare, industry, or biomedical research settings. Our faculty have research portfolios including clinical informatics/decision support, bioinformatics/translational research informatics, biomedical ontologies, clinical population/public health informatics, and the socio-technical/human centered design of biomedical information systems.
+Apply Now
+Request More Information
+Curriculum and Requirements
+Our 72-credit-hour program builds your comprehensive knowledge of biomedical informatics while equipping you with highly specialized knowledge and research expertise in one of five key areas of our field.
+You may enter our PhD program directly or - with strong previous preparation in the basic biomedical sciences, mathematics or engineering - through our school’s interdisciplinary PhD Program in Biomedical Sciences.
+Direct Admission: Biomedical Informatics PhD
+First-Year Curriculum
+During your first year of study, you’ll rotate through divisional labs within our department to explore research disciplines and determine your area of interest.
+In addition to your lab rotations, you’ll take three required courses in our department during your first year of study - and, in the spring, a selective course in your research field.
+Fall Semester (10 credits)
+BMI 501SEM - Survey of Biomedical Informatics Credits: 3
+BMI 503SEM - Biomedical Informatics Credits: 3
+BMI 710SEM - Mentored Research Rotation Credits: 1 - 6
+Spring Semester (10 credits)
+BMI 504SEM - Research Methods in Biomedical Informatics Credits: 3
+BMI Selective (for your research area) 3 Credits
+BMI 710SEM - Mentored Research Rotation Credits: 1 - 6
+Second-Year Curriculum
+You’ll select your primary adviser and embark upon a research project in that faculty member’s lab. You’ll take an advanced selective course in your research field and expand upon your areas of knowledge by taking electives in our department or in other departments.
+Your second year of study culminates with your qualifying exam.
+Fall Semester (10 Credits)
+BMI Advanced Selective (for your research area)  Credits: 3
+BMI or other elective  Credits: 3
+BMI 710SEM - Mentored Research Rotation Credits: 1 - 6
+Spring Semester (10 credits)
+BMI or other elective  Credits: 3
+BMI or other elective  Credits: 3
+BMI 710SEM - Mentored Research Rotation Credits: 1 - 6
+Third-Year Curriculum
+From your third year of study on, you will:
+take additional electives courses
+complete more focused research rotations
+gain supervised teaching experience in one or more of our master’s degree courses
+complete, defend and publish your dissertation
+Fall Semester
+BMI or other elective  Credits: 3
+BMI 711TUT - BMI Dissertation Research Credits: 1 - 9
+Spring Semester
+BMI or other elective  Credits: 3
+BMI 711TUT - BMI Dissertation Research Credits: 1 - 9
+Fourth-Year Curriculum
+Fall Semester
+BMI or other elective  Credits: 2-3
+BMI 711TUT - BMI Dissertation Research Credits: 1 - 9
+Spring Semester
+BMI 711TUT - BMI Dissertation Research Credits: 1 - 9
+Fifth-Year Curriculum
+Fall Semester
+BMI 712TUT - BMI Dissertation Writing and Defense Preparation Credits: 1 - 9
+Spring Semester
+BMI 712TUT - BMI Dissertation Writing and Defense Preparation Credits: 1 - 9
+ Admission via Biomedical Sciences PhD
+First-Year Curriculum
+You will spend your first year in our interdisciplinary PhD Program in Biomedical Sciences (PPBS). You will have the chance to explore a variety of disciplines before committing to your specific research area.
+You will gain a broad base of experience and knowledge in our lab rotation system. You will collaborate with our renowned research scientists on cutting-edge research.
+You will build expertise as you complete our structured, interdisciplinary curriculum. You also will receive strong support to pursue your individual interests.
+By starting in the PPBS, your lab rotations will take place in other basic biomedical sciences departments as well as with our faculty in biomedical informatics.
+Your core PPBS courses will count as elective credits toward your PhD in biomedical informatics.
+1st Semester (17 credits)
+BMS 509TUT - Igpbs Laboratory Credits: 3 - 5
+BMS 510TUT - Igpbs Credits: 3 - 5
+BMS 514LEC - Introduction to Scientific Investigation and Responsible Conduct Credits: 2
+BMS 515LEC - Fundamentals of Biomedical Research I Credits: 4
+BMS 516LEC - Fundamentals of Biomedical Research II Credits: 3
+2nd Semester (13-17 credits)
+Number of credits may vary depending on choice made to complete the elective credits. Be sure to complete enough elective credit to reach 72 minimum total credit hours. 
+BMS 509TUT - Igpbs Laboratory Credits: 3 - 5
+BMS 510TUT - Igpbs Credits: 3 - 5
+BMS 511SEM - Fundamentals in Biomedical Sciences-Critiquing Scientific Literature Credits: 1
+2 electives from the PPBS curriculum
+Electives from the PPBS curriculum
+Select 2 from:
+BCH 519LEC - Bioinformatics & Comp Bio Credits: 3
+or
+GGB 519LEC - Bioinformatics and Comp Biol Credits: 3
+ BCH 611LEC - Advanced Microbial Genetics Credits: 2
+or
+GGB 611LEC - Advanced Microbial Genetics Credits: 2
+or
+MIC 611LEC - Advanced Microbial Genetics Credits: 2
+ BCH 507LEC - Protein Structure/Function Credits: 2 - 3
+BCH 508SEM - Gene Expression Credits: 2
+BE 500LEC - Special Topics Credits: 3
+BE 502LEC - Quantitative Analysis in Biomedical Engineering Credits: 3
+BE 570LEC - Current Topics in Medical Nanotechnology Credits: 3
+BMI 502SEM - Biomedical Informatics Application Domains: U.S. & International Credits: 3
+BMI 504SEM - Research Methods in Biomedical Informatics Credits: 3
+GGB 505LEC - Human and Medical Genetics Credits: 3
+MIC 512LEC - Graduate Immunology Credits: 2
+MIC 516LEC - Bacteriology Credits: 2
+NRS 520LEC - Cellular and Molecular Neuroscience Credits: 4
+NRS 524SEM - Quantitative Neuroanatomy Credits: 4
+ORB 510LEC - Saliva and the Oral Microbiome Credits: 4
+PGY 505LEC - Cellular and Molecular Physiology Credits: 4
+PMY 516LEC - Molecular Neuropsychopharmacology Credits: 3
+PMY 517LEC - Cancer and Cardiovascular Pharmacology Credits: 2
+PMY 526LEC - Trends in Pharmacological Sciences Credits: 2
+STB 531LEC - Principles of Protein Production and Molecular Analysis Credits: 3
+STB 535LEC - Structural Pharmacology Credits: 3
+STB 612SEM - Structural Biology Sem Credits: 1
+Second-Year Curriculum
+If you didn’t take them during your first year of study, you’ll need to have completed the following core BMI course requirements by the end of your second:
+You’ll take these courses in lieu of the electives your direct-admit peers take.
+In all other respects, your curriculum mirrors that of the second-year direct-admit curriculum.
+BMI 501SEM - Survey of Biomedical Informatics Credits: 3
+BMI 503SEM - Biomedical Informatics Credits: 3
+BMI 504SEM - Research Methods in Biomedical Informatics Credits: 3
+Third- through Fifth-Year Curriculum
+From your third year of study on, your curriculum mirrors that of the direct-admit curriculum.
+From your third year of study on, you will:
+take additional electives courses
+complete more focused research rotations
+gain supervised teaching experience in one or more of our master’s degree courses
+complete, defend and publish your dissertation
+Third-Year Curriculum
+Fall Semester
+BMI or other elective  Credits: 3
+BMI 711TUT - BMI Dissertation Research Credits: 1 - 9
+Spring Semester
+BMI or other elective  Credits: 3
+BMI 711TUT - BMI Dissertation Research Credits: 1 - 9
+Fourth-Year Curriculum
+Fall Semester
+BMI or other elective  Credits: 2-3
+BMI 711TUT - BMI Dissertation Research Credits: 1 - 9
+Spring Semester
+BMI 711TUT - BMI Dissertation Research Credits: 1 - 9
+Fifth-Year Curriculum
+Fall Semester
+BMI 712TUT - BMI Dissertation Writing and Defense Preparation Credits: 1 - 9
+Spring Semester
+BMI 712TUT - BMI Dissertation Writing and Defense Preparation Credits: 1 - 9
+ Selective and Advanced Selective Course Options
+Our selective courses address your area of research. You must take the relevant selective course during your first year of study and the relevant advanced selective course during your second.
+Selective Cource Options:
+BMI 505LLB - Advanced Bioinformatics and Translational Research Informatics Credits: 3
+BMI 506SEM - Clinical Population Research and Public Health Informatics Credits: 3
+BMI 507SEM - Clinical Informatics and Decision Support Credits: 3
+BMI 508SEM - Biomedical Ontology Credits: 3
+BMI 509SEM - Sociotechnical and Human-Centered Design Credits: 3
+Advanced Selective Course Options:
+BMI 705 - Advanced Topics in Clinical Informatics and Decision Support  Credits:3
+BMI 706 - Advanced Topics in Bioinformatics and Translational Research Informatics  Credits: 3
+BMI 709 - Advanced Topics in Sociotechnical & Human-Centered Design in BMI Credits: 3
+BMI 707LAB - Advanced Topics in Bioinformatics and Translational Research Informatics Credits: 3
+BMI 708SEM - Advanced Topics in Biomedical Ontology Credits: 3
+Elective Course Options:
+In addition to choosing from the list below, you may take additional selective courses and/or other UB graduate courses as electives, with your faculty advisor’s approval.
+BMI 605 - Organizational Leadership & Change Management for Biomedical Informatics&nbsp; Credits: 2
+BMI 703 - Advanced Data Mining and Cost Analysis Methods in BMI  Credits: 3
+BMI 704 - Advanced Evaluation and Cost Analysis Methods in BMI  Credits: 3
+BMI 698SEM - Special Topics Credits: 3
+BMI 701SEM - Special Topics Credits: 3
+BMI 702LAB - Special Topics Credits: 3
+BMI 714SEM - Principles of Referent Tracking in Biomedical Informatics Credits: 3
+PhD Qualifying Exam
+You’ll prepare a written dissertation research proposal - including a literature review and a progress report of your preliminary studies - and defend it before our faculty.
+If your faculty advisor and our program director have concerns about your knowledge and readiness to proceed with your proposed research after your presentation, you may be asked to take a written exam as well.
+After successfully completing this process - typically at the end of your second year and no later than the end of your fifth semester - you’ll become a PhD candidate in our program.
+Dissertation Research
+You’ll conduct your thesis research under the supervision of your primary faculty advisor, who will also chair your dissertation advisory committee.
+Once you pass your qualifying exam, you and your advisor will select two to three members of UB’s graduate faculty to serve on your committee. Including your primary advisor, at least two of these committee members must have primary faculty appointments in our department, and at least one must have a primary appointment in another UB department.
+You’ll regularly update committee members on your research progress, and they will offer feedback and advice in return.
+You’ll write your thesis as an original contribution to the scientific, peer-reviewed literature. You’ll also complete an oral defense of your research methods and results before your committee, and present your thesis in a public seminar.
+Other Program Requirements
+During both your first and third years of study, you’ll be required to:
+complete an online self-study course on the protection of human research subjects
+attend two in-person training session on good research practices
+You’ll also be expected to contribute to our departmental Journal Club. We require that you participate in at least half of these sessions during your first two years in the program and at least a quarter of them during your last three.
+Our PhD candidates regularly attend and present at our departmental seminars as well.
+During your first two years in our program, you’ll be required to attend at least half of these presentations; during your last three years, you’ll be required to attend at least a quarter of them and give at least one presentation.
+Total Credit Hours: 72
+3.0 Degree GPA required
+  Instruction Method
+In Person (100 percent of courses offered in person)
+Full/Part Time Options
+Full Time
+Part Time
+Credits Required
+72 Hours
+Time-To-Degree
+4 to 5 Years
+Application Fee
+N/A
+Admission Tests **
+GRE
+MCAT
+Program Contact
+Cheryl Kennedy
+77 Goodell Street, Suite 540
+Buffalo, NY 14203
+Email: bmigrad@buffalo.edu
+Phone: 716-888-4847
+SED Statement
+This program is officially registered with the New York State Education Department (SED).
+Online programs/courses may require students to come to campus on occasion. Time-to-degree and number of credit hours may vary based on full/part time status, degree, track and/or certification option chosen. Time-to-degree is based on calendar year(s). Contact the department for details.
+** At least one of the admissions tests are required for admission. Test and score requirements/exceptions vary by program. Contact the department for details.
+Return to: Department/Program
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2024 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

@@ -1,0 +1,281 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Graduate Catalog
+2023-2024 Graduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Graduate School Policies and Procedures
+A-Z Program List
+Courses
+Department/Program
+Degree Level
+Accreditations
+Class Schedule
+myUB
+a
+Cancer Sciences PhD
+The Roswell Park Comprehensive Cancer Center is the world’s first cancer research institute and a National Cancer Institute-designated Comprehensive Cancer Center. Our cancer sciences graduate programs are in collaboration with the University at Buffalo. The internationally-recognized scientists and world-class facilities at Roswell Park provide an outstanding training environment. Because Roswell Park is a cancer research hospital, students have a wide spectrum of choices for their research focus, from the basic investigation of cancer mechanisms, to translational/clinical research with direct relevance to disease treatment.
+Apply Now
+Request More Information
+Program of Study
+During the first semester, all PhD candidates take the mandatory introductory courses, including:
+You’ll select your research track at the end of your first semester, then begin three laboratory research rotations in your second semester to find the best match for your faculty mentors.
+RPG 501LEC - Integrated Cancer Sciences I Credits: 4
+RPG 502LEC - Integrated Cancer Sciences II Credits: 4
+RPG 504SEM - Responsible Conduct of Research Credits: 1
+RPG 519LLB - Biostatistics for Cancer Sci. Credits: 4
+First Year Experience  RPG 514TUT - Independent Study Credits: 1 - 12
+Find your focus
+Because Roswell Park is a dedicated cancer research hospital, you’ll have a wide spectrum of choices for your research focus, from the investigation of cancer mechanisms to translational/clinical research, with direct relevance to disease treatment.
+After your first semester, you’ll choose your path in of our five PhD tracks:
+  Cancer Prevention PhD Track
+After completing prescribed courses, doctoral students are expected to pursue research relevant to their theses. A minimum 72 credit hours is required, which may include applicable master’s degree credits. Research leading to a doctoral degree requires at least two years of full-time research in addition to fulfilling the course requirements.
+A wide range of cutting-edge research is ongoing, including:
+Cancer epidemiology to identify modifiable risk and prognostic factors
+Development and application of risk and prognostic biomarkers
+Intervention trials for cancer risk reduction
+Intervention trials for prognostic benefits
+Population-based studies of Omics (i.e., genomics, proteomics, metabolomics, epigenomics, etc.)
+Cancer survivorship
+Cancer health disparities
+Tobacco regulatory science
+Tobacco cessation
+Mandatory core courses
+You must achieve a grade of “B” or better in the mandatory and elective courses. Elective courses are selected with your mentor to enhance your knowledge in the scientific areas most relevant to your anticipated doctoral research topic.
+Year 1 - Fall Semester
+RPG 501LEC - Integrated Cancer Sciences I Credits: 4
+RPG 502LEC - Integrated Cancer Sciences II Credits: 4
+RPG 601SEM - Journal Club - First Year Credits: 2
+First Year Experience  RPG 514TUT - Independent Study Credits: 1 - 12
+RPG 504SEM - Responsible Conduct of Research Credits: 1
+RPG 519LLB - Biostatistics for Cancer Sci. Credits: 4
+Year 1 - Spring Semester
+EEH 502LEC - Advanced Methodology Credits: 3
+RPG 585LEC - Cancer Epidemiology Credits: 3
+RPG 608TUT - Doctoral Research Credits: 1 - 12
+RPG 503LEC - Integrated Cancer Sciences III Credits: 4
+STA 528LR - Statistical Analysis II Credits: 4
+Year 2 - Fall Semester
+EEH 601LEC - Advanced Epidemiological Study Designs: Observational Studies Credits: 2
+RPG 584SEM - Cancer Prevention Seminar Credits: 1
+RPG 603SEM - Basic Grantsmanship and Ethical Conduct of Research Credits: 2
+STA 529LR - Statistical Analysis III Credits: 4
+Elective courses
+BCH 508SEM - Gene Expression Credits: 2
+BIO 500LLB - Bioinformatics/Genome Anal Credits: 4
+RPG 559LEC - Advanced Topics in Immunology Credits: 4
+RPG 575LEC - Cancer Chemotherapy Principles Credits: 4
+RPG 582SEM - Tobacco Control Credits: 3
+EEH 601LEC - Advanced Epidemiological Study Designs: Observational Studies Credits: 2
+Examinations
+During the first two years, candidates are expected to take examinations as required in their individual courses. At the end of the second year, students are required to pass a separate qualifying examination, which consists of written and oral sections. A written dissertation and oral defense of the thesis is required for graduation.
+  Cancer Genetics and Computational Oncology PhD Track
+The Cancer Genomics, and Computational Oncology Track emphasizes cutting-edge basic and translational research, conducted using both experimental and computational approaches, performed with outstanding scientific rigor and reproducibility, leading to high quality publication of students’ work.
+Students in CGCO track can choose between two concentrations of course work:  a Cancer Genetics and Genomics concentration, or a Computational Oncology concentration.  Both concentrations will gain some expertise in bioinformatics, but the Computational Oncology concentration students will get further in-depth training in computational biology.
+We stress critical evaluation of published data through our journal clubs and acquisition of oral communication skills through seminar courses. You’ll also participate in professional development by attending international conferences and presenting your research.
+Research areas
+Faculty research interests cover a broad spectrum of cancer genetics and molecular biology, with exceptional strengths in:
+Isolation and characterization of cancer genes
+Somatic cell genetics
+High-throughput genomics, proteomics, and epigenomics
+Mouse genetics and mouse models of cancer
+Epigenetic and cell cycle regulation in cancer
+Oncogenic signaling pathways and metabolic changes in cancer
+Computational biology and bioinformatics in cancer research
+Biomedical informatics in cancer research
+Statistical analysis and machine learning in oncology
+Tumor heterogeneity and evolution
+Program of Study
+Year 1
+Fall Semester (19 credits)
+RPG 501LEC - Integrated Cancer Sciences I Credits: 4
+RPG 502LEC - Integrated Cancer Sciences II Credits: 4
+RPG 519LLB - Biostatistics for Cancer Sci. Credits: 4
+RPG 504SEM - Responsible Conduct of Research Credits: 1
+RPG 601SEM - Journal Club - First Year Credits: 2
+RPG 514TUT - Independent Study Credits: 1 - 12
+(take up to 4 credits)
+Spring Semester (19 credits)
+RPG 503LEC - Integrated Cancer Sciences III Credits: 4
+RPG 543LEC - Tools & Models for Molecular Oncology Credits: 4
+RPG 521SEM - Cancer Genetics Genomics Dev Seminar Credits: 2
+RPG 606TUT - Doctoral Lab Rotation Credits: 1 - 12
+(take up to 9 credits)
+ Or 
+RPG 520LLB - Principles of Computational Oncology Credits: 4
+and RPG 606TUT - Doctoral Lab Rotation Credits: 4
+*If seeking a more computational focus early in the program.
+Year 2
+Fall Semester (19 credits)
+RPG 525LEC - Regul Mech Molec Biology Credits: 4
+RPG 603SEM - Basic Grantsmanship and Ethical Conduct of Research Credits: 2
+RPG 521SEM - Cancer Genetics Genomics Dev Seminar Credits: 2
+RPG 608TUT - Doctoral Research Credits: 1 - 12
+(take up to 11 credits)
+ Or
+STA 545LEC - Statistical Data Mining I Credits: 3
+and  RPG 606TUT - Doctoral Lab Rotation Credits: 1 - 12
+*For additional computation content.
+Spring Semester (9 credits)
+RPG 520LLB - Principles of Computational Oncology Credits: 4
+RPG 521SEM - Cancer Genetics Genomics Dev Seminar Credits: 2
+RPG 608TUT - Doctoral Research Credits: 1 - 12
+(take up to 5 credits)
+Year 3-5
+RPG 608TUT - Doctoral Research Credits: 1 - 12
+ Tumor Immunology PhD Track
+We are the recipient of a unique NIH NCI-sponsored pre-doctoral fellowship program in Translational Tumor Immunology, which provides funds for student stipends and travel and enhances the professional development of our students.
+Over the past several years, our students have:
+Published papers in high impact journals such as The Journal of Clinical Investigation, Nature Communications, The Proceedings of the National Academy of Sciences, Blood, Cancer Research and The Journal of Experimental Medicine
+Spoken about their research in front of international experts at prestigious national meetings such as the American Association of Immunology and the American Society of Hematology
+Received highly competitive pre-doctoral fellowships from the National Institutes of Health
+Immunology graduates have gone on to careers in academia, industry and government. Recent graduates have accepted post-doctoral positions at institutions such as Ohio State, University of Texas Southwestern, Harvard Medical School, Duke University, University of Pennsylvania, and Indiana University.
+Program of Study
+Year 1
+Fall Semester (19 credits)
+RPG 501LEC - Integrated Cancer Sciences I Credits: 4
+RPG 502LEC - Integrated Cancer Sciences II Credits: 4
+RPG 504SEM - Responsible Conduct of Research Credits: 1
+RPG 514TUT - Independent Study Credits: 1 - 12
+RPG 599SEM - Special Topics Credits: 1
+RPG 601SEM - Journal Club - First Year Credits: 2
+STA 527LEC - Statistical Analysis I Credits: 3
+STA 527REC - Statistical Analysis I Credits: 1
+Spring Semester (19 credits)
+RPG 503LEC - Integrated Cancer Sciences III Credits: 4
+RPG 553SEM - Tumor Immunology Seminar Credits: 1
+RPG 559LEC - Advanced Topics in Immunology Credits: 4
+RPG 565SEM - Tumor Immunology Journal Club Credits: 1
+RPG 606TUT - Doctoral Lab Rotation Credits: 1 - 12
+Year 2
+Fall Semester (19 credits)
+RPG 553SEM - Tumor Immunology Seminar Credits: 1
+RPG 561LEC - Trends-Tumor Immunology Credits: 2
+RPG 564LEC - Principles & Applications of Flow & Image Cytometry Credits: 4
+RPG 565SEM - Tumor Immunology Journal Club Credits: 1
+RPG 603SEM - Basic Grantsmanship and Ethical Conduct of Research Credits: 2
+RPG 608TUT - Doctoral Research Credits: 1 - 12
+Spring Semester (9 credits)
+RPG 553SEM - Tumor Immunology Seminar Credits: 1
+RPG 565SEM - Tumor Immunology Journal Club Credits: 1
+RPG 604LEC - Basics in Grantsmanship and Ethical Conduct of Research - Part 2 Credits: 1
+RPG 608TUT - Doctoral Research Credits: 1 - 12
+Year 3-5
+RPG 553SEM - Tumor Immunology Seminar Credits: 1
+RPG 565SEM - Tumor Immunology Journal Club Credits: 1
+RPG 608TUT - Doctoral Research Credits: 1 - 12
+ Cell Stress and Biophysical Oncology PhD Track
+Decipher stress response pathways in normal and malignant cells. Use your knowledge of biology, physics and chemistry to develop and improve the ways to prevent, diagnose and treat cancer. Work with physicians and industrial scientists to bring your discoveries to the clinics.
+When you choose the Cell Stress and Biophysical Oncology PhD Track, you’ll be part of a unique multidisciplinary training and research environment. We’re built on synergy between biophysicists, chemists, engineers, molecular biologists and physicians. In addition to mentored research, you’ll have stimulating course work, seminars with presentations by trainees and invited speakers, and various informal scientific and social events.
+Research Areas
+Biochemical and genetic investigation of stress-response pathways in normal and cancer cells
+In vivo and in vitro imaging technologies
+Photodynamic therapy and photobiology
+Molecular mechanisms of carcinogenesis
+Discovery of anti-cancer drugs
+Radiation biology and medical physics
+Molecular mechanisms of longevity and aging
+Membrane biophysics
+Drug delivery and pharmacodynamics
+Metabonomics/metabolomics and proteomics
+Structural biology
+Program of Study
+Year 1
+Fall Semester (19 credits)
+RPG 501LEC - Integrated Cancer Sciences I Credits: 4
+RPG 502LEC - Integrated Cancer Sciences II Credits: 4
+RPG 519LLB - Biostatistics for Cancer Sci. Credits: 4
+RPG 504SEM - Responsible Conduct of Research Credits: 1
+RPG 601SEM - Journal Club - First Year Credits: 2
+RPG 514TUT - Independent Study Credits: 1 - 12
+(take up to 8 credits)
+Spring Semester (19 credits)
+RPG 503LEC - Integrated Cancer Sciences III Credits: 4
+RPG 543LEC - Tools & Models for Molecular Oncology Credits: 4
+RPG 546 - CSBO Journal Club 1 Credits
+RPG 606TUT - Doctoral Lab Rotation Credits: 1 - 12
+Electives
+Year 2
+Fall Semester (19 credits)
+RPG 553SEM - Tumor Immunology Seminar Credits: 1
+RPG 545SEM - Cell Stress Biophysics Oncology Journal Club Credits: 2
+RPG 603SEM - Basic Grantsmanship and Ethical Conduct of Research Credits: 2
+RPG 608TUT - Doctoral Research Credits: 1 - 12
+Electives
+Spring Semester (9 credits)
+RPG 608TUT - Doctoral Research Credits: 1 - 12
+(Take up to 5 credits)
+RPG 520LLB - Principles of Computational Oncology Credits: 4
+RPG 521SEM - Cancer Genetics Genomics Dev Seminar Credits: 2
+Year 3-5
+RPG 608TUT - Doctoral Research Credits: 1 - 12
+ Experimental Therapeutics PhD Track
+Investigate novel molecular targets for therapeutic intervention. Study the mechanisms of action and preclinical development of novel drugs. Optimize the use of existing drugs through combination therapy, repurposing, and imaging. Identify patient sub-populations and cancer types most likely to respond favorably to new approaches.
+When you choose the Experimental Therapeutics PhD track at Roswell Park, you’ll conduct basic and translational research in the areas of cancer biology, drug development, and innovative cancer treatment.
+A diverse group of collaborative faculty members conduct research in the following broadly defined areas relevant to cancer therapeutics:
+Identification of novel molecular targets for therapeutic intervention
+Characterizing the mechanisms of action and preclinical development of novel drugs
+Optimizing the use of existing drugs through combination therapy, re-purposing, imaging, and identification of patient sub-populations most likely to respond to treatment
+Research questions are addressed using state-of-the-art experimental approaches in genomics, genetics, molecular biology, cell biology, imaging, biochemistry, and animal modeling.
+Program of study
+Year 1
+Fall Semester (19 credits)
+RPG 501LEC - Integrated Cancer Sciences I Credits: 4
+RPG 502LEC - Integrated Cancer Sciences II Credits: 4
+RPG 504SEM - Responsible Conduct of Research Credits: 1
+RPG 514TUT - Independent Study Credits: 1 - 12
+RPG 601SEM - Journal Club - First Year Credits: 2
+STA 527LEC - Statistical Analysis I Credits: 3
+STA 527REC - Statistical Analysis I Credits: 1
+Spring Semester (19 credits)
+RPG 503LEC - Integrated Cancer Sciences III Credits: 4
+RPG 543LEC - Tools & Models for Molecular Oncology Credits: 4
+RPG 571SEM - Current Topics in Experimental Therapeutics Credits: 2
+RPG 573SEM - Experimental Therapeutics Seminar Credits: 1
+RPG 608TUT - Doctoral Research Credits: 1 - 12
+Year 2
+Fall Semester (19 credits)
+RPG 571SEM - Current Topics in Experimental Therapeutics Credits: 2
+RPG 573SEM - Experimental Therapeutics Seminar Credits: 1
+RPG 575LEC - Cancer Chemotherapy Principles Credits: 4
+RPG 603SEM - Basic Grantsmanship and Ethical Conduct of Research Credits: 2
+RPG 608TUT - Doctoral Research Credits: 1 - 12
+Spring Semester (9 credits)
+RPG 571SEM - Current Topics in Experimental Therapeutics Credits: 2
+RPG 573SEM - Experimental Therapeutics Seminar Credits: 1
+RPG 608TUT - Doctoral Research Credits: 1 - 12
+Year 3-5
+RPG 608TUT - Doctoral Research Credits: 1 - 12
+Graduate Seminar (attend, no registration needed)
+Total Credit Hours: 72
+Minimum 72 credit hours required for all tracks.
+3.0 Degree GPA required
+  Instruction Method
+In Person (100 percent of courses offered in person)
+Full/Part Time Options
+Full Time
+Credits Required
+72 Hours
+Time-To-Degree
+4 to 5+ Years
+Application Fee
+$75
+Program Contact
+Adam Kisailus
+Elm and Carlton Streets
+Buffalo, NY 14263
+Email: adam.kisailus@roswellpark.org
+Phone: 716-845-2339
+SED Statement
+This program is officially registered with the New York State Education Department (SED).
+Online programs/courses may require students to come to campus on occasion. Time-to-degree and number of credit hours may vary based on full/part time status, degree, track and/or certification option chosen. Time-to-degree is based on calendar year(s). Contact the department for details.
+** At least one of the admissions tests are required for admission. Test and score requirements/exceptions vary by program. Contact the department for details.
+Return to: Department/Program
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2024 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

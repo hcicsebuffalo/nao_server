@@ -1,0 +1,212 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Graduate Catalog
+2023-2024 Undergraduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Archived Catalogs
+General Catalog Information
+Majors and Combined Degrees
+Minors, Certificates and Micro-Credentials
+Departments & Programs
+Courses
+UB Curriculum (General Education)
+Academic Policies and Procedures
+Academic Calendar
+Campus Facilities and Instructional Spaces
+Financial and Scholarship Information
+Admissions
+Student Records and Registration
+Academic Advising
+Learning Outside the Classroom
+Study Abroad
+myUB
+HUB Academic Advisement Report
+Accreditations
+a
+Material Science and Engineering BS
+Your clothes. Your water bottle. The screen you’re looking at right now. They’re all made from materials.
+Now imagine if you could make these materials stronger, safer and more sustainable. Sound interesting? Then this is the major for you.
+Whether you want to design longer-lasting batteries, more comfortable contact lenses, or solar panels that can be made without toxic materials, this is where you start. It’s the perfect program for people who love chemistry and data-and want a major that can (literally) touch all of our lives.
+Visit the Material Science and Engineering academic program page for more information about the academic experience, who you will learn from, opportunities outside of class and what you can do with this degree.
+Visit the Materials Design and Innovation department page for contact information, a brief overview of the department and the curricular options.
+Admission Criteria
+Minimum overall GPA of 2.500 required
+Matriculated student with academic good standing at the University at Buffalo.
+Satisfactory performance in a series of core courses (see below). There are two paths to meet this requirement.
+Standard: Completion of four core courses with a combined core course grade point average of at least 2.500.
+Fast-Track: Completion of at least two of the four core courses (graded on an A-F bases) with a combined core course grade point average of at least 3.000.
+Engineering Core Courses:
+Calculus 1 (MTH 141 or MTH 153)
+Calculus 2 (MTH 142 or MTH 154)
+General Chemistry 1 (CHE 101, CHE 105, or CHE 107)
+General Physics 1 (PHY 107 or PHY 117)
+  Current students wishing to pursue the Material Science and Engineering BS must follow the instructions on the School of Engineering and Applied Sciences Supplemental Application. See the complete School of Engineering and Applied Sciences Admissions Policies for details.
+Course Requirements
+Material Science and Engineering Core (89 credits)
+CHE 107LR - General Chemistry for Engineers I Credits: 3.5 AND
+CHE 127LAB - General Chemistry for Engineers Laboratory 1 Credits: 0.5 OR
+CHE 101LR - General Chemistry Credits: 4 AND
+CHE 113LAB - General Chemistry Credits: 1 OR
+CHE 105LLR - Chemistry: Principles and Applications Credits: 5
+ CHE 108LR - General Chemistry for Engineers II Credits: 3.5 AND
+CHE 128LAB - General Chemistry for Engineers Laboratory 2 Credits: 0.5 OR
+CHE 102LR - General Chemistry Credits: 4 AND
+CHE 114LAB - General Chemistry Credits: 1 OR
+CHE 106LLR - Chemistry: Principles and Applications Credits: 5
+ EAS 199SL - UB Seminar Credits: 3
+EAS 202SEM - Engineering Impact On Society Credits: 1
+EAS 230LLB - Engineering Computations Credits: 3 *
+EAS 360LEC - STEM Communications Credits: 3
+MDI 201LEC - Introduction to Materials Design and Informatics Credits: 3
+MDI 210LEC - Chemical Design of Materials Credits: 3
+MDI 311LEC - Electronic, Optical, and Magnetic Properties of Materials Credits: 3
+MDI 312LEC - Multiscale Design of Materials Credits: 3
+MDI 321LEC - Quantitative Methods in Materials Characterization Credits: 3
+MDI 322LEC - Materials Characterization and Synthesis Lab Credits: 3
+MDI 332LEC - Foundations of Materials Thermodynamics and Structures Credits: 3
+MDI 336LEC - Kinetics, Defects, and Transport Credits: 3
+MDI 404LEC - Statistical Principles of Materials Informatics Credits: 3
+MDI 440LEC - Design and Function of Soft Materials Credits: 3
+MDI 450LEC - Machine Learning in Materials Design Credits: 3
+MDI 471LEC - Materials for a Regenerative Economy Credits: 3
+MDI 493LEC - Materials Design Laboratory I Credits: 3
+MDI 494LEC - Materials Design Laboratory II Credits: 3
+MTH 141LR - College Calculus I Credits: 4
+MTH 142LR - College Calculus 2 Credits: 4
+MTH 241LR - College Calculus 3 Credits: 4
+MTH 306LR - Introduction to Differential Equations Credits: 4
+MTH 309LR - Introductory Linear Algebra Credits: 4
+PHY 107LR - General Physics I Credits: 4
+PHY 108LR - General Physics II Credits: 4
+PHY 158LAB - General Physics II Lab Credits: 1 **
+Four MDI Electives (12 credits):
+MDI 401LEC - Special Topics Credits: 3
+MDI 481LEC - Thin Films, Surfaces, and Interfaces Credits: 3
+MDI 483LEC - Functional Materials Credits: 3
+MDI 484LEC - Computation Materials Design Credits: 3
+MDI 485LEC - Polymers, Colloids, Gels, and Active Matter Credits: 3
+Two Technical Elective (6 credits):
+CHE 203LEC - Organic Chemistry Credits: 3 OR
+CHE 251LLR - Contemporary Organic Chemistry Credits: 5
+ CHE 204LEC - Organic Chemistry Credits: 3 OR
+CHE 252LLR - Contemporary Organic Chemistry Credits: 5
+ CHE 314LEC - Introduction to Analytical Chemistry Credits: 3
+CHE 319LEC - Physical Chemistry Credits: 3
+PHY 207LR - General Physics III Credits: 4
+PHY 401LEC - Quantum Mechanics I - Fundamentals Credits: 3
+CE 317LR - Transport Processes I Credits: 4
+CE 318LR - Transport Processes II Credits: 4
+CE 421LEC - Introduction to Optofluidics Credits: 3
+CE 435LEC - Introduction to Polymers Credits: 3
+CE 450LEC - Protein Engineering Credits: 3
+CE 457LEC - Colloid and Surface Phenomena Credits: 3
+CE 451LEC - Computer-Aided Research in the Chemical and Material Sciences Credits: 3
+MAE 381LEC - Engineering Materials Credits: 3
+MAE 385LAB - Engineering Materials Laboratory Credits: 1
+MAE 364LEC - Manufacturing Processes Credits: 3
+MAE 485LEC - Mech Propts of Materials Credits: 3
+MAE 487LEC - Modern Theory of Materials Credits: 3
+BIO 201LEC - Cell Biology Credits: 3
+BIO 305LEC - Fundamentals of Biological Chemistry Credits: 3
+BIO 301LEC - Intermediate Cell Biology Credits: 3
+MTH 337LEC - Introduction to Scientific and Mathematical Computing Credits: 4
+MTH 411LR - Probability Theory Credits: 4
+MTH 412LR - Introduction to Statistical Inference Credits: 4
+MTH 418LR - Survey of Partial Differential Equations Credits: 4
+MTH 443LEC - Fundamentals of Applied Mathematics I Credits: 3
+MTH 444LEC - Fundamentals of Applied Mathematics II Credits: 3
+Notes
+*Students are permitted to take alternative programming courses EAS 240 or CSE 115 in lieu of EAS 230, however EAS 230 is strongly preferred for Material Science and Engineering majors. The alternative programming courses should only be utilized by students transferring into the program with EAS 240, CSE 115, or EAS 999TRCP (general programming for transfer students) already completed. View our Computer Programming Requirement website for more information on the programming alternatives and self-study packages. 
+**Students are permitted to use PHY 151 and PHY 152 in lieu of PHY 158, however PHY 158 is preferred for engineering majors.
+Total Credits Required for Major: 107
+Additional Degree Requirements Include:
+Additional coursework to fulfill UB Curriculum requirements
+Elective courses as needed to complete the 124 credit hour total
+Total Credits Required for Graduation: 124
+Total Credit Hours Required represents the minimum credits needed to complete this program, and may vary based on a number of circumstances. This should not be used for financial aid purposes.
+Academic Requirements
+Students in the School of Engineering and Applied Sciences must have a minimum GPA of 2.000 in technical classes (engineering, math, and science classes) to be in good standing and graduate with an undergraduate degree. To maintain academic standards and determine eligibility for continued enrollment, the School of Engineering and Applied Sciences reviews the academic records of all students in an approved undergraduate SEAS major. This academic review is conducted at the end of each fall and spring semester. View the School of Engineering and Applied Sciences Academic Review Policy.
+Transfer Credit Policy
+Students seeking an undergraduate engineering degree from the School of Engineering and Applied Sciences must complete 30 undergraduate credit hours of junior/senior level courses required in their major at the University at Buffalo.
+  Curricular Plan
+A Curricular Plan provides a roadmap for completing this academic program and the UB Curriculum on time. Your actual plan may vary depending on point of entry to the university, course placement and/or waivers based on standardized test scores, earned alternative credit and/or college transfer credit.
+First Year Fall
+MTH 141LR - College Calculus I Credits: 4
+CHE 107LR - General Chemistry for Engineers I Credits: 3.5
+CHE 127LAB - General Chemistry for Engineers Laboratory 1 Credits: 0.5
+EAS 199SL - UB Seminar Credits: 3
+ENG 105LEC - Writing and Rhetoric Credits: 4
+Total Credits: 15
+First Year Spring
+MTH 142LR - College Calculus 2 Credits: 4
+CHE 108LR - General Chemistry for Engineers II Credits: 3.5
+CHE 128LAB - General Chemistry for Engineers Laboratory 2 Credits: 0.5
+PHY 107LR - General Physics I Credits: 4
+EAS 230LLB - Engineering Computations Credits: 3
+EAS 202SEM - Engineering Impact On Society Credits: 1
+Total Credits: 16
+Second Year Fall
+MTH 241LR - College Calculus 3 Credits: 4
+PHY 108LR - General Physics II Credits: 4
+PHY 158LAB - General Physics II Lab Credits: 1
+MDI 201LEC - Introduction to Materials Design and Informatics Credits: 3
+Pathway Credits: 3
+Total Credits: 15
+Second Year Spring
+MTH 306LR - Introduction to Differential Equations Credits: 4
+MDI 210LEC - Chemical Design of Materials Credits: 3
+Pathway Credits: 3
+Pathway Credits: 3
+Pathway Credits: 3
+Total Credits: 16
+Third Year Fall
+MTH 309LR - Introductory Linear Algebra Credits: 4
+MDI 311LEC - Electronic, Optical, and Magnetic Properties of Materials Credits: 3
+MDI 321LEC - Quantitative Methods in Materials Characterization Credits: 3
+Technical Elective Credits: 3
+EAS 360LEC - STEM Communications Credits: 3
+Total Credits: 16
+Third Year Spring
+MDI 312LEC - Multiscale Design of Materials Credits: 3
+MDI 322LEC - Materials Characterization and Synthesis Lab Credits: 3
+MDI 332LEC - Foundations of Materials Thermodynamics and Structures Credits: 3
+MDI 336LEC - Kinetics, Defects, and Transport Credits: 3
+Technical Elective Credits: 3
+Total Credits: 15
+Fourth Year Fall
+MDI 404LEC - Statistical Principles of Materials Informatics Credits: 3
+MDI 493LEC - Materials Design Laboratory I Credits: 3
+MDI 471LEC - Materials for a Regenerative Economy Credits: 3
+MDI Elective Credits: 3
+MDI Elective Credits: 3
+Total Credits: 15
+Fourth Year Spring
+MDI 440LEC - Design and Function of Soft Materials Credits: 3
+MDI 450LEC - Machine Learning in Materials Design Credits: 3
+MDI 494LEC - Materials Design Laboratory II Credits: 3
+MDI Elective Credits: 3
+MDI Elective Credits: 3
+UBC 399MNT - UB Curriculum Capstone Credits: 1
+Total Credits: 16
+Total Credits Required: 124
+Note: Some classes may count toward both a major and UB Curriculum requirement.
+Learning Outcomes
+Specific student educational outcomes, to be achieved by the time of graduation, include:
+an ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics
+an ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors
+an ability to communicate effectively with a range of audiences
+an ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts
+an ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives
+an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions
+an ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
+  (HEGIS: 09.15 MATERIALS ENGINEERING, CIP: 14.1801 Materials Engineering)
+  Return to: Majors and Combined Degrees
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2024 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

@@ -1,0 +1,89 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Graduate Catalog
+2023-2024 Graduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Graduate School Policies and Procedures
+A-Z Program List
+Courses
+Department/Program
+Degree Level
+Accreditations
+Class Schedule
+myUB
+a
+Engineering Science MS: Data Science Focus
+The Engineering Science MS with a course focus in Data Science offers students a comprehensive education in big data and analysis. Students gain knowledge, expertise, and practical training in various areas, including data collection and management, data analytics, scalable data-driven discovery, and fundamental concepts. The curriculum combines solid theoretical foundations with hands-on training, ensuring graduates are well-prepared to address the analytics needs of employers. Additionally, students can explore diverse application areas, further expanding their understanding of real-world data challenges.
+Apply Now
+Request More Information
+Required Core (24 credits)
+CSE 560LEC - Data Models and Query Languages Credits: 3
+CSE 574LEC - Introduction to Machine Learning Credits: 3
+EAS 501LEC - Introduction to Numerical Mathematics for Computing and Data Science Credits: 3
+EAS 502LEC - Introduction to Probability Theory for Data Science Credits: 3
+EAS 503LEC - Programming and Database Fundamentals for Data Scientists Credits: 3
+EAS 504LEC - Applications of Data Science: Industry Overview Credits: 3
+EAS 508LEC - Statistical Learning and Data Mining I Credits: 3
+EAS 509LEC - Statistical Learning and Data Mining II Credits: 3
+Electives & Culminating Experience (6 credits)
+Electives (3-6 credits)
+Number of elective credits may vary depending on choice made to complete the culminating experience. Be sure to complete enough elective credit to reach 30 minimum total credit hours. 
+CDA 500LEC - Special Topics Credits: 1 - 3
+CSE 531LEC - Analysis of Algorithms I Credits: 3
+CSE 535LEC - Information Retrieval Credits: 3
+CSE 546LEC - Reinforcement Learning Credits: 3
+CSE 562LEC - Database Systems Credits: 3
+CSE 573LEC - Introduction to Computer Vision and Image Processing Credits: 3
+CSE 586LEC - Distributed Systems Credits: 3
+CSE 587LEC - Data Intensive Computing Credits: 3
+CSE 589LEC - Modern Network Concepts Credits: 3
+CSE 601LEC - Data Mining and Bioinformatics Credits: 3
+CSE 610LEC - Special Topics Credits: 3
+CSE 674LEC - Advanced Machine Learning Credits: 3
+CSE 676LEC - Deep Learning Credits: 3
+CSE 740SEM - Seminars Credits: 1 - 3
+EAS 595LEC - Special Topics Credits: 3
+EAS 595 Course Topic: Fundamentals of AI
+EE 539LEC - Princ Infor Theory & Cod Credits: 3
+IE 535LEC - Human Centered Design for Interactive Systems Credits: 3
+IE 575LEC - Stochastic Methods Credits: 3
+MAE 609LEC - High Perform Computing 1 Credits: 3
+MGS 655LEC - Distributed Computing and Big Data Technologies Credits: 3
+MGS 657LEC - Online Analytical Processing: Data Warehousing Credits: 3
+MTH 558LEC - Mathematical Finance Credits: 3
+STA 511LEC - Advanced Statistical Computing Credits: 3
+STA 517LEC - Categorical Data Analysis Credits: 3
+Culminating Experience: Exam or Project (0-3 credits)
+EAS 560TUT - Data Science Project Credits: 1 - 3
+Total Credit Hours: 30
+3.0 Degree GPA required
+  Instruction Method
+In Person (100 percent of courses offered in person)
+Full/Part Time Options
+Full Time
+Part Time
+Credits Required
+30 Hours
+Time-To-Degree
+1 to 2 Years
+Application Fee
+$85
+Program Contact
+School of Engineering and Applied Sciences
+Office of Graduate Education
+415 Bonner Hall
+Buffalo, NY 14260
+Email: gradeng@buffalo.edu
+SED Statement
+This program is officially registered with the New York State Education Department (SED).
+Online programs/courses may require students to come to campus on occasion. Time-to-degree and number of credit hours may vary based on full/part time status, degree, track and/or certification option chosen. Time-to-degree is based on calendar year(s). Contact the department for details.
+Return to: A-Z Program List
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2024 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

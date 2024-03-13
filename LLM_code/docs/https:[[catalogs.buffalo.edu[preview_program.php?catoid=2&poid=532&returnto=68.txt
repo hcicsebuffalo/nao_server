@@ -1,0 +1,88 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Graduate Catalog
+2023-2024 Graduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Graduate School Policies and Procedures
+A-Z Program List
+Courses
+Department/Program
+Degree Level
+Accreditations
+Class Schedule
+myUB
+a
+Materials Design and Innovation MS
+The Materials Design and Innovation MS program aims to equip individuals with comprehensive knowledge and expertise in both materials science and data science. By fostering an interdisciplinary approach, students gain a holistic perspective and acquire essential skills and tools to comprehend and apply computational techniques for modeling, simulation, and informatics. In parallel, the program emphasizes experimental-driven science to ensure students possess the capability to contribute to and expedite the progress of materials discovery and engineering design.
+Apply Now
+Request More Information
+Required Core (24 credits)
+MDI 501LEC - Introduction to Materials Design and Informatics Credits: 3
+MDI 502LEC - Quant Structure-Property Relationship in Materials Credits: 3
+MDI 503LEC - Thermodynamics and Molecular Structure of Materials Credits: 3
+MDI 504LEC - Multivariate Statistics and Materials Informatics Credits: 3
+MDI 505LEC - Computational Materials Chemistry and Physics Credits: 3
+MDI 506LEC - Kinetics, Microstructure, and Defects Credits: 3
+MDI 507LEC - Quantitative Methods in Materials Characterization Credits: 3
+MDI 508LEC - Experimental Design for Materials Development Credits: 3
+Electives & Culminating Experience (6 credits)
+Electives (0-6 credits)
+Number of elective credits may vary depending on choice made to complete the culminating experience. Be sure to complete enough elective credit to reach 30 minimum total credit hours. 
+Select from:
+CE 530LEC - Molecular Modeling Credits: 3
+CSE 555LEC - Introduction to Pattern Recognition Credits: 3
+CSE 674LEC - Advanced Machine Learning Credits: 3
+IE 576LEC - Applied Stochastic Proc Credits: 3
+IE 671LEC - Nonlinear Programming Credits: 3
+IE 675LEC - Game Theory Credits: 3
+MAE 529LEC - Finite Element Struc Anal Credits: 3
+MAE 540LEC - Computational Fluid Dynamics 2 Credits: 3
+MAE 541LEC - Topics Finite Elements Credits: 3
+MTH 511LEC - Probability Theory Credits: 3
+MTH 549LEC - Intro Partl Diff Equatns Credits: 3
+MTH 731LEC - Functional Analysis Credits: 3
+STA 504LEC - Introduction to Applied Statistics II Credits: 3
+STA 515LEC - Distributn Free Inference Credits: 3
+STA 517LEC - Categorical Data Analysis Credits: 3
+STA 522LEC - Intro Theoretical Stat 2 Credits: 3
+STA 551LEC - Stochastic Processes Credits: 3
+STA 561LEC - Longitudinal Data Analysis Credits: 3
+STA 581LEC - Multivar Data Analysis Credits: 3
+Culminating Experience: Exam, Project or Thesis (0-6 credits)
+MDI 700TUT - Project Guidance Credits: 1 - 6
+MDI 701TUT - Thesis Guidance Credits: 1 - 6
+Total Credit Hours: 30
+3.0 Degree GPA required
+  Instruction Method
+In Person (100 percent of courses offered in person)
+Full/Part Time Options
+Full Time
+Part Time
+Credits Required
+30 Hours
+Time-To-Degree
+1.5 Years
+Application Fee
+$85
+Admission Test **
+GRE
+Program Contact
+School of Engineering and Applied Sciences
+Office of Graduate Education
+415 Bonner Hall
+Buffalo, NY 14260
+Email: gradeng@buffalo.edu
+SED Statement
+This program is officially registered with the New York State Education Department (SED).
+Online programs/courses may require students to come to campus on occasion. Time-to-degree and number of credit hours may vary based on full/part time status, degree, track and/or certification option chosen. Time-to-degree is based on calendar year(s). Contact the department for details.
+** At least one of the admissions tests are required for admission. Test and score requirements/exceptions vary by program. Contact the department for details.
+Return to: A-Z Program List
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2024 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

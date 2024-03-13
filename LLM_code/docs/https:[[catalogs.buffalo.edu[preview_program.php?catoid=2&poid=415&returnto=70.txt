@@ -1,0 +1,353 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Graduate Catalog
+2023-2024 Graduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Graduate School Policies and Procedures
+A-Z Program List
+Courses
+Department/Program
+Degree Level
+Accreditations
+Class Schedule
+myUB
+a
+Computer Science and Engineering MS
+The Computer Science and Engineering MS program offers students a comprehensive grasp of cutting-edge industry subjects while equipping them to engage in fundamental and applied research in computer science. The program encompasses various tracks, including artificial intelligence and machine learning, systems, and a research track that enables students to pursue personalized projects or engage in supervised research. 
+Apply Now
+Request More Information
+Track Options
+The MS program has three tracks to select from:
+Research
+Artificial Intelligence / Machine Learning
+Software/Hardware Systems
+Research Track
+Research Track: Required Core (13 credits)
+CSE 501LEC - Introduction to Graduate Study in Computer Science I Credits: 1
+Theory and Algorithms (3 credits)
+Select 1 from: 
+CSE 529LEC - Algorithms for Modern Computing Systems Credits: 3
+CSE 531LEC - Analysis of Algorithms I Credits: 3
+CSE 596LEC - Introduction to the Theory of Computation Credits: 3
+Artificial Intelligence (3 credits)
+Select 1 from:
+CSE 528LEC - Introduction to Digital Image Processing Credits: 3
+CSE 546LEC - Reinforcement Learning Credits: 3
+CSE 555LEC - Introduction to Pattern Recognition Credits: 3
+CSE 563LEC - Knowledge Representation Credits: 3
+CSE 567LEC - Computational Linguistics Credits: 3
+CSE 568LEC - Robotics Algorithms Credits: 3
+CSE 573LEC - Introduction to Computer Vision and Image Processing Credits: 3
+CSE 574LEC - Introduction to Machine Learning Credits: 3
+Software and Information Systems (3 credits)
+Select 1 from:
+CSE 505LEC - Fundamentals of Programming Languages Credits: 3
+CSE 512LR - Oper Sys Internals Credits: 3
+CSE 521LEC - Operating Systems Credits: 3
+CSE 522LEC - Object Oriented Analysis, Design and Implementation Credits: 3
+CSE 535LEC - Information Retrieval Credits: 3
+CSE 562LEC - Database Systems Credits: 3
+CSE 565LEC - Computer Security Credits: 3
+CSE 570LEC - Introduction to Parallel and Distributed Processing Credits: 3
+CSE 587LEC - Data Intensive Computing Credits: 3
+Hardware and Networked Systems (3 credits)
+Select 1 from:
+CSE 552LEC - VLSI Testing Credits: 3
+CSE 570LEC - Introduction to Parallel and Distributed Processing Credits: 3
+CSE 586LEC - Distributed Systems Credits: 3
+CSE 587LEC - Data Intensive Computing Credits: 3
+CSE 589LEC - Modern Network Concepts Credits: 3
+CSE 590LEC - Computer Architecture Credits: 3
+CSE 593LLB - Introduction to VLSI Electronics Credits: 3
+Depth Requirement (9 credits)
+Select 2 courses, not previously completed, from one area and 1 additional course from a different area:
+Theory and Algorithms:
+CSE 529LEC - Algorithms for Modern Computing Systems Credits: 3
+CSE 531LEC - Analysis of Algorithms I Credits: 3
+CSE 545LEC - Coding Theory Credits: 3
+CSE 564LEC - Game Theory & Comp Net Credits: 3
+CSE 596LEC - Introduction to the Theory of Computation Credits: 3
+CSE 632LEC - Analysis of Algorithms II Credits: 3
+CSE 633LEC - Parallel Algorithms Credits: 3
+CSE 664LEC - Applied Cryptography and Computer Security Credits: 3
+CSE 680LEC - Computational Geometry Credits: 3
+CSE 681LEC - Formal Languages 1 Credits: 3
+CSE 694LEC - Topics in Algorithms Credits: 3
+CSE 696LEC - Computational Complexity Credits: 3
+Artificial Intelligence:
+CSE 528LEC - Introduction to Digital Image Processing Credits: 3
+CSE 546LEC - Reinforcement Learning Credits: 3
+CSE 555LEC - Introduction to Pattern Recognition Credits: 3
+CSE 556LEC - Visualization Credits: 3
+CSE 563LEC - Knowledge Representation Credits: 3
+CSE 567LEC - Computational Linguistics Credits: 3
+CSE 568LEC - Robotics Algorithms Credits: 3
+CSE 573LEC - Introduction to Computer Vision and Image Processing Credits: 3
+CSE 574LEC - Introduction to Machine Learning Credits: 3
+CSE 626LEC - Data Mining Credits: 3
+CSE 635LEC - Natural Language Processing and Text Mining Credits: 3
+CSE 640LEC - Graph Mining and Management Credits: 3
+CSE 661LEC - Document Anal and Recog Credits: 3
+CSE 663LEC - Adv Knowledge Rep Credits: 3
+CSE 666LEC - Biometrics Image Analysis Credits: 3
+CSE 667LEC - Advanced Topics in Computational Linguistics Credits: 3
+CSE 668LEC - Advanced Robotics Credits: 3
+CSE 672LEC - Bayesian Vision Credits: 3
+CSE 673LEC - Computational Vision Credits: 3
+CSE 674LEC - Advanced Machine Learning Credits: 3
+CSE 675LEC - Stochastic Simulation and Inference Credits: 3
+CSE 676LEC - Deep Learning Credits: 3
+CSE 678LEC - Face and Gesture Recognition Credits: 3
+Software and Information Systems:
+CSE 505LEC - Fundamentals of Programming Languages Credits: 3
+CSE 512LR - Oper Sys Internals Credits: 3
+CSE 521LEC - Operating Systems Credits: 3
+CSE 522LEC - Object Oriented Analysis, Design and Implementation Credits: 3
+CSE 526LEC - Blockchain Application Development Credits: 3
+CSE 549LEC - Software Verification Credits: 3
+CSE 560LEC - Data Models and Query Languages Credits: 3
+CSE 562LEC - Database Systems Credits: 3
+CSE 565LEC - Computer Security Credits: 3
+CSE 570LEC - Introduction to Parallel and Distributed Processing Credits: 3
+CSE 577LEC - Processing of Strings and Sequences Credits: 3
+CSE 587LEC - Data Intensive Computing Credits: 3
+CSE 601LEC - Data Mining and Bioinformatics Credits: 3
+CSE 603LEC - Parallel and Distributed Processing Credits: 3
+CSE 605LEC - Advanced Concepts in Programming Languages Credits: 3
+CSE 611LEC - MS Project Development Credits: 3
+CSE 622LEC - Advanced Computer Systems Credits: 3
+CSE 635LEC - Natural Language Processing and Text Mining Credits: 3
+CSE 636LEC - Data Integration Credits: 3
+CSE 662LEC - Languages and Runtimes for Big Data Credits: 3
+CSE 664LEC - Applied Cryptography and Computer Security Credits: 3
+Hardware and Networked Systems:
+CSE 524LEC - Realtime & Embedded Sys Credits: 3
+CSE 534LEC - Multimedia Systems Credits: 3
+CSE 547LEC - High Performance Computing 1 Credits: 3
+CSE 552LEC - VLSI Testing Credits: 3
+CSE 566LEC - Wireless Networks Security Credits: 3
+CSE 570LEC - Introduction to Parallel and Distributed Processing Credits: 3
+CSE 586LEC - Distributed Systems Credits: 3
+CSE 587LEC - Data Intensive Computing Credits: 3
+CSE 589LEC - Modern Network Concepts Credits: 3
+CSE 590LEC - Computer Architecture Credits: 3
+CSE 593LLB - Introduction to VLSI Electronics Credits: 3
+CSE 603LEC - Parallel and Distributed Processing Credits: 3
+CSE 620LEC - Adv Network Concepts Credits: 3
+CSE 622LEC - Advanced Computer Systems Credits: 3
+CSE 630LEC - Advanced Wireless Networking Concepts Credits: 3
+CSE 646LEC - Wireless Ntwkg & Mob Comp Credits: 3
+CSE 671LEC - Sec Wireless Sensr Ntwrks Credits: 3
+CSE 691LEC - Advanced VLSI Design Credits: 3
+Additional Requirements (1-3 credits)
+Select:
+One CSE 7XX level seminar  Credits: 1-3
+Excluding CSE 700 and CSE 799. 
+Research Track Electives (0-2 credits)
+Number of elective credits may vary depending on choice made to complete the culminating experience. Be sure to complete enough elective credit to reach 30 minimum total credit hours. 
+All graduate level Computer Science (CSE) courses.
+All graduate level School of Engineering and Applied Sciences (SEAS) courses.
+Management (MGT) courses with permission from Director of Graduate Studies (DGS).
+ART 543STU - Computational Media II: Design and Computational Thinking Credits: 3
+CDA 532LEC - Statistical Data Mining II Credits: 3
+DEE 501SEM - Foundations of Engineering Education Credits: 3
+DEE 502SEM - Equity and Inclusion in Engineering Education Credits: 3
+DEE 520SEM - Computing Education Credits: 3
+DMS 562SEM - Game Design Credits: 3
+EAS 501LEC - Introduction to Numerical Mathematics for Computing and Data Science Credits: 3
+EAS 503LEC - Programming and Database Fundamentals for Data Scientists Credits: 3
+EAS 600TUT - Individual Problems Credits: 1 - 3
+EE 520LEC - Quantum Computing and Devices Credits: 3
+EE 542LEC - Advanced Energy Grid Systems I Credits: 3
+LIS 500LEC - Special Topics in Information Technologies Credits: 1 - 6
+MGO 634LEC - Project Management Credits: 3
+MGO 660LEC - Intro to Entrepreneurship Credits: 3
+MGO 665SEM - Technological Entrepreneurship Credits: 3
+MGS 602LEC - Global IT Infrastructure Mgmt Credits: 3
+MGS 607LEC - Technology and Innovation Management Credits: 3
+MGS 610LEC - Digital Forensics Credits: 3
+MGS 616LEC - Predictive Analytics Credits: 3
+MGS 625LEC - Management of IT Projects Credits: 3
+MGS 628LEC - Data Visualization for Business Insights Credits: 3
+MGS 639LEC - Cybersecurity, Privacy & Ethics Credits: 3
+MGS 650LEC - Information Assurance Credits: 3
+MGS 655LEC - Distributed Computing and Big Data Technologies Credits: 3
+MGS 660LEC - Big Data Information Management: Architecture and Tools Credits: 1.5
+MTH 558LEC - Mathematical Finance Credits: 3
+PSY 575LEC - Intro to Cognitive Science Credits: 3
+STA 667LEC - Adv Bayesian Inference Credits: 3
+ STA 545LEC - Statistical Data Mining I Credits: 3
+or
+EAS 506LEC - Statistical Data Mining I Credits: 3
+or
+CDA 541LEC - Statistical Data Mining I Credits: 3
+ STA 546LEC - Data Mining II Credits: 3
+or
+EAS 507LEC - Statistical Data Mining II Credits: 3
+or
+MGS 640LEC - IT Risk Management Credits: 1.5
+Culminating Experience: Project or Thesis (1-5 credits)
+ CSE 799TUT - Supervised Research Credits: 1 - 3
+or
+CSE 800TUT - Thesis Guidance Credits: 1 - 12
+Total Credits: 30
+3.0 Degree GPA required
+  AI / ML Track
+AI / ML Track Required Core (15 credits)
+Theory and Algorithms (3 credits)
+CSE 531LEC - Analysis of Algorithms I Credits: 3
+Artificial Intelligence (3 credits)
+CSE 574LEC - Introduction to Machine Learning Credits: 3
+Software and Information Systems (6 credits)
+CSE 521LEC - Operating Systems Credits: 3
+CSE 565LEC - Computer Security Credits: 3
+Hardware and Networked Systems (3 credits)
+CSE 587LEC - Data Intensive Computing Credits: 3
+Depth Requirement & Project Capstone (9 credits)
+Capstone project to be complete in CSE 573. 
+CSE 560LEC - Data Models and Query Languages Credits: 3
+CSE 573LEC - Introduction to Computer Vision and Image Processing Credits: 3
+CSE 676LEC - Deep Learning Credits: 3
+AI / ML Track Electives (6 credits)
+Select from: 
+ART 543STU - Computational Media II: Design and Computational Thinking Credits: 3
+CSE 562LEC - Database Systems Credits: 3
+CSE 589LEC - Modern Network Concepts Credits: 3
+CSE 590LEC - Computer Architecture Credits: 3
+CSE 598TUT - Internship Credits: 1 - 3
+CSE 611LEC - MS Project Development Credits: 3
+CSE 700TUT - Independent Study Credits: 1 - 3  (with faculty permission)
+DEE 501SEM - Foundations of Engineering Education Credits: 3
+DEE 502SEM - Equity and Inclusion in Engineering Education Credits: 3
+DEE 520SEM - Computing Education Credits: 3
+EAS 501LEC - Introduction to Numerical Mathematics for Computing and Data Science Credits: 3
+EE 520LEC - Quantum Computing and Devices Credits: 3
+EE 542LEC - Advanced Energy Grid Systems I Credits: 3
+LIS 500LEC - Special Topics in Information Technologies Credits: 1 - 6
+MGO 634LEC - Project Management Credits: 3
+MGO 660LEC - Intro to Entrepreneurship Credits: 3
+MGO 665SEM - Technological Entrepreneurship Credits: 3
+MGS 602LEC - Global IT Infrastructure Mgmt Credits: 3
+MGS 607LEC - Technology and Innovation Management Credits: 3
+MGS 616LEC - Predictive Analytics Credits: 3
+MGS 625LEC - Management of IT Projects Credits: 3
+MGS 628LEC - Data Visualization for Business Insights Credits: 3
+MGS 639LEC - Cybersecurity, Privacy & Ethics Credits: 3
+MGS 640LEC - IT Risk Management Credits: 1.5
+MGS 650LEC - Information Assurance Credits: 3
+MGS 653LEC - Social Network Analytics Credits: 3
+MGS 660LEC - Big Data Information Management: Architecture and Tools Credits: 1.5
+MTH 558LEC - Mathematical Finance Credits: 3
+STA 667LEC - Adv Bayesian Inference Credits: 3
+ STA 545LEC - Statistical Data Mining I Credits: 3
+or
+CDA 541LEC - Statistical Data Mining I Credits: 3
+or
+EAS 506LEC - Statistical Data Mining I Credits: 3
+ STA 546LEC - Data Mining II Credits: 3
+or
+EAS 507LEC - Statistical Data Mining II Credits: 3
+ CSE 575LEC - Intro to Cognitive Sci Credits: 3
+or
+LIN 575LEC - Intro to Cognitive Sci Credits: 3
+or
+PHI 575LEC - Introduction to Cognitive Science Credits: 3
+or
+PSY 575LEC - Intro to Cognitive Science Credits: 3
+Total Credit Hours: 30
+3.0 Degree GPA required
+  Systems Track
+Systems Track Required Core (15 credits)
+Theory and Algorithms (3 credits)
+CSE 531LEC - Analysis of Algorithms I Credits: 3
+Artificial Intelligence (3 credits)
+CSE 574LEC - Introduction to Machine Learning Credits: 3
+Software and Information Systems (6 credits)
+CSE 521LEC - Operating Systems Credits: 3
+CSE 565LEC - Computer Security Credits: 3
+Hardware and Networked Systems (3 credits)
+CSE 587LEC - Data Intensive Computing Credits: 3
+Depth Requirement & Project Capstone (9 credits)
+Capstone project to be complete in CSE 562.
+CSE 562LEC - Database Systems Credits: 3
+CSE 589LEC - Modern Network Concepts Credits: 3
+CSE 590LEC - Computer Architecture Credits: 3
+Systems Track Electives (6 credits)
+Select from:
+ART 543STU - Computational Media II: Design and Computational Thinking Credits: 3
+CSE 560LEC - Data Models and Query Languages Credits: 3
+CSE 573LEC - Introduction to Computer Vision and Image Processing Credits: 3
+CSE 598TUT - Internship Credits: 1 - 3
+CSE 611LEC - MS Project Development Credits: 3
+CSE 676LEC - Deep Learning Credits: 3
+CSE 700TUT - Independent Study Credits: 1 - 3  (with faculty permission)
+DEE 501SEM - Foundations of Engineering Education Credits: 3
+DEE 502SEM - Equity and Inclusion in Engineering Education Credits: 3
+DEE 520SEM - Computing Education Credits: 3
+EAS 501LEC - Introduction to Numerical Mathematics for Computing and Data Science Credits: 3
+EE 520LEC - Quantum Computing and Devices Credits: 3
+EE 542LEC - Advanced Energy Grid Systems I Credits: 3
+LIS 500LEC - Special Topics in Information Technologies Credits: 1 - 6
+MGO 634LEC - Project Management Credits: 3
+MGO 660LEC - Intro to Entrepreneurship Credits: 3
+MGO 665SEM - Technological Entrepreneurship Credits: 3
+MGS 602LEC - Global IT Infrastructure Mgmt Credits: 3
+MGS 607LEC - Technology and Innovation Management Credits: 3
+MGS 616LEC - Predictive Analytics Credits: 3
+MGS 625LEC - Management of IT Projects Credits: 3
+MGS 628LEC - Data Visualization for Business Insights Credits: 3
+MGS 639LEC - Cybersecurity, Privacy & Ethics Credits: 3
+MGS 640LEC - IT Risk Management Credits: 1.5
+MGS 650LEC - Information Assurance Credits: 3
+MGS 653LEC - Social Network Analytics Credits: 3
+MTH 558LEC - Mathematical Finance Credits: 3
+STA 667LEC - Adv Bayesian Inference Credits: 3
+ STA 545LEC - Statistical Data Mining I Credits: 3
+or
+CDA 541LEC - Statistical Data Mining I Credits: 3
+or
+EAS 506LEC - Statistical Data Mining I Credits: 3
+ STA 546LEC - Data Mining II Credits: 3
+or
+EAS 507LEC - Statistical Data Mining II Credits: 3
+ CSE 575LEC - Intro to Cognitive Sci Credits: 3
+or
+LIN 575LEC - Intro to Cognitive Sci Credits: 3
+or
+PHI 575LEC - Introduction to Cognitive Science Credits: 3
+or
+PSY 575LEC - Intro to Cognitive Science Credits: 3
+Total Credit Hours: 30
+3.0 Degree GPA required
+  Instruction Method
+In Person (100 percent of courses offered in person)
+Full/Part Time Options
+Full Time
+Credits Required
+30 Hours
+Time-To-Degree
+1.5 to 2 Years
+Application Fee
+$85
+Admission Tests **
+GRE
+Program Contact
+School of Engineering and Applied Sciences
+Office of Graduate Education
+415 Bonner Hall
+Buffalo, NY 14260
+Email: gradeng@buffalo.edu
+SED Statement
+This program is officially registered with the New York State Education Department (SED).
+Online programs/courses may require students to come to campus on occasion. Time-to-degree and number of credit hours may vary based on full/part time status, degree, track and/or certification option chosen. Time-to-degree is based on calendar year(s). Contact the department for details.
+** At least one of the admissions tests are required for admission. Test and score requirements/exceptions vary by program. Contact the department for details.
+Return to: Department/Program
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2024 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

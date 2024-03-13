@@ -3,7 +3,7 @@ from tempfile import NamedTemporaryFile
 from helper_chatgpt import gptResponse
 import time
 
-AUDIO_RECOG = True
+AUDIO_RECOG = False
 FACE_RECOG = True
 TRANSCRIBE = True
 EMOTION = True
@@ -30,7 +30,7 @@ if EMOTION:
     import matplotlib.pyplot as plt
     import cv2
     from PIL import Image
-    import timm
+    #import timm
 
     PATH='models/emotions.pt'
     try:
@@ -86,10 +86,11 @@ if FACE_RECOG:
     import os
     import numpy as np
     import time
+    from facenet_pytorch.models.mtcnn import MTCNN
 
     face_recog_app = FaceAnalysis(providers=['CUDAExecutionProvider', 'CPUExecutionProvider'])
     face_recog_app.prepare(ctx_id=0, det_size=(640, 640))
-
+    mtcnn_detector = MTCNN(margin=0, thresholds=[0.85,0.95,0.95], device='cuda:0')
     handler = insightface.model_zoo.get_model('buffalo_l')
     handler.prepare(ctx_id=0)
 
@@ -195,8 +196,8 @@ if AUDIO_RECOG:
     
 
 def give_emotion(face, img):
-    (x1,y1) = int(face['bbox'][0]), int(face['bbox'][1])
-    (x2,y2) = int(face['bbox'][2]) , int(face['bbox'][3]) 
+    (x1,y1) = face[0],face[1]#int(face['bbox'][0]), int(face['bbox'][1])
+    (x2,y2) = face[2],face[3]#int(face['bbox'][2]) , int(face['bbox'][3]) 
 
     face_img = img[y1:y2,x1:x2,:]
             
@@ -230,31 +231,46 @@ if FACE_RECOG:
         image = cv2.imdecode(np.frombuffer(image_file.read(), np.uint8), cv2.IMREAD_UNCHANGED)
         
         faces = face_recog_app.get(image)
-        if len(faces) != 0:
-            for i in range(len(faces)):
-                det_embd = handler.get(image, faces[i])
-                detected_p = None
-                accu = -1
-                for key, value in face_stored_embeddings.items():
-                    recog = handler.compute_sim(value, det_embd )
-                    if recog > accu:
-                        detected_p = key
-                        accu = recog
-                color = (0,255,0)
-                if accu < 0.2:
-                    detected_p = None
-                    accu = 0
-                    color = (0,255,0)
-                    #image = app.draw_on(image, [faces[i]] )
+        boxes,_ = mtcnn_detector.detect(image)
+        # if len(faces) != 0:
+        #     for i in range(len(faces)):
+        #         det_embd = handler.get(image, faces[i])
+        #         detected_p = None
+        #         accu = -1
+        #         for key, value in face_stored_embeddings.items():
+        #             recog = handler.compute_sim(value, det_embd )
+        #             if recog > accu:
+        #                 detected_p = key
+        #                 accu = recog
+        #         color = (0,255,0)
+        #         if accu < 0.2:
+        #             detected_p = None
+        #             accu = 0
+        #             color = (0,255,0)
+        #             #image = app.draw_on(image, [faces[i]] )
+        if boxes is not None:
+            for box in boxes:
+                x,y,w,h = box
+                x1,y1 = int(x), int(y)
+                x2,y2= int(x1+w), int(y1+h)
                 label = None
                 if EMOTION:
-                    label = give_emotion( faces[i] , image)
+                    label = give_emotion( [x1,y1,x2,y2] , image)
 
+                # print(faces[i]['bbox'])
+                # (x1,y1) = int(faces[i]['bbox'][0]), int(faces[i]['bbox'][1])
+                # (x2,y2) = int(faces[i]['bbox'][2]) , int(faces[i]['bbox'][3])
+                #image = face_recog_app.draw_on_mod(image, [faces[i]], detected_p , label , str(round(accu , 2)) , color)
                 
-                image = face_recog_app.draw_on_mod(image, [faces[i]], detected_p , label , str(round(accu , 2)) , color)
+                cv2.rectangle(image, (x1,y1), (x1 + x2, y1 + y2), (0, 255, 0), 2)
+
+                # Display the label and accuracy percentage
+                text = f"{label}"
+                cv2.putText(image, text, (x1, y1-10), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
+
 
         
-        cv2.imwrite('processed_image.jpg', image)
+        # cv2.imwrite('processed_image.jpg', image)
         _, image_encoded = cv2.imencode('.jpg', image)
         
         # for filename, handle in request.files.items():

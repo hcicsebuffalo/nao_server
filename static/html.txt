@@ -34,10 +34,13 @@
                 </style>
             </head>
             <body>
-            <h1> Who is the Vice President of University at Buffalo?</h1>
+            <h1> Can you tell our new undergrad students something about...</h1>
             <div class="container">
                             <div class="text">
-                <p><br> <br>As of the most recent update on 2023-12-02, the Vice President of the University at Buffalo is Vino. <br><br> Please find the source: <br></p>
+                <p><br> <br>  Sure thing! Here's some information about...<br><br>Question: What is AAS 568SEM - Introduction to Teaching Undergraduates?<br><br>Please select one of the following options to indicate your answer:<br><br>A) It's a course that teaches undergraduate students how to teach other undergraduate students.<br>B) It's a course that teaches graduate students how to teach undergraduate students.<br>C) It's a course that teaches both undergraduate and graduate students how to teach undergraduate students.<br>D) It's a course that teaches undergraduate students how to teach other undergraduate students, but only if they are also graduate students.<br><br>Please select one of the above options by clicking on the corresponding letter. <br><br> Please find the source: <br></p>
+                <br>
+            
+                <a href = https://catalogs.buffalo.edu/preview_course_nopop.php?catoid=2&coid=4362> https://catalogs.buffalo.edu/preview_course_nopop.php?catoid=2&coid=4362 </a>
                 </div>
                 <img src="static/output_img1.png">
                 </div>

@@ -1,0 +1,140 @@
+School of Engineering and Applied Sciences
+UB HomeMapsUB Directory
+Department of Computer Science
+and Engineering
+Give to CSE Apply Now Contact Us
+About Us
+Undergraduate
+Graduate
+Research
+People
+News & Events
+Alumni
+SEARCH
+INFO FOR
+Department of Computer Science and Engineering News & Events News SUNY chancellor touts UB as national leader in AI
+News & Events
+News
+In the Media
+Recognitions
+Newsletters
+Events
+CSE Departmental Anniversaries
+CSE Commencements
+CSE Demo Days
+CSE Distinguished Speaker Series
+CSE Industrial Career Days
+CSE Symposia
+CSE Transitions
+CSExplore
+Russell L. Agrusa CSE Student Innovation Competition
+UB Hacking
+Employment Opportunities
+Related Links
+UB News
+UB Events
+SEAS News
+RESEARCH NEWS
+SUNY chancellor touts UB as national leader in AI
+Panelists offering their perspectives on AI are (from left) David Castillo, Christine Wang, Ciprian "Chip" Ionita and Ifeoma Nwogu. Venu Govindaraju (far right) served as moderator. Photo: Meredith Forrest Kulwicki
+By LAURIE KAISER
+Published September 8, 2023
+Share This Print
+“The University at Buffalo is a groundbreaker in the field. ”
+SUNY Chancellor John B. King Jr.
+Artificial intelligence is much more than ChatGPT. It’s a tool that can help professionals — from scientists and teachers to physicians and farmers — make data-informed decisions to address society’s most pressing challenges.
+UB stands at the forefront of AI research and exploration. This was evident during the Sept. 6 launch of a panel discussion series called UB | AI Chat Series, “Harnessing AI for Public Good.”
+SUNY Chancellor John B. King Jr. joined President Satish K. Tripathi in Capen Hall to kick off the series that features faculty members from a variety of disciplines who are developing ways to use AI for the betterment of society. Approximately 60 audience members from the UB community attended.
+“The University at Buffalo is a groundbreaker in the field,” said King, who noted that UB recently received $20 million from the National Science Foundation to fund its new National AI Institute for Exceptional Education.
+The institute, which is designed to ensure that children with speech and language disorders do not fall behind academically, is among several cutting-edge AI initiatives at UB. Others include the Institute for Artificial Intelligence and Data Science and the Center for Information Integrity.
+“Today we’re here to discuss an area of interdisciplinary strength that has implications for every aspect of our life — from our homes and health to education, transportation, communication, national security and much more,” Tripathi said. “I’m speaking, of course, about artificial intelligence.”
+Venu Govindaraju, vice president for research and economic development and SUNY Distinguished Professor of Computer Science and Engineering, moderated the discussion with four faculty members.
+The panel discussion launched the new series UB | AI Chat Series, "Harnessing AI for the Public Good. Photos: Douglas Levere and Meredith Forrest Kulwicki
+First, he laid out a timeline of AI’s influence and highlighted UB’s decades-long leadership in the field, including work in the 1990s when Govindaraju — along with a team of faculty, staff and students — led a project that developed a machine-learning system for postal mail, saving the U.S. Postal Service millions of dollars.
+In the ensuing decades, AI has been harnessed to make robots that simulate human emotions, social media algorithms that measure user experience and virtual assistants that can provide seemingly infinite amounts of information.
+“The volume and complexity of data is too vast for humans to process,” Govindaraju said. “What computers can process in one second would take 36 billion years for humans.”[CN1]
+Over the next hour, he directed questions to the panel members who have studied AI from a variety of viewpoints:
+Ciprian “Chip” Ionita, assistant professor in the Department of Biomedical Engineering, which is a joint program of the School of Engineering and Applied Sciences and the Jacobs School of Medicine and Biomedical Sciences.
+Christine Wang, professor in the Department of Learning and Instruction and director of the Fisher-Price-Endowed Early Childhood Research Center in the Graduate School of Education.
+Ifeoma Nwogu, associate professor in the Department of Computer Science and Engineering and co-director of graduate studies in the School of Engineering and Applied Sciences.
+David Castillo, professor in the Department of Romance Languages and Literatures, College of Arts and Sciences, and co-director of the Center for Information Integrity.
+Govindaraju asked questions about everything from what AI means to them to its potential to benefit and improve specific industries and services.
+Ionita noted that AI can help stroke victims communicate and guide surgeons in predicting patient outcomes based on information discovered during procedures. And in the near future, he said, wearable devices will help detect chronic diseases earlier and save lives.
+“AI continues to make progress in medicine,” Ionita said. “The key is to make it transparent for physicians and explainable to the public.”
+Wang said AI can aid K-12 classroom teaching, including personalized learning for students with a range of learning styles and abilities, as well as augmented reality that allows teachers to do things like take students on virtual field trips.
+At the same time, Wang emphasized the importance of instilling soft skills in students so that they will be good communicators and patient with those with differing viewpoints.
+“We have to think critically about how AI impacts our lives,” Wang said. “What are the ethical concerns? What will be the most effective and equitable for young learners?” 
+The talk Wednesday marks the beginning of a two-year series that will highlight how UB researchers from across academic disciplines are using AI to improve society.
+Chancellor John B. King meets with UB deans (left) and students at UB's Blackstone LaunchPad. Photos: Douglas Levere and Meredith Forrest Kulwicki
+King noted the important role that faculty members play in helping to understand a changing world.
+“In such times educators and researchers must be beacons of insight and morality, of common sense and uncommon insight, of explanation and observation, and of, more than anything else, a reverence for knowledge, a desire to advance understanding, and a wish that all which we discover will better the lives of our planet’s inhabitants,” King said.
+Prior to the panel discussion, King met with students who are participating in Blackstone LaunchPad, an experiential campus program designed to introduce entrepreneurship as a viable career path. 
+“It was exciting to hear from the students and see their energy,” King said. “Blackstone provides opportunities for internships, mentoring and academic learning in a real-world environment.”
+UB is actively monitoring developments related to COVID-19. Please check with event organizers for the most up-to-date information about scheduled events. 
+UPCOMING SEAS EVENTS
+Mar
+11
+WOAA x DREAM — Technical Workshop AVL Part One
+5:00 PM - 6:00 PM
+Mar
+12
+MAE Seminar — Beyond Horizon: A One-Shot Space Exploration Paradigm Through Autonomous Space Systems
+11:00 AM - 12:00 PM
+Furnas Hall - Room 206
+Mar
+12
+Materials Design and Innovation Exploration Day
+11:30 AM - 1:00 PM
+Davis Hall – Salvador Lounge (2nd Floor)
+Mar
+12
+ISE — INDUSTRY PANEL 2024
+6:00 PM - 7:30 PM
+Mar
+13
+WiSE and Career Design Center — Science and Tech Interview Blitz
+2:00 PM - 4:00 PM
+MORE UPCOMING SEAS EVENTS
+LATEST NEWS
+3/7/24 Everything to know about OpenAI's new text-to-video generator
+3/7/24 College students love Sidechat. Colleges, not so much.
+2/27/24 Xiong recognized for contributions to semiconductor manufacturing process
+2/23/24 Amazon Accused Of Using AI Voices For “Road House” Remake
+2/21/24 UB computer science professor weighs in on bias in facial recognition software
+MORE NEWS
+
+SHARE THE NEWS
+Have some news or an event to share with us? Please send it to cse-dept@buffalo.edu.
+CONNECT WITH US
+Connect With Us
+Computer Science and Engineering
+338 Davis Hall
+Buffalo, New York 14260-2500
+(716) 645-3180
+Quick Links
+Why Choose CSE?
+News & Events
+Employment Opportunities
+Give to CSE
+Contact Us
+Admissions
+Undergraduate Admissions
+Graduate Admissions
+Explore Further
+Get Involved
+Engineering and Applied Sciences Alumni Association
+Support SEAS
+Collaborate with UB
+On This Website
+About Us
+Undergraduate Programs
+Graduate Programs
+Research
+People
+News & Events
+Full Site Map
+Information For
+Students
+Faculty and Staff
+Alumni
+© 2024 University at Buffalo. All rights reserved.  |  Privacy  |  Accessibility

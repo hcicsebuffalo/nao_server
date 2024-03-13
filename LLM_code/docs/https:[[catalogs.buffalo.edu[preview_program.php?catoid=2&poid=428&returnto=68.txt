@@ -1,0 +1,138 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Graduate Catalog
+2023-2024 Graduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Graduate School Policies and Procedures
+A-Z Program List
+Courses
+Department/Program
+Degree Level
+Accreditations
+Class Schedule
+myUB
+a
+Data Sciences and Applications MPS
+The Master of Professional Studies in Data Sciences and Applications program focuses on equipping students with the necessary skills in analytics to derive valuable insights from large and diverse datasets. Students will receive training in various data mining and machine learning techniques, enabling them to analyze and extract meaningful information from complex data effectively.
+Apply Now
+Request More Information
+Required Core (27 credits)
+Programming for Data Scientists Course (3 credits)
+Select 1 from:
+CDA 501LEC - Introduction to Data Driven Analysis and Programming for Data Scientists Credits: 3
+EAS 503LEC - Programming and Database Fundamentals for Data Scientists Credits: 3
+Database Management Systems Course (3 credits)
+Select 1 from:
+CDA 502LEC - Database Management Systems Credits: 3
+MGS 613LEC - Database Mgmt Systems Credits: 3
+Computational Science Course (3 credits)
+Select 1 from:
+CDA 511LEC - Fundamentals of Computational Science Credits: 3
+MTH 537LEC - Intro Numeric Analysis 1 Credits: 3
+Probability Theory Course (3 credits)
+Select 1 from:
+CDA 531LEC - Probability and Data Analysis Credits: 3
+MTH 511LEC - Probability Theory Credits: 3
+Statistical Data Mining I Course (3 credits)
+Select 1 from:
+CDA 541LEC - Statistical Data Mining I Credits: 3
+EAS 506LEC - Statistical Data Mining I Credits: 3
+STA 545LEC - Statistical Data Mining I Credits: 3
+Statistical Data Mining II Course (3 credits)
+Select 1 from:
+CDA 532LEC - Statistical Data Mining II Credits: 3
+EAS 507LEC - Statistical Data Mining II Credits: 3
+STA 546LEC - Data Mining II Credits: 3
+Machine Learning Course (3 credits)
+Complete:
+CSE 574LEC - Introduction to Machine Learning Credits: 3
+Cybersecurity, Privacy & Ethics Course (3 credits)
+Select 1 from:
+CDA 551LEC - Cybersecurity, Privacy & Ethics Credits: 3
+MGS 639LEC - Cybersecurity, Privacy & Ethics Credits: 3
+Applications of Data Science Course (3 credits)
+Select 1 from:
+CDA 561 - Major Applications  Credits: 3  (course in development)
+EAS 504LEC - Applications of Data Science: Industry Overview Credits: 3
+Electives & Culminating Experience (3 credits)
+Electives (0-3 credits)
+Number of elective credits may vary depending on choice made to complete the culminating experience. Be sure to complete enough elective credit to reach 30 minimum total credit hours. 
+BMI 503SEM - Biomedical Informatics Credits: 3
+CDA 500LEC - Special Topics Credits: 1 - 3
+CSE 526LEC - Blockchain Application Development Credits: 3
+CSE 529LEC - Algorithms for Modern Computing Systems Credits: 3
+CSE 531LEC - Analysis of Algorithms I Credits: 3
+CSE 535LEC - Information Retrieval Credits: 3
+CSE 546LEC - Reinforcement Learning Credits: 3
+CSE 555LEC - Introduction to Pattern Recognition Credits: 3
+CSE 560LEC - Data Models and Query Languages Credits: 3
+CSE 562LEC - Database Systems Credits: 3
+CSE 573LEC - Introduction to Computer Vision and Image Processing Credits: 3
+CSE 676LEC - Deep Learning Credits: 3
+ECO 525SEM - Econ of Fin Institutions Credits: 3
+GEO 511LEC - Spatial Data Science Credits: 3
+GEO 514LEC - GIS and Machine Learning Credits: 3
+GGB 502LEC - Essentials of Genetics & Genomics Credits: 3
+IE 511LEC - Social Network Behavior Models Credits: 3
+IE 535LEC - Human Centered Design for Interactive Systems Credits: 3
+IE 572LEC - Linear Programming Credits: 3
+IE 575LEC - Stochastic Methods Credits: 3
+MGS 614LEC - Systems Analysis & Design Credits: 3
+MGS 616LEC - Predictive Analytics Credits: 3
+MGS 626LEC - Data Visualization Credits: 1.5
+MGS 628LEC - Data Visualization for Business Insights Credits: 3
+MGS 653LEC - Social Network Analytics Credits: 3
+MGS 655LEC - Distributed Computing and Big Data Technologies Credits: 3
+MGS 657LEC - Online Analytical Processing: Data Warehousing Credits: 3
+MGS 659LEC - Web Analytics and Optimization Techniques for eCommerce Credits: 3
+MGS 660LEC - Big Data Information Management: Architecture and Tools Credits: 1.5
+MGS 662LEC - Optimization Methods for Machine Learning Credits: 3
+MGS 670LEC - Health Care Analytics Credits: 3
+MTH 534LEC - Basic Measure Theory Credits: 3
+MTH 550LEC - Network Theory Credits: 3
+MTH 558LEC - Mathematical Finance Credits: 3
+PHY 501LEC - Introduction to Mathematical Physics I Credits: 3
+PSC 508SEM - Basic Statistics for Social Sciences Credits: 3
+PSC 534SEM - Text as Data Credits: 3
+STA 503LEC - Introduction to Applied Statistics I Credits: 3
+STA 504LEC - Introduction to Applied Statistics II Credits: 3
+STA 505LEC - Intro Biostatistics Credits: 3
+STA 509LEC - Statistical Genetics Credits: 3
+STA 517LEC - Categorical Data Analysis Credits: 3
+STA 527LEC - Statistical Analysis I Credits: 3
+STA 528LR - Statistical Analysis II Credits: 4
+STA 529LR - Statistical Analysis III Credits: 4
+Culminating Experience: Exam or Project (0-3 credits)
+CDA 571TUT - Project Guidance Credits: 1 - 3
+Total Credit Hours: 30
+3.0 Degree GPA required
+  Instruction Method
+In Person (100 percent of courses offered in person)
+Full/Part Time Options
+Full Time
+Part Time
+Credits Required
+30 Hours
+Time-To-Degree
+1 to 2 Years
+Application Fee
+$85
+Program Contact
+School of Engineering and Applied Sciences
+Office of Graduate Education
+415 Bonner Hall
+Buffalo, NY 14260
+Email: gradeng@buffalo.edu
+SED Statement
+This program is officially registered with the New York State Education Department (SED).
+Online programs/courses may require students to come to campus on occasion. Time-to-degree and number of credit hours may vary based on full/part time status, degree, track and/or certification option chosen. Time-to-degree is based on calendar year(s). Contact the department for details.
+Return to: A-Z Program List
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2024 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

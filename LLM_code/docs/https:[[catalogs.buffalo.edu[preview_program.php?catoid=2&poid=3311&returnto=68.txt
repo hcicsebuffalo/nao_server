@@ -1,0 +1,130 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Graduate Catalog
+2023-2024 Graduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Graduate School Policies and Procedures
+A-Z Program List
+Courses
+Department/Program
+Degree Level
+Accreditations
+Class Schedule
+myUB
+a
+Computational Earth Science MS
+This MS degree in Computational Earth Science program is aimed at both Earth science graduate students who want to develop expertise in computational research, and graduate students with a background in Computer science who would like to apply those skills to the Earth sciences. The demand for professional labor force skilled in Earth sciences, alongside scientific computation has grown tremendously over the last decade, and all indications are that such growth will further accelerate in the near future. Our program in Computational Earth Science aims to provide students with the skills required to enter the 21st century professional workforce, thus making them highly desirable prospect for employment in industry, government and national laboratories, or to continue on to a doctoral program in the Earth sciences or computational fields. 
+Apply Now
+Request More Information
+Required Core (9-10 credits)
+GLY 501LEC - Elements of Geol. Res. Credits: 3
+GLY 573LEC - Introduction to Computational Earth Science Credits: 3
+ GLY 527LLB - Statistics & Modeling of Geologic Data Credits: 4
+or
+GLY 529LEC - Analysis of Geol Data 1 Credits: 3
+Foundational Courses in Computational Earth Sciences (6 credits)
+Select 2 courses not previously taken from:
+GLY 514LLB - Hydrogeology Credits: 3
+GLY 519LLB - Environmental Geophysics Credits: 3
+GLY 527LLB - Statistics & Modeling of Geologic Data Credits: 4
+GLY 529LEC - Analysis of Geol Data 1 Credits: 3
+GLY 530LLB - Applied Groundwater Flow Modeling Credits: 3
+GLY 547LLB - Glaciology Credits: 3
+GLY 550LLB - Geodynamics Credits: 3
+GLY 565LLB - Environmtl Remote Sensing Credits: 3
+GLY 577LEC - Adv Physical Volcanology Credits: 3
+Any graduate elective approved by program director.
+Earth Science Enrichment Courses (3-6 credits)
+Select 1-2 courses not previously taken from:
+GLY 548SEM - Quaternary Geology Seminar Credits: 1 - 3
+or
+GLY 595SEM - Environmental Geosciences Seminar Credits: 1
+or
+GLY 597SEM - Geohazards, Volcanology & Geodynamics Seminar Credits: 1 - 4
+ GLY 507LEC - Geological Field Training Credits: 2
+GLY 528LEC - Geologic Hazards & Risk Credits: 3
+GLY 531LEC - Volcanology Credits: 3
+GLY 533LEC - Volcanic Rocks Credits: 3
+GLY 538LEC - Advanced Stratigraphy Credits: 1 - 3
+GLY 545LEC - Glacial Geology Credits: 3
+GLY 545LAB - Glacial Geology Lab Credits: 1
+GLY 553LEC - Quat Dating/Paleoclimate Credits: 3
+GLY 554LEC - Topics: Planetary Geosciences Credits: 3
+GLY 562LLB - Aqueous Geochemistry Credits: 3
+GLY 569LEC - Biogeochemistry and Ecosystem Ecology Credits: 3
+GLY 570LLB - Fracture &Flow Earth Materials Credits: 3
+GLY 579LEC - Carbon Reduction Challenge Credits: 3
+GLY 596SEM - Adv Stud Faults & Fract Credits: 1
+Any Foundational courses not taken above.
+Any graduate elective approved by program director.
+Computational Science Enrichment Courses (3-6 credits)
+Select 1-2 courses not previously taken from:
+CDA 610LEC - High Performance Computing II Credits: 3
+or
+MAE 610LEC - High Perform Computing 2 Credits: 3
+or
+PHY 516LEC - High Perform Computing 2 Credits: 3
+ GLY 574LEC - Topics in Volcanology Credits: 1 - 3
+GLY 609LEC - High Performance Computing 1 Credits: 3
+CIE 546LEC - Env Fluid Mechanics Credits: 3
+CSE 517LEC - Introduction to the R Programming Language Credits: 1
+CSE 555LEC - Introduction to Pattern Recognition Credits: 3
+CSE 574LEC - Introduction to Machine Learning Credits: 3
+CSE 587LEC - Data Intensive Computing Credits: 3
+CSE 674LEC - Advanced Machine Learning Credits: 3
+CSE 676LEC - Deep Learning Credits: 3
+EAS 501LEC - Introduction to Numerical Mathematics for Computing and Data Science Credits: 3
+EAS 508LEC - Statistical Learning and Data Mining I Credits: 3
+GEO 505LLB - Univariate Stat in Geog Credits: 4
+GEO 506LLB - Geographical Informat Sys Credits: 4
+GEO 509LEC - Multivariate Stat in Geog Credits: 3
+GEO 511LEC - Spatial Data Science Credits: 3
+GEO 577LEC - Environmental Statistics Credits: 3
+GEO 597LEC - Geostatistics Credits: 3
+GEO 605LEC - Spatial Statistics Credits: 3
+MTH 537LEC - Intro Numeric Analysis 1 Credits: 3
+MTH 538LEC - Intro Numeric Analysis 2 Credits: 3
+MTH 548LEC - Data-oriented Computing Credits: 3
+STA 511LEC - Advanced Statistical Computing Credits: 3
+STA 521LEC - Intro Theoretical Stat 1 Credits: 3
+STA 522LEC - Intro Theoretical Stat 2 Credits: 3
+Any graduate elective approved by program director.
+Electives & Culminating Experience (3-6 credits)
+Number of elective credits may vary depending on choice made to complete the culminating experience. Be sure to complete enough elective credit to reach 30 minimum total credit hours. 
+Project Option (3 credits)
+Students who complete the project option for their culminating experience will take 3 credits of: 
+GLY 633TUT - Graduate Research Credits: 1 - 12
+Thesis Option (6 credits)
+Students who choose the thesis option for thier culminating experience will complete 6 credits of:
+GLY 700TUT - Thesis Guidance Credits: 1 - 12
+Total Credit Hours: 30
+3.0 Degree GPA required
+  Instruction Method
+In Person (100 percent of courses offered in person)
+Full/Part Time Options
+Full Time
+Credits Required
+30 Hours
+Time-To-Degree
+2 to 4 Years
+Application Fee
+$75
+Program Contact
+Sharon Hassett
+126 Cooke Hall
+Buffalo, NY 14260
+Email: shassett@buffalo.edu
+Phone: 716-645-4860
+SED Statement
+This program is officially registered with the New York State Education Department (SED).
+Online programs/courses may require students to come to campus on occasion. Time-to-degree and number of credit hours may vary based on full/part time status, degree, track and/or certification option chosen. Time-to-degree is based on calendar year(s). Contact the department for details.
+Return to: A-Z Program List
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2024 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

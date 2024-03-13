@@ -24,23 +24,23 @@ import time
 import subprocess
 import qrcode
 from pdf2image import convert_from_bytes
-import timm
+#import timm
 
-os.environ['CUDA_VISIBLE_DEVICES'] = "0,1,2,3"
+os.environ['CUDA_VISIBLE_DEVICES'] = "0,1"
 os.environ["TRANSFORMERS_CACHE"] = '/data/'
 #os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "max_split_size_mb:4096"
 images1 = convert_from_bytes(open(
-    'data/grad-handbook-2023.pdf', 'rb').read())
+    '/home/csgrad/sunilruf/nao_server/LLM_code/data/grad-handbook-2023.pdf', 'rb').read())
 
 documents = []
-for file in os.listdir("docs3"):
+for file in os.listdir("/home/csgrad/sunilruf/nao_server/LLM_code/docs"):
     if file.endswith('.txt'):
-        text_path = "docs3/" + file
+        text_path = "/home/csgrad/sunilruf/nao_server/LLM_code/docs/" + file
         loader = TextLoader(text_path)
         documents.extend(loader.load())
-for file in os.listdir("data"):
+for file in os.listdir("/home/csgrad/sunilruf/nao_server/LLM_code/data"):
     if file.endswith(".pdf"):
-        pdf_path = "data/" + file
+        pdf_path = "/home/csgrad/sunilruf/nao_server/LLM_code/data/" + file
         loader = PyPDFLoader(pdf_path)
         documents.extend(loader.load())
 text_splitter = CharacterTextSplitter(chunk_size=4000, chunk_overlap=20)
@@ -49,7 +49,7 @@ embeddings = HuggingFaceEmbeddings(model_name="hkunlp/instructor-base")
 vectordb = FAISS.from_documents(documents, embeddings)
 try:
     print("Entered context handbook updation")
-    with open('../context_handbook.txt', 'r') as file:
+    with open('/home/csgrad/sunilruf/nao_server/context_handbook.txt', 'r') as file:
         data = file.read().replace('\n', '')
 except:
     print("No data in context_handbook")
@@ -122,7 +122,7 @@ llm = HuggingFacePipeline(pipeline=generate_text)
 pdf_qa = ConversationalRetrievalChain.from_llm(
     llm,
     vectordb.as_retriever(search_type = "similarity_score_threshold", search_kwargs={'score_threshold': 0.5, 'k': 4}),
-    max_tokens_limit=4000,
+    max_tokens_limit=3000,
     return_source_documents=True,
     verbose=False
 )
@@ -151,7 +151,7 @@ def LLMResponse(query):
                                                           vectordb.as_retriever(search_kwargs={"k": 2}),verbose=False)
             result['answer'] = "The information is updated.Thank you"
             
-            with open("../context_handbook.txt", "a") as context_file:
+            with open("/home/csgrad/sunilruf/nao_server/context_handbook.txt", "a") as context_file:
                 context_file.write("Updated info as of " + str(date) + ": " + query + "\n")
             
             source = """
@@ -206,7 +206,7 @@ def LLMResponse(query):
             final_html = source % (query, output)
             print(f"{white}Answer: " + str(result["answer"]))
             
-            with open('../static/html.txt', 'w') as f:
+            with open('/home/csgrad/sunilruf/nao_server/static/html.txt', 'w') as f:
                 f.write(final_html)
             return result['answer']
 
@@ -224,13 +224,14 @@ def LLMResponse(query):
                 page_no = result['source_documents'][0].metadata['page']
                 print("PdF -->", result['source_documents'][0].metadata)
                 #images1[page_no]
-                images1[page_no].save('../static/output_img1.png')
+                images1[page_no].save('/home/csgrad/sunilruf/nao_server/static/output_img1.png')
             except:
                 pass
             try:
                 if 'http' in (result['source_documents'][0].metadata)['source']:
-                    website_url = (result['source_documents'][0].metadata)['source'].split('/')[2][:-4]
+                    website_url = (result['source_documents'][0].metadata)['source'].split('/')[-1][:-4]
                     website_url = website_url.replace("[","/")
+                    print(website_url)
                     qr = qrcode.QRCode(
                     version=1,  # QR code version (adjust as needed)
                     error_correction=qrcode.constants.ERROR_CORRECT_L,  # Error correction level
@@ -242,7 +243,7 @@ def LLMResponse(query):
                     qr.make(fit=True)
                     # Create an image from the QR code
                     qr_image = qr.make_image(fill_color="black", back_color="white")
-                    qr_image.save("../static/output_img1.png")
+                    qr_image.save("/home/csgrad/sunilruf/nao_server/static/output_img1.png")
             except:
                 pass
             chat_history.append((query, result["answer"]))
@@ -286,6 +287,9 @@ def LLMResponse(query):
             <div class="container">
                             <div class="text">
                 <p>%s</p>
+                <br>
+            
+                <a href = %s> %s </a>
                 </div>
                 <img src="%s">
                 </div>
@@ -294,7 +298,7 @@ def LLMResponse(query):
     """
             answer = result['answer'].replace("\n", "<br>")
             output = "<br> <br>" + answer + " <br><br> Please find the source: <br>"
-            final_html = source % (query, output, "../static/output_img1.png")
-            with open('../static/html.txt', 'w') as f:
+            final_html = source % (query, output, website_url, website_url, "static/output_img1.png")
+            with open('/home/csgrad/sunilruf/nao_server/static/html.txt', 'w') as f:
                 f.write(final_html)
             return result['answer']

@@ -29,14 +29,14 @@ images1 = convert_from_bytes(open(
     '/home/csgrad/sunilruf/nlp_cse/LLM_bot/data/grad-handbook-2023.pdf', 'rb').read())
 
 documents = []
-for file in os.listdir("docs3"):
+for file in os.listdir("/home/csgrad/sunilruf/nao_server/LLM_code/docs3"):
     if file.endswith('.txt'):
-        text_path = "docs3/" + file
+        text_path = "/home/csgrad/sunilruf/nao_server/LLM_code/docs3/" + file
         loader = TextLoader(text_path)
         documents.extend(loader.load())
-for file in os.listdir("data"):
+for file in os.listdir("/home/csgrad/sunilruf/nao_server/LLM_code/data"):
     if file.endswith(".pdf"):
-        pdf_path = "data/" + file
+        pdf_path = "/home/csgrad/sunilruf/nao_server/LLM_code/data/" + file
         loader = PyPDFLoader(pdf_path)
         documents.extend(loader.load())
 text_splitter = CharacterTextSplitter(chunk_size=4000, chunk_overlap=10)

@@ -1,0 +1,136 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Graduate Catalog
+2023-2024 Graduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Graduate School Policies and Procedures
+A-Z Program List
+Courses
+Department/Program
+Degree Level
+Accreditations
+Class Schedule
+myUB
+a
+Computational and Data Enabled Sciences PhD
+The Computational and Data Enabled Sciences PhD addresses pressing research challenges across various fields, such as materials modeling and design, natural disasters, smart electric grids, and medical technologies, by integrating large-scale computing and big data analysis. Through the collaboration of faculty members from departments including Mechanical and Aerospace Engineering, Chemical and Biological Engineering, Computer Science and Engineering, Math, Physics, and Chemistry, the program trains scientists to effectively analyze big data and multisource datasets. By combining expertise in computing, data sciences, and domain sciences, students are equipped with the necessary skills to tackle complex problems and solve grand challenges in their respective fields.
+Apply Now
+Request More Information
+Curriculum
+Required Core (27 credits)
+A minimum of 9 credits hours from the approved list of core classes must be taken in each area. One category must have 12 credit hours completed. The core course requirements total 30 credits, with a minimum GPA of 3.2 on a 4.0 scale. Courses taken during your master’s program may be transferred and used toward this requirement, with the approval of your dissertation committee and the Graduate Director. We strongly suggest you finish this coursework within the first two years of the program.
+Data Science
+CSE 535LEC - Information Retrieval Credits: 3
+CSE 573LEC - Introduction to Computer Vision and Image Processing Credits: 3
+CSE 574LEC - Introduction to Machine Learning Credits: 3
+CSE 674LEC - Advanced Machine Learning Credits: 3
+CSE 704SEM - Seminars Credits: 1 - 3 : Big Data
+CSE 740SEM - Seminars Credits: 1 - 3 : Big Data / Machine Learning
+EE 634 - Principles of Information Theory and Coding  Credits: 3
+IE 512LEC - Decision Analysis Credits: 3
+MAE 674LEC - Optimal Estimation Method Credits: 3
+MAE 701LEC - Special Topics Credits: 3 : Bayesian Methods in Engineering Applications
+STA 502LEC - Intro Stat Inference Credits: 3
+STA 503LEC - Introduction to Applied Statistics I Credits: 3
+STA 521REC - Intro Theoretical Stat 1 Credits: 1
+STA 522LEC - Intro Theoretical Stat 2 Credits: 3
+STA 522REC - Intro Theoretical Stat 2 Credits: 1
+STA 534 - Design of Experiments
+STA 536LEC - Exper Design & Anal Credits: 3
+STA 567LEC - Bayesian Statist Anal Credits: 3
+Applied Numerical Mathematics
+CDA 600SEM - Special Topics Credits: 1 - 3 :  Functional Analysis
+CSE 531LEC - Analysis of Algorithms I Credits: 3
+EE 634 - Principles of Information Theory and Coding  Credits: 3
+IE 572LEC - Linear Programming Credits: 3
+IE 575LEC - Stochastic Methods Credits: 3
+MAE 702LEC - Special Topics Credits: 3
+MGF 696LEC - Portfolio Theory and Strategy Credits: 3
+MTH 537LEC - Intro Numeric Analysis 1 Credits: 3
+MTH 538LEC - Intro Numeric Analysis 2 Credits: 3
+MTH 539LEC - Method of Applied Math 1 Credits: 3
+MTH 540LEC - Method of Applied Math 2 Credits: 3
+MTH 550LEC - Network Theory Credits: 3
+MTH 555LEC - Introduction to Complex Systems Credits: 3
+MTH 631LEC - Analysis Credits: 3
+MTH 637LEC - Adv Numerical Analysis 1 Credits: 3
+MTH 649LEC - Partial Differential Equa Credits: 3
+High Performance and Data Intensive Computing
+CDA 609LEC - High Perform Computing 1 Credits: 3
+CDA 610LEC - High Performance Computing II Credits: 3
+CSE 562LEC - Database Systems Credits: 3
+CSE 570LEC - Introduction to Parallel and Distributed Processing Credits: 3
+CSE 587LEC - Data Intensive Computing Credits: 3
+CSE 603LEC - Parallel and Distributed Processing Credits: 3
+CSE 620LEC - Adv Network Concepts Credits: 3
+MTH 548LEC - Data-oriented Computing Credits: 3
+Elective Courses (3-15 credits)
+Choose at least 3 credits from any sub-discipline:
+Data Science
+CSE 555LEC - Introduction to Pattern Recognition Credits: 3
+CSE 674LEC - Advanced Machine Learning Credits: 3
+MAE 700 - Bayesian Methods in Engineering Applications  Credits: 3
+STA 504LEC - Introduction to Applied Statistics II Credits: 3
+STA 515LEC - Distributn Free Inference Credits: 3
+STA 517LEC - Categorical Data Analysis Credits: 3
+STA 522LEC - Intro Theoretical Stat 2 Credits: 3
+STA 551LEC - Stochastic Processes Credits: 3
+STA 561LEC - Longitudinal Data Analysis Credits: 3
+STA 581LEC - Multivar Data Analysis Credits: 3
+Applied Numerical Mathematics
+CE 530LEC - Molecular Modeling Credits: 3
+IE 576LEC - Applied Stochastic Proc Credits: 3
+IE 671LEC - Nonlinear Programming Credits: 3
+IE 675LEC - Game Theory Credits: 3
+MAE 529LEC - Finite Element Struc Anal Credits: 3
+MAE 540LEC - Computational Fluid Dynamics 2 Credits: 3
+MAE 541LEC - Topics Finite Elements Credits: 3
+MTH 544LEC - Fundamen Applied Math 2 Credits: 3
+MTH 549LEC - Intro Partl Diff Equatns Credits: 3
+MTH 551 - Probability Theory  Credits: 3
+MTH 632LEC - Analysis Credits: 3
+MTH 638LEC - Adv Numerical Analysis 2 Credits: 3
+MTH 731LEC - Functional Analysis Credits: 3
+High Performance and Data Intensive Computing
+CDA 601TUT - Individual Problems Credits: 1 - 3
+IE 551LEC - Simulation & Stochastic Methods Credits: 3
+MAE 610LEC - High Perform Computing 2 Credits: 3
+STA 545LEC - Statistical Data Mining I Credits: 3
+STA 546LEC - Data Mining II Credits: 3
+Culminating Experience (0-12 credits)
+MAE 660TUT - Dissertation Credits: 1 - 12
+MAE 699TUT - Supervised Research Credits: 1 - 12
+Total Credit Hours: 72
+3.0 Degree GPA required
+Instruction Method
+In Person (100 percent of courses offered in person)
+Full/Part Time Options
+Full Time
+Credits Required
+72 Hours
+Time-To-Degree
+4 to 5+ Years
+Application Fee
+$85
+Admissions Tests**
+GRE
+Program Contact
+School of Engineering and Applied Sciences
+Office of Graduate Education
+415 Bonner Hall
+Buffalo, NY 14260
+Email: gradeng@buffalo.edu
+SED Statement
+This program is officially registered with the New York State Education Department (SED).
+Online programs/courses may require students to come to campus on occasion. Time-to-degree and number of credit hours may vary based on full/part time status, degree, track and/or certification option chosen. Time-to-degree is based on calendar year(s). Contact the department for details.
+** At least one of the admissions tests are required for admission. Test and score requirements/exceptions vary by program. Contact the department for details.
+Return to: Department/Program
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2024 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

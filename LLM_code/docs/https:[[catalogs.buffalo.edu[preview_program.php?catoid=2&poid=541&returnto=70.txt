@@ -1,0 +1,116 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Graduate Catalog
+2023-2024 Graduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Graduate School Policies and Procedures
+A-Z Program List
+Courses
+Department/Program
+Degree Level
+Accreditations
+Class Schedule
+myUB
+a
+Media Arts and Sciences MS
+This program is ideal for students who wish to explore the intersection of the quantitative procedures of STEM fields (Science, Technology, Engineering and Math) and the qualitative practices of art and design. We combine design thinking with engineering procedures to address challenges that span multiple problem domains. Graduates will be well suited for positions in design, usability, and user-facing engineering as well as the increasingly prevalent number of computational- and media-focused PhD programs emphasizing a combination of theoretical and practical application. 
+Apply Now
+Request More Information
+Required Courses (15 credits)
+DMS 550LEC - Physical Computing Credits: 3
+DMS 551LEC - Networked Media Credits: 3
+DMS 570SEM - Media Theory Credits: 3
+DMS 605LEC - Special Topics Credits: 3
+DMS 605 Course Title: Computational Media
+CSE 503LR - Computer Science for Non Majors Credits: 3
+Electives (15 credits)
+DMS/ART Elective (3 credits)
+Select 1 from:
+DMS 518LEC - Special Topics Credits: 3
+DMS 523SEM - Programming Graphics 1 Credits: 4
+DMS 562SEM - Game Design Credits: 3
+DMS 563SEM - Electronic Literature Credits: 3
+DMS 606LEC - Special Topics Credits: 3
+DMS 606 Course Title: Sound and Space
+DMS 606SEM - Special Topics Credits: 3
+DMS 606 Course Title: Code and Space
+ART 564LAB - Biological Art Credits: 3
+ART 589LAB - Real-Space Electronic Art Credits: 3
+STEM Electives (12 credits)
+Select 4 from:
+Computer Science and Engineering
+CSE 534LEC - Multimedia Systems Credits: 3
+CSE 555LEC - Introduction to Pattern Recognition Credits: 3
+CSE 568LEC - Robotics Algorithms Credits: 3
+CSE 560LEC - Data Models and Query Languages Credits: 3
+CSE 567LEC - Computational Linguistics Credits: 3
+CSE 573LEC - Introduction to Computer Vision and Image Processing Credits: 3
+CSE 574LEC - Introduction to Machine Learning Credits: 3
+CSE 587LEC - Data Intensive Computing Credits: 3
+CSE 589LEC - Modern Network Concepts Credits: 3
+CSE 601LEC - Data Mining and Bioinformatics Credits: 3
+CSE 667LEC - Advanced Topics in Computational Linguistics Credits: 3
+CSE 668LEC - Advanced Robotics Credits: 3
+CSE 674LEC - Advanced Machine Learning Credits: 3
+CSE 676LEC - Deep Learning Credits: 3
+Bioinformatics and Biostatistics
+STA 502LEC - Intro Stat Inference Credits: 3
+STA 503LEC - Introduction to Applied Statistics I Credits: 3
+STA 511LEC - Advanced Statistical Computing Credits: 3
+STA 525LEC - Stats for Bioinformatics Credits: 3
+Biology
+BIO 500LLB - Bioinformatics/Genome Anal Credits: 4
+BIO 519LEC - Bioinformatics & Comp Bio Credits: 3
+BIO 550LEC - Human Evolutionary Genomics Credits: 3
+Geography
+GEO 506LLB - Geographical Informat Sys Credits: 4
+GEO 575LEC - GIS Data Science Project Management Credits: 3
+GEO 605LEC - Spatial Statistics Credits: 3
+Mathematics
+MTH 563LEC - Topics in Applied Math Credits: 3
+Electrical Engineering
+EE 539LEC - Princ Infor Theory & Cod Credits: 3
+EE 701LLB - Special Topics Credits: 3
+Engineering and Applied Sciences
+EAS 503LEC - Programming and Database Fundamentals for Data Scientists Credits: 3
+Industrial and Systems Engineering
+IE 511LEC - Social Network Behavior Models Credits: 3
+IE 551LEC - Simulation & Stochastic Methods Credits: 3
+IE 552LEC - Multisensor Info Fusion Credits: 3
+IE 553LEC - High Level Info Fusion Credits: 3
+Project and Thesis (6 credits)
+DMS 598TUT - Project Supervision Credits: 1 - 4
+DMS 700TUT - Thesis Guidance Credits: 1 - 4
+Total Credit Hours: 36
+3.0 Degree GPA required
+  Instruction Method
+In Person (100 percent of courses offered in person)
+Full/Part Time Options
+Full Time
+Part Time
+Credits Required
+36 Hours
+Time-To-Degree
+2 Years
+Application Fee
+$75
+Program Contact
+Maria Portera
+380 Academic Center
+Buffalo, NY 14261
+Email: mportera@buffalo.edu
+Phone: 716-645-6242
+Fax: 716-645-3808
+SED Statement
+This program is officially registered with the New York State Education Department (SED).
+Online programs/courses may require students to come to campus on occasion. Time-to-degree and number of credit hours may vary based on full/part time status, degree, track and/or certification option chosen. Time-to-degree is based on calendar year(s). Contact the department for details.
+Return to: Department/Program
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2024 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).

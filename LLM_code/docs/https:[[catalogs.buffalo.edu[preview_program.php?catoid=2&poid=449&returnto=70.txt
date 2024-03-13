@@ -1,0 +1,87 @@
+Degree & Course Catalog
+      University at Buffalo Catalogs
+2023-2024 Undergraduate Catalog
+2023-2024 Graduate Catalog
+2023-2024 Graduate Catalog
+Catalog Search
+S
+earch
+Advanced Search
+Catalog Home
+Graduate School Policies and Procedures
+A-Z Program List
+Courses
+Department/Program
+Degree Level
+Accreditations
+Class Schedule
+myUB
+a
+Engineering Science MS: Artificial Intelligence Focus
+This Engineering Sciences MS with a course focus on Artificial Intelligence (AI) is a multidisciplinary program designed to train students in the areas of machine learning, programming languages, deep learning algorithms, and advanced artificial neural networks that use predictive analytics to solve real-world problems. Students in this program take foundational courses in AI and can choose from elective concentrations like data analytics, computational linguistics and information retrieval, machine learning and computer vision, knowledge representation, and robotics.
+Apply Now
+Request More Information
+Required Core (24 credits)
+CSE 531LEC - Analysis of Algorithms I Credits: 3
+CSE 546LEC - Reinforcement Learning Credits: 3
+CSE 555LEC - Introduction to Pattern Recognition Credits: 3
+CSE 574LEC - Introduction to Machine Learning Credits: 3
+CSE 587LEC - Data Intensive Computing Credits: 3
+EAS 501LEC - Introduction to Numerical Mathematics for Computing and Data Science Credits: 3
+EAS 595LEC - Special Topics Credits: 3
+EAS 595: Course Title: Fundamentals of Artificial Intelligence 
+ CSE 573LEC - Introduction to Computer Vision and Image Processing Credits: 3
+or
+CSE 635LEC - Natural Language Processing and Text Mining Credits: 3
+Electives & Culminating Experience (6 credits)
+Electives (3-6 credits)
+Number of elective credits may vary depending on choice of culminating experience. Be sure to complete enough elective credit to reach 30 minimum total credit hours. 
+CE 551LEC - Computer-Aided Research in the Chemical and Materials Sciences Credits: 3
+CSE 522LEC - Object Oriented Analysis, Design and Implementation Credits: 3
+CSE 535LEC - Information Retrieval Credits: 3
+CSE 563LEC - Knowledge Representation Credits: 3
+CSE 567LEC - Computational Linguistics Credits: 3
+CSE 568LEC - Robotics Algorithms Credits: 3
+CSE 573LEC - Introduction to Computer Vision and Image Processing Credits: 3
+CSE 574LEC - Introduction to Machine Learning Credits: 3
+CSE 600TUT - Project Guidance Credits: 1 - 3
+CSE 601LEC - Data Mining and Bioinformatics Credits: 3
+CSE 635LEC - Natural Language Processing and Text Mining Credits: 3
+CSE 676LEC - Deep Learning Credits: 3
+EE 539LEC - Princ Infor Theory & Cod Credits: 3
+EE 559LEC - Special Topics Credits: 3
+IE 535LEC - Human Centered Design for Interactive Systems Credits: 3
+MAE 502LEC - Special Topics Credits: 3
+MAE 527LEC - Special Topics Credits: 3
+MAE 593LEC - Robotics I Credits: 3
+MAE 600LEC - Advanced Topics Credits: 3
+MAE 609LEC - High Perform Computing 1 Credits: 3
+Culminating Experience:Exam or Project (0-3 credits)
+EAS 563TUT - Artificial Intelligence Capstone Credits: 1 - 3
+Total Credit Hours: 30
+3.0 Degree GPA required
+  Instruction Method
+In Person (100 percent of courses offered in person)
+Full/Part Time Options
+Full Time
+Part Time
+Credits Required
+30 Hours
+Time-To-Degree
+1.5 to 2 Years
+Application Fee
+$85
+Program Contact
+School of Engineering and Applied Sciences
+Office of Graduate Education
+415 Bonner Hall
+Buffalo, NY 14260
+Email: gradeng@buffalo.edu
+SED Statement
+This program is officially registered with the New York State Education Department (SED).
+Online programs/courses may require students to come to campus on occasion. Time-to-degree and number of credit hours may vary based on full/part time status, degree, track and/or certification option chosen. Time-to-degree is based on calendar year(s). Contact the department for details.
+Return to: Department/Program
+
+a
+© 2023 University at Buffalo. All rights reserved. | Privacy | Accessibility
+All catalogs © 2024 University at Buffalo. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).
