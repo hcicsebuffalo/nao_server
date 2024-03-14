@@ -414,6 +414,33 @@ def complete():
             }
         return out
     
+    if ("nao" in result["text"].lower() or "now" in result["text"].lower()) and "toggle" in result["text"].lower():
+        out = {
+            "Auth": True,
+            "Sim": float(distance),
+            "Request": result['text'],
+            "func": "AIKO",
+            "arg": None,
+            "time ar": time_ar,
+            "time trans": time_trans,
+            "time_gpt": None,
+            "toggle" : True
+            }
+        return out
+    
+    if ("kai" in result["text"].lower() or "pepper" in result["text"].lower() or "paper" in result["text"].lower()) and "toggle" in result["text"].lower():
+        out = {
+            "Auth": True,
+            "Sim": float(distance),
+            "Request": result['text'],
+            "func": "KAI",
+            "arg": None,
+            "time ar": time_ar,
+            "time trans": time_trans,
+            "time_gpt": None,
+            "toggle" : True
+            }
+        return out
     
 
     # -----------------

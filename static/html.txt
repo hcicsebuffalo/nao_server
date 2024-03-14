@@ -34,13 +34,13 @@
                 </style>
             </head>
             <body>
-            <h1> Can you tell our new undergrad students something about...</h1>
+            <h1> to GPT.</h1>
             <div class="container">
                             <div class="text">
-                <p><br> <br>  Sure thing! Here's some information about...<br><br>Question: What is AAS 568SEM - Introduction to Teaching Undergraduates?<br><br>Please select one of the following options to indicate your answer:<br><br>A) It's a course that teaches undergraduate students how to teach other undergraduate students.<br>B) It's a course that teaches graduate students how to teach undergraduate students.<br>C) It's a course that teaches both undergraduate and graduate students how to teach undergraduate students.<br>D) It's a course that teaches undergraduate students how to teach other undergraduate students, but only if they are also graduate students.<br><br>Please select one of the above options by clicking on the corresponding letter. <br><br> Please find the source: <br></p>
+                <p><br> <br>  Sure! Here is the answer to your question based on the provided information:<br><br>The Physical Therapy DPT program at the University at Buffalo offers a 3+3 combined Exercise Science BS/DPT program and a traditional 4+3 program. The program is fully accredited and takes three years to complete. The curriculum includes courses such as Professional Development, Medical Science, Evidence-Based Practice, and Clinical Experience. The program also requires a clinical internship and a research project. The application fee is $50, and the GRE is required for admission. The program is open to both domestic and international students. <br><br> Please find the source: <br></p>
                 <br>
             
-                <a href = https://catalogs.buffalo.edu/preview_course_nopop.php?catoid=2&coid=4362> https://catalogs.buffalo.edu/preview_course_nopop.php?catoid=2&coid=4362 </a>
+                <a href = https://catalogs.buffalo.edu/preview_program.php?catoid=2&poid=596&returnto=70> https://catalogs.buffalo.edu/preview_program.php?catoid=2&poid=596&returnto=70 </a>
                 </div>
                 <img src="static/output_img1.png">
                 </div>
