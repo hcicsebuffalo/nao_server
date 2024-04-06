@@ -34,13 +34,13 @@
                 </style>
             </head>
             <body>
-            <h1> to GPT.</h1>
+            <h1> What do you have to say for an undergraduate student joining University at Buffalo?</h1>
             <div class="container">
                             <div class="text">
-                <p><br> <br>  Sure! Here is the answer to your question based on the provided information:<br><br>The Physical Therapy DPT program at the University at Buffalo offers a 3+3 combined Exercise Science BS/DPT program and a traditional 4+3 program. The program is fully accredited and takes three years to complete. The curriculum includes courses such as Professional Development, Medical Science, Evidence-Based Practice, and Clinical Experience. The program also requires a clinical internship and a research project. The application fee is $50, and the GRE is required for admission. The program is open to both domestic and international students. <br><br> Please find the source: <br></p>
+                <p><br> <br>  As an undergraduate student joining University at Buffalo, you will be part of a vibrant academic community with a diverse range of programs and opportunities. The university is known for its strong research focus and commitment to providing students with practical learning experiences. You will have access to state-of-the-art facilities and resources, as well as a supportive network of faculty, staff, and peers. Additionally, the university's location in Buffalo offers a unique blend of urban and natural environments, providing ample opportunities for exploration and discovery. <br><br> Please find the source: <br></p>
                 <br>
             
-                <a href = https://catalogs.buffalo.edu/preview_program.php?catoid=2&poid=596&returnto=70> https://catalogs.buffalo.edu/preview_program.php?catoid=2&poid=596&returnto=70 </a>
+                <a href = https://catalogs.buffalo.edu/preview_program.php?catoid=1&poid=317&returnto=85> https://catalogs.buffalo.edu/preview_program.php?catoid=1&poid=317&returnto=85 </a>
                 </div>
                 <img src="static/output_img1.png">
                 </div>

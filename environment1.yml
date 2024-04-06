@@ -25,9 +25,9 @@ dependencies:
   - brotlipy=0.7.0=py311h5eee18b_1002
   - bzip2=1.0.8=h7b6447c_0
   - c-ares=1.19.1=h5eee18b_0
-  - ca-certificates=2023.11.17=hbcca054_0
+  - ca-certificates=2023.12.12=h06a4308_0
   - cairo=1.16.0=hb05425b_5
-  - certifi=2023.11.17=pyhd8ed1ab_0
+  - certifi=2024.2.2=py311h06a4308_0
   - cffi=1.15.1=py311h5eee18b_3
   - charset-normalizer=2.0.4=pyhd3eb1b0_0
   - click=8.1.7=unix_pyh707e725_0
@@ -41,6 +41,7 @@ dependencies:
   - cuda-nvtx=11.8.86=0
   - cuda-opencl=12.3.101=0
   - cuda-runtime=11.8.0=0
+  - cudatoolkit=11.7.0=hd8887f6_10
   - cycler=0.11.0=pyhd3eb1b0_0
   - debugpy=1.6.7=py311h6a678d5_0
   - decorator=5.1.1=pyhd3eb1b0_0
@@ -173,8 +174,6 @@ dependencies:
   - python-dateutil=2.8.2=pyhd3eb1b0_0
   - python-tzdata=2023.3=pyhd3eb1b0_0
   - python_abi=3.11=2_cp311
-  - pytorch=2.2.0=py3.11_cuda11.8_cudnn8.7.0_0
-  - pytorch-cuda=11.8=h7e8668a_5
   - pytorch-mutex=1.0=cuda
   - pytz=2023.3.post1=py311h06a4308_0
   - pyyaml=6.0.1=py311h5eee18b_0
@@ -191,9 +190,6 @@ dependencies:
   - sympy=1.11.1=py311h06a4308_0
   - tbb=2021.8.0=hdb19cb5_0
   - tk=8.6.12=h1ccaba5_0
-  - torchaudio=2.2.0=py311_cu118
-  - torchtriton=2.2.0=py311
-  - torchvision=0.17.0=py311_cu118
   - tornado=6.3.3=py311h5eee18b_0
   - traitlets=5.7.1=py311h06a4308_0
   - twilio=8.9.0=pyhd8ed1ab_0
@@ -233,11 +229,12 @@ dependencies:
       - docstring-parser==0.15
       - easydict==1.12
       - einops==0.7.0
+      - facenet-pytorch==2.5.3
       - faiss-cpu==1.7.4
       - fastapi==0.104.1
       - flask==3.0.0
       - flatbuffers==23.5.26
-      - fsspec==2023.10.0
+      - fsspec==2024.2.0
       - googlemaps==4.10.0
       - greenlet==3.0.1
       - httpcore==1.0.2
@@ -271,17 +268,28 @@ dependencies:
       - mypy-extensions==1.0.0
       - nltk==3.8.1
       - numba==0.59.0
+      - nvidia-cublas-cu11==11.11.3.6
       - nvidia-cublas-cu12==12.1.3.1
+      - nvidia-cuda-cupti-cu11==11.8.87
       - nvidia-cuda-cupti-cu12==12.1.105
+      - nvidia-cuda-nvrtc-cu11==11.8.89
       - nvidia-cuda-nvrtc-cu12==12.1.105
+      - nvidia-cuda-runtime-cu11==11.8.89
       - nvidia-cuda-runtime-cu12==12.1.105
+      - nvidia-cudnn-cu11==8.7.0.84
       - nvidia-cudnn-cu12==8.9.2.26
+      - nvidia-cufft-cu11==10.9.0.58
       - nvidia-cufft-cu12==11.0.2.54
+      - nvidia-curand-cu11==10.3.0.86
       - nvidia-curand-cu12==10.3.2.106
+      - nvidia-cusolver-cu11==11.4.1.48
       - nvidia-cusolver-cu12==11.4.5.107
+      - nvidia-cusparse-cu11==11.7.5.86
       - nvidia-cusparse-cu12==12.1.0.106
+      - nvidia-nccl-cu11==2.19.3
       - nvidia-nccl-cu12==2.19.3
       - nvidia-nvjitlink-cu12==12.3.101
+      - nvidia-nvtx-cu11==11.8.86
       - nvidia-nvtx-cu12==12.1.105
       - omegaconf==2.3.0
       - onnx==1.15.0
@@ -300,6 +308,7 @@ dependencies:
       - primepy==1.3
       - protobuf==3.20.3
       - pvporcupine==2.2.0
+      - py-cpuinfo==9.0.0
       - pyannote-audio==3.1.1
       - pyannote-database==5.0.1
       - pyannote-metrics==3.2.1
@@ -323,6 +332,7 @@ dependencies:
       - safetensors==0.4.0
       - scikit-image==0.22.0
       - scikit-learn==1.3.2
+      - seaborn==0.13.2
       - semver==3.0.2
       - sentence-transformers==2.2.2
       - sentencepiece==0.1.99
@@ -337,21 +347,27 @@ dependencies:
       - tabulate==0.9.0
       - tenacity==8.2.3
       - tensorboardx==2.6.2.2
+      - thop==0.1.1-2209072238
       - threadpoolctl==3.2.0
       - tifffile==2024.2.12
       - tiktoken==0.6.0
+      - timm==0.9.16
       - tokenizers==0.13.3
-      - torch==2.2.0
+      - torch==2.2.1+cu118
       - torch-audiomentations==0.11.1
       - torch-pitch-shift==1.2.4
+      - torchaudio==2.2.1+cu118
       - torchmetrics==1.3.1
+      - torchvision==0.17.1+cu118
       - tqdm==4.66.1
-      - transformers==4.30.0
+      - transformers==4.33.3
+      - triton==2.2.0
       - trl==0.7.10
       - typer==0.9.0
       - typing-extensions==4.8.0
       - typing-inspect==0.9.0
       - tyro==0.7.0
+      - ultralytics==8.1.27
       - werkzeug==3.0.1
       - xxhash==3.4.1
-prefix: /home/csgrad/sunilruf/miniconda3/envs/bio1
+prefix: /home/csgrad/yadvende/miniconda3/envs/bio1

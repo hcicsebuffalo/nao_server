@@ -7,8 +7,9 @@ import json
 # Context file path
 context_file_path = "context.txt"
 
-openai_key = os.environ["MAIN_KEY"]
-map_key = os.environ["MAP_KEY"]
+openai_key = os.environ["OPENAI_API_KEY"]
+#map_key = os.environ["MAP_KEY"]
+map_key = "AIzaSyBSzuBsxSo0GGO_5_NDCID2mhHSyYdlejc"
 
 def read_text_file(file_path):
     with open(file_path, 'r') as file:
